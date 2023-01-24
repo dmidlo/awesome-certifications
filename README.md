@@ -1,236 +1,42 @@
 # Awesome Certifications
 
-##  1. <a name='Outline'></a>Outline
+## Outline
 
-<!-- vscode-markdown-toc -->
-* 1. [Outline](#Outline)
-	* 1.1. [Programming Languages](#ProgrammingLanguages)
-		* 1.1.1. [Assembly Language](#AssemblyLanguage)
-		* 1.1.2. [F#](#F)
-		* 1.1.3. [PHP](#PHP)
-		* 1.1.4. [Swift](#Swift)
-		* 1.1.5. [Go](#Go)
-		* 1.1.6. [Rust](#Rust)
-		* 1.1.7. [R](#R)
-		* 1.1.8. [Julia](#Julia)
-		* 1.1.9. [HTML](#HTML)
-		* 1.1.10. [CSS](#CSS)
-		* 1.1.11. [Perl](#Perl)
-		* 1.1.12. [Dart](#Dart)
-		* 1.1.13. [Kotlin](#Kotlin)
-		* 1.1.14. [Scala](#Scala)
-		* 1.1.15. [Matlab](#Matlab)
-		* 1.1.16. [Clojure](#Clojure)
-		* 1.1.17. [Elixir](#Elixir)
-		* 1.1.18. [Haskell](#Haskell)
-		* 1.1.19. [Erlang](#Erlang)
-		* 1.1.20. [JavaScript](#JavaScript)
-		* 1.1.21. [Ruby](#Ruby)
-		* 1.1.22. [Python](#Python)
-		* 1.1.23. [TypeScript](#TypeScript)
-		* 1.1.24. [Java](#Java)
-		* 1.1.25. [C](#C)
-		* 1.1.26. [C++](#C-1)
-		* 1.1.27. [C#](#C-1)
-	* 1.2. [Cloud](#Cloud)
-		* 1.2.1. [Dell Technologies](#DellTechnologies)
-		* 1.2.2. [Nutanix](#Nutanix)
-		* 1.2.3. [Microsoft Azure](#MicrosoftAzure)
-		* 1.2.4. [Amazon Web Services](#AmazonWebServices)
-		* 1.2.5. [Google Cloud Platform](#GoogleCloudPlatform)
-		* 1.2.6. [Salesforce](#Salesforce)
-		* 1.2.7. [Oracle - Cloud](#Oracle-Cloud)
-		* 1.2.8. [SAP](#SAP)
-		* 1.2.9. [IBM](#IBM)
-		* 1.2.10. [Cloudera](#Cloudera)
-		* 1.2.11. [Databricks](#Databricks)
-		* 1.2.12. [Alibaba Cloud](#AlibabaCloud)
-		* 1.2.13. [HashiCorp](#HashiCorp)
-		* 1.2.14. [RedHat](#RedHat)
-		* 1.2.15. [ServiceNow](#ServiceNow)
-		* 1.2.16. [GAQM - Global Association for Quality Management - Cloud](#GAQM-GlobalAssociationforQualityManagement-Cloud)
-		* 1.2.17. [Shopify](#Shopify)
-		* 1.2.18. [Wordpress](#Wordpress)
-		* 1.2.19. [SquareSpace](#SquareSpace)
-		* 1.2.20. [Wix](#Wix)
-		* 1.2.21. [Webflow](#Webflow)
-	* 1.3. [Security](#Security)
-		* 1.3.1. [Dell Technologies - Security](#DellTechnologies-Security)
-		* 1.3.2. [CSA - Cloud Security Alliance](#CSA-CloudSecurityAlliance)
-		* 1.3.3. [CertNexus](#CertNexus)
-		* 1.3.4. [(ISC)^2](#ISC2)
-		* 1.3.5. [CompTIA](#CompTIA)
-		* 1.3.6. [CIW](#CIW)
-		* 1.3.7. [EC-Council](#EC-Council)
-		* 1.3.8. [ISACA](#ISACA)
-		* 1.3.9. [SECO-INSTITUTE](#SECO-INSTITUTE)
-		* 1.3.10. [Identity Management Institute](#IdentityManagementInstitute)
-		* 1.3.11. [SANS Institute](#SANSInstitute)
-		* 1.3.12. [Offensive Security](#OffensiveSecurity)
-		* 1.3.13. [eLearnSecurity](#eLearnSecurity)
-		* 1.3.14. [IAPP - International Association of Privacy Professionals](#IAPP-InternationalAssociationofPrivacyProfessionals)
-		* 1.3.15. [The Open Group](#TheOpenGroup)
-		* 1.3.16. [Logical Operations](#LogicalOperations)
-		* 1.3.17. [GAQM - Global Association for Quality Management - Security](#GAQM-GlobalAssociationforQualityManagement-Security)
-	* 1.4. [Databases](#Databases)
-		* 1.4.1. [CIW - Databases](#CIW-Databases)
-		* 1.4.2. [NoSQL](#NoSQL)
-		* 1.4.3. [SQL](#SQL)
-		* 1.4.4. [Blockchain](#Blockchain)
-		* 1.4.5. [Big Data](#BigData)
-		* 1.4.6. [GAQM - Global Association for Quality Management - Big Data](#GAQM-GlobalAssociationforQualityManagement-BigData)
-	* 1.5. [DevOps](#DevOps)
-		* 1.5.1. [Atlassian](#Atlassian)
-		* 1.5.2. [Dell Technologies - DevOps](#DellTechnologies-DevOps)
-		* 1.5.3. [DataDog](#DataDog)
-		* 1.5.4. [NewRelic](#NewRelic)
-		* 1.5.5. [VMware](#VMware)
-		* 1.5.6. [Oracle - DevOps](#Oracle-DevOps)
-		* 1.5.7. [Hewlett Packard Enterprise](#HewlettPackardEnterprise)
-		* 1.5.8. [The Linux Foundation - DevOps](#TheLinuxFoundation-DevOps)
-		* 1.5.9. [OpenStack](#OpenStack)
-		* 1.5.10. [Puppet](#Puppet)
-		* 1.5.11. [Chef](#Chef)
-		* 1.5.12. [Docker](#Docker)
-		* 1.5.13. [DevOps Institute](#DevOpsInstitute)
-		* 1.5.14. [GAQM - Global Association for Quality Management - DevOps](#GAQM-GlobalAssociationforQualityManagement-DevOps)
-		* 1.5.15. [Gitlab](#Gitlab)
-		* 1.5.16. [Jenkins](#Jenkins)
-		* 1.5.17. [Github](#Github)
-		* 1.5.18. [GitKraken](#GitKraken)
-		* 1.5.19. [Slack](#Slack)
-	* 1.6. [Software Development](#SoftwareDevelopment)
-		* 1.6.1. [ISTQB/ASTQB - International/American Software Testing Qualification Board](#ISTQBASTQB-InternationalAmericanSoftwareTestingQualificationBoard)
-		* 1.6.2. [CertNexus - Software Development](#CertNexus-SoftwareDevelopment)
-		* 1.6.3. [IEEE](#IEEE)
-		* 1.6.4. [The Open Group - Software Development](#TheOpenGroup-SoftwareDevelopment)
-		* 1.6.5. [CIW - Software Development](#CIW-SoftwareDevelopment)
-		* 1.6.6. [CompTIA - Software Development](#CompTIA-SoftwareDevelopment)
-		* 1.6.7. [ICCP - Institute for Certification of Computing Professionals - Software Development](#ICCP-InstituteforCertificationofComputingProfessionals-SoftwareDevelopment)
-		* 1.6.8. [GAQM - Global Association for Quality Management - Software Development](#GAQM-GlobalAssociationforQualityManagement-SoftwareDevelopment)
-		* 1.6.9. [IAAP - International Association of Accessibility Professionals](#IAAP-InternationalAssociationofAccessibilityProfessionals)
-		* 1.6.10. [HIPAACertification.net](#HIPAACertification.net)
-		* 1.6.11. [PCI Security Standards Council](#PCISecurityStandardsCouncil)
-		* 1.6.12. [GDPRCertificationCourses.com](#GDPRCertificationCourses.com)
-	* 1.7. [Project Management](#ProjectManagement)
-		* 1.7.1. [APM - Association for Project Management](#APM-AssociationforProjectManagement)
-		* 1.7.2. [CompTIA - Project Management](#CompTIA-ProjectManagement)
-		* 1.7.3. [Scrum.org](#Scrum.org)
-		* 1.7.4. [The Open Group - Project Management](#TheOpenGroup-ProjectManagement)
-		* 1.7.5. [Project Management Institute](#ProjectManagementInstitute)
-		* 1.7.6. [Scrum Alliance](#ScrumAlliance)
-		* 1.7.7. [GAQM - Global Association for Quality Management - Project Management](#GAQM-GlobalAssociationforQualityManagement-ProjectManagement)
-		* 1.7.8. [BVOP - Business Value-Oriented Principles](#BVOP-BusinessValue-OrientedPrinciples)
-		* 1.7.9. [IAPM - International Association of Project Managers](#IAPM-InternationalAssociationofProjectManagers)
-		* 1.7.10. [Axelos](#Axelos)
-	* 1.8. [Networking](#Networking)
-		* 1.8.1. [Dell Technologies - Networking](#DellTechnologies-Networking)
-		* 1.8.2. [F5 Networks](#F5Networks)
-		* 1.8.3. [Wireshark](#Wireshark)
-		* 1.8.4. [SolarWinds](#SolarWinds)
-		* 1.8.5. [CWNP - Certified Network Professionals](#CWNP-CertifiedNetworkProfessionals)
-		* 1.8.6. [Palo Alto Networks](#PaloAltoNetworks)
-		* 1.8.7. [Juniper](#Juniper)
-		* 1.8.8. [Cisco](#Cisco)
-		* 1.8.9. [CIW - Networking](#CIW-Networking)
-		* 1.8.10. [CompTIA - Networking](#CompTIA-Networking)
-		* 1.8.11. [Hewlett Packard Enterprise - Networking](#HewlettPackardEnterprise-Networking)
-		* 1.8.12. [Ubiquiti](#Ubiquiti)
-		* 1.8.13. [GAQM - Global Association for Quality Management - Networking](#GAQM-GlobalAssociationforQualityManagement-Networking)
-	* 1.9. [Design and User Experience](#DesignandUserExperience)
-		* 1.9.1. [Adobe](#Adobe)
-		* 1.9.2. [GAQM - Global Association for Quality Management - Design and User Experience](#GAQM-GlobalAssociationforQualityManagement-DesignandUserExperience)
-		* 1.9.3. [Nielson Norman Group](#NielsonNormanGroup)
-	* 1.10. [SEO and Social Media](#SEOandSocialMedia)
-		* 1.10.1. [CIW - SEO and Social Media](#CIW-SEOandSocialMedia)
-		* 1.10.2. [GAQM - Global Association for Quality Management - SEO and Social Media](#GAQM-GlobalAssociationforQualityManagement-SEOandSocialMedia)
-		* 1.10.3. [Semrush](#Semrush)
-		* 1.10.4. [Hubspot](#Hubspot)
-		* 1.10.5. [Clickminded](#Clickminded)
-		* 1.10.6. [Google](#Google)
-		* 1.10.7. [Moz](#Moz)
-		* 1.10.8. [Meta](#Meta)
-		* 1.10.9. [Hootsuite](#Hootsuite)
-		* 1.10.10. [Twitter](#Twitter)
-		* 1.10.11. [AMA - American Marketing Association](#AMA-AmericanMarketingAssociation)
-		* 1.10.12. [DMI - Digital Marketing Institute](#DMI-DigitalMarketingInstitute)
-		* 1.10.13. [OMCP - Online Marketing Certified Professionals](#OMCP-OnlineMarketingCertifiedProfessionals)
-	* 1.11. [Data Science](#DataScience)
-		* 1.11.1. [Dell Technologies - Data Science](#DellTechnologies-DataScience)
-		* 1.11.2. [Snowflake](#Snowflake)
-		* 1.11.3. [DataStax](#DataStax)
-		* 1.11.4. [CertNexus - Data Science](#CertNexus-DataScience)
-		* 1.11.5. [Tableau](#Tableau)
-		* 1.11.6. [dbt - Data Build Tool](#dbt-DataBuildTool)
-		* 1.11.7. [Astronomer](#Astronomer)
-		* 1.11.8. [CIW - Data Science](#CIW-DataScience)
-		* 1.11.9. [CompTIA - Data Science](#CompTIA-DataScience)
-		* 1.11.10. [The Open Group - Data Science](#TheOpenGroup-DataScience)
-		* 1.11.11. [TeraData](#TeraData)
-		* 1.11.12. [TDWI - Transforming Data with Intelligence](#TDWI-TransformingDatawithIntelligence)
-		* 1.11.13. [ICCP - Institute for Certification of Computing Professionals - Data Science](#ICCP-InstituteforCertificationofComputingProfessionals-DataScience)
-		* 1.11.14. [GAQM - Global Association for Quality Management - Data Science](#GAQM-GlobalAssociationforQualityManagement-DataScience)
-		* 1.11.15. [Certified Analytics](#CertifiedAnalytics)
-		* 1.11.16. [DASCA - Data Science Council of America](#DASCA-DataScienceCouncilofAmerica)
-		* 1.11.17. [SAS](#SAS)
-		* 1.11.18. [CollegeBoard - CLEP](#CollegeBoard-CLEP)
-	* 1.12. [FinOps](#FinOps)
-		* 1.12.1. [CFA Institute](#CFAInstitute)
-		* 1.12.2. [CFP Board](#CFPBoard)
-		* 1.12.3. [IBF - Institute of Business and Finance](#IBF-InstituteofBusinessandFinance)
-		* 1.12.4. [ACFS - American College of Financial Services](#ACFS-AmericanCollegeofFinancialServices)
-		* 1.12.5. [Investment Advisor Association](#InvestmentAdvisorAssociation)
-		* 1.12.6. [Investments and Wealth Institute](#InvestmentsandWealthInstitute)
-		* 1.12.7. [ICDC - International Economic Development Council](#ICDC-InternationalEconomicDevelopmentCouncil)
-		* 1.12.8. [NDC - National Development Council](#NDC-NationalDevelopmentCouncil)
-		* 1.12.9. [CMT Association](#CMTAssociation)
-		* 1.12.10. [AICPA - Association of International Certified Professional Accountants](#AICPA-AssociationofInternationalCertifiedProfessionalAccountants)
-		* 1.12.11. [AFP - Association for Financial Professionals](#AFP-AssociationforFinancialProfessionals)
-		* 1.12.12. [AGA - Association of Government Accountants](#AGA-AssociationofGovernmentAccountants)
-		* 1.12.13. [HFMA - Healthcare Financial Management Association](#HFMA-HealthcareFinancialManagementAssociation)
-		* 1.12.14. [ACIIA - Association Certified International Investment Analysts](#ACIIA-AssociationCertifiedInternationalInvestmentAnalysts)
-		* 1.12.15. [GAFM - Global Academy of Finance and Management](#GAFM-GlobalAcademyofFinanceandManagement)
-		* 1.12.16. [Alliance of Merger and Acquisition Advisors](#AllianceofMergerandAcquisitionAdvisors)
-		* 1.12.17. [AAFM - American Academy of Financial Management](#AAFM-AmericanAcademyofFinancialManagement)
-		* 1.12.18. [AAIFM - American Association for Investment and Financial Management](#AAIFM-AmericanAssociationforInvestmentandFinancialManagement)
-		* 1.12.19. [GARP - Global Association of Risk Professionals](#GARP-GlobalAssociationofRiskProfessionals)
-		* 1.12.20. [CFI - Corporate Finance Institute](#CFI-CorporateFinanceInstitute)
-		* 1.12.21. [CAIA - Chartered Alternative Investment Analyst Association](#CAIA-CharteredAlternativeInvestmentAnalystAssociation)
-		* 1.12.22. [The Linux Foundation - FinOps](#TheLinuxFoundation-FinOps)
-		* 1.12.23. [GAQM - Global Association for Quality Management - FinOps](#GAQM-GlobalAssociationforQualityManagement-FinOps)
-		* 1.12.24. [CollegeBoard - CLEP - FinOps](#CollegeBoard-CLEP-FinOps)
-	* 1.13. [Enterprise Architecture](#EnterpriseArchitecture)
-		* 1.13.1. [The Open Group - Enterprise Architecture](#TheOpenGroup-EnterpriseArchitecture)
-		* 1.13.2. [GAQM - Global Association for Quality Management - Enterprise Architecture](#GAQM-GlobalAssociationforQualityManagement-EnterpriseArchitecture)
-	* 1.14. [Software Testing](#SoftwareTesting)
-		* 1.14.1. [GAQM - Global Association for Quality Management - Software Testing](#GAQM-GlobalAssociationforQualityManagement-SoftwareTesting)
-	* 1.15. [Liberal Arts](#LiberalArts)
-		* 1.15.1. [CollegeBoard - CLEP - Liberal Arts](#CollegeBoard-CLEP-LiberalArts)
+- [Programming Languages](#programming-languages)
+- [Cloud](#cloud)
+- [Security](#security)
+- [Databases](#databases)
+- [DevOps](#devops)
+- [Software Development](#software-development)
+- [Project Management](#project-management)
+- [Networking](#networking)
+- [Design and User Experience](#design-and-user-experience)
+- [SEO and Social Media](#seo-and-social-media)
+- [Data Science](#data-science)
+- [FinOps](#finops)
+- [Enterprise Architecture](#enterprise-architecture)
+- [Software Testing](#software-testing)
+- [Liberal Arts](#liberal-arts)
 
-<!-- vscode-markdown-toc-config
-	numbering=true
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
+## Certifications
 
+### Programming Languages
 
-###  1.1. <a name='ProgrammingLanguages'></a>Programming Languages
-
-####  1.1.1. <a name='AssemblyLanguage'></a>Assembly Language
+#### Assembly Language
 
 ##### Learning Assembly Language - Linkedin Learning
 
-###### Web Assembly
+##### Web Assembly
 
-###### Armv8-M Assembly
+##### Armv8-M Assembly
 
-###### Arm64 / Aarch64
+##### Arm64 / Aarch64
 
-###### x86 Assembly
+##### x86 Assembly
 
-###### RISC-V Foundational Associate (RVFA)
+##### RISC-V Foundational Associate (RVFA)
 
-####  1.1.2. <a name='F'></a>F#
+#### F#
 
 ##### Take your first steps with F# - Microsoft Learn
 
@@ -244,7 +50,7 @@
 
 ##### Store and apply operations on list data in F# - Microsoft Learn
 
-####  1.1.3. <a name='PHP'></a>PHP
+#### PHP
 
 ##### Zend Certified PHP Engineer
 
@@ -280,7 +86,7 @@
 
 ###### Acquia Certified DAM Administrator
 
-####  1.1.4. <a name='Swift'></a>Swift
+#### Swift
 
 ##### App Development with Swift certification
 
@@ -288,13 +94,13 @@
 
 ###### App Development with Swift Certified User
 
-####  1.1.5. <a name='Go'></a>Go
+#### Go
 
 ##### Go Essential Training | LinkedIn Learning
 
 ##### Go Design Patterns Online Class | LinkedIn Learning
 
-####  1.1.6. <a name='Rust'></a>Rust
+#### Rust
 
 ##### What is Rust - Microsoft Learn
 
@@ -328,7 +134,7 @@
 
 ##### Rust Tips and Tricks - Linkedin Learning
 
-####  1.1.7. <a name='R'></a>R
+#### R
 
 ##### Explore and analyze data with R - Microsoft Learn
 
@@ -386,7 +192,7 @@
 
 ##### Healthcare Analytics: Regression in R - Linkedin Learning
 
-####  1.1.8. <a name='Julia'></a>Julia
+#### Julia
 
 ##### Learning Julia - Linkedin Learning
 
@@ -408,7 +214,7 @@
 
 ##### Decision Making Under Uncertainty with POMDPs.jl - Julia Academy
 
-####  1.1.9. <a name='HTML'></a>HTML
+#### HTML
 
 ##### W3Schools HTML Certificate
 
@@ -426,7 +232,7 @@
 
 ##### Design the Web: HTML Background Video - Linkedin Learning
 
-####  1.1.10. <a name='CSS'></a>CSS
+#### CSS
 
 ##### W3Schools CSS Certificate
 
@@ -506,7 +312,7 @@
 
 ##### Building Great Forms with HTML and CSS - Linkedin Learning
 
-####  1.1.11. <a name='Perl'></a>Perl
+#### Perl
 
 ##### CIW Perl Specialist
 
@@ -516,7 +322,7 @@
 
 ##### Perl 5 Essential Training - Linkedin Learning
 
-####  1.1.12. <a name='Dart'></a>Dart
+#### Dart
 
 ##### Clean Code with Dart - Linkedin Learning
 
@@ -534,7 +340,7 @@
 
 ###### Android Certified Trainer
 
-####  1.1.13. <a name='Kotlin'></a>Kotlin
+#### Kotlin
 
 ##### Kotlin Essential Training
 
@@ -584,7 +390,7 @@
 
 ##### Android Studio Essential Training 2020
 
-####  1.1.14. <a name='Scala'></a>Scala
+#### Scala
 
 ##### Effective Programming in Scala - Coursera
 
@@ -614,23 +420,23 @@
 
 ##### Learning JVM Languages: JVM, Java, Scala
 
-####  1.1.15. <a name='Matlab'></a>Matlab
+#### Matlab
 
 ##### MathWorks Certified Matlab Associate
 
 ##### MathWorks Certified Matlab Professional
 
-####  1.1.16. <a name='Clojure'></a>Clojure
+#### Clojure
 
 ##### Code Clinic: Clojure - Linkedin Learning
 
-####  1.1.17. <a name='Elixir'></a>Elixir
+#### Elixir
 
 ##### Introduction to Elixir - Linkedin Learning
 
 ##### Elixir: The Documentary - Linkedin Learning
 
-####  1.1.18. <a name='Haskell'></a>Haskell
+#### Haskell
 
 ##### Meta-tutorial - wiki.haskell.org
 
@@ -642,11 +448,11 @@
 
 ##### learn.hfm.io
 
-####  1.1.19. <a name='Erlang'></a>Erlang
+#### Erlang
 
 ##### erlang.org/course
 
-####  1.1.20. <a name='JavaScript'></a>JavaScript
+#### JavaScript
 
 ##### W3Schools
 
@@ -684,7 +490,7 @@
 
 ###### Angular Certified Developer Level 3
 
-####  1.1.21. <a name='Ruby'></a>Ruby
+#### Ruby
 
 ##### Ruby Association Certified Ruby Programmer
 
@@ -694,7 +500,7 @@
 
 ###### Odin Project - Full Stack Ruby on Rails
 
-####  1.1.22. <a name='Python'></a>Python
+#### Python
 
 ##### PCAP - Certified Associate in Python Programming
 
@@ -718,7 +524,7 @@
 
 ###### Certified Professional Python Programmer (CPPP)
 
-####  1.1.23. <a name='TypeScript'></a>TypeScript
+#### TypeScript
 
 ##### W3Schools TypeScript Certificate
 
@@ -754,7 +560,7 @@
 
 ##### Angular on the Go: Large-Scale Projects
 
-####  1.1.24. <a name='Java'></a>Java
+#### Java
 
 ##### Oracle
 
@@ -774,19 +580,19 @@
 
 ###### Spring Certified Professional 2023
 
-####  1.1.25. <a name='C'></a>C
+#### C
 
 ##### CLA - C Programming Language Certified Associate Certification
 
 ##### CLP - C Certified Professional Programmer Certification
 
-####  1.1.26. <a name='C-1'></a>C++
+#### C++
 
 ##### CPA - C++ Certified Associate Programmer Certification
 
 ##### CPP - C++ Certified Professional Programmer Certification
 
-####  1.1.27. <a name='C-1'></a>C#
+#### C#
 
 ##### W3Schools C# Certification
 
@@ -794,9 +600,9 @@
 
 ##### Linkedin Learning
 
-###  1.2. <a name='Cloud'></a>Cloud
+### Cloud
 
-####  1.2.1. <a name='DellTechnologies'></a>Dell Technologies
+#### Dell Technologies
 
 ##### Associate - Cloud Infrastructure and Services (DCA-CIS)
 
@@ -812,7 +618,7 @@
 
 ##### Specialist - Systems Administrator, VxRail (DCS-SA)
 
-####  1.2.2. <a name='Nutanix'></a>Nutanix
+#### Nutanix
 
 ##### Nutanix Certified Associate (NCA)
 
@@ -836,7 +642,7 @@
 
 ##### Nutanix Platform Expert (NPX)
 
-####  1.2.3. <a name='MicrosoftAzure'></a>Microsoft Azure
+#### Microsoft Azure
 
 ##### Microsoft Certified: Azure Network Engineer Associate - 2 Star
 
@@ -886,7 +692,7 @@
 
 ##### Microsoft Certified: Security Operations Analyst Associate - 2 Star
 
-####  1.2.4. <a name='AmazonWebServices'></a>Amazon Web Services
+#### Amazon Web Services
 
 ##### AWS Certified Cloud Practitioner - 1 Star
 
@@ -910,7 +716,7 @@
 
 ##### AWS Certified Security - Specialty
 
-####  1.2.5. <a name='GoogleCloudPlatform'></a>Google Cloud Platform
+#### Google Cloud Platform
 
 ##### Cloud Digital Leader - 1 Star
 
@@ -936,7 +742,7 @@
 
 ##### TensorFlow Developer Certificate
 
-####  1.2.6. <a name='Salesforce'></a>Salesforce
+#### Salesforce
 
 ##### Salesforce SuperBadges
 
@@ -1120,7 +926,7 @@
 
 ###### Technical Architect
 
-####  1.2.7. <a name='Oracle-Cloud'></a>Oracle - Cloud
+#### Oracle - Cloud
 
 ##### Oracle APEX Cloud Developer Certified Specialist
 
@@ -1160,7 +966,7 @@
 
 ##### Oracle Cloud Platform Application Integration 2022 Certified Professional
 
-####  1.2.8. <a name='SAP'></a>SAP
+#### SAP
 
 ##### SAP Certified Associate - SAP Activate Project Manager
 
@@ -1418,7 +1224,7 @@
 
 ##### SAP Certified Technology Professional - System Security Architect
 
-####  1.2.9. <a name='IBM'></a>IBM
+#### IBM
 
 ##### IBM Certified Professional SRE - Cloud v2
 
@@ -1450,7 +1256,7 @@
 
 ##### IBM Certified Mobile Application Developer - Mobile Foundation V8.0
 
-####  1.2.10. <a name='Cloudera'></a>Cloudera
+#### Cloudera
 
 ##### CDP Generalist
 
@@ -1460,7 +1266,7 @@
 
 ##### CDP Data Analyst
 
-####  1.2.11. <a name='Databricks'></a>Databricks
+#### Databricks
 
 ##### Databricks Certified Data Analyst Associate
 
@@ -1478,7 +1284,7 @@
 
 ##### Databricks Certified Hadoop Migration Architect
 
-####  1.2.12. <a name='AlibabaCloud'></a>Alibaba Cloud
+#### Alibaba Cloud
 
 ##### Alibaba Cloud Certified Associate Business User
 
@@ -1542,7 +1348,7 @@
 
 ##### Alibaba Cloud Certified Apsara Clouder - Network Attached Storage
 
-####  1.2.13. <a name='HashiCorp'></a>HashiCorp
+#### HashiCorp
 
 ##### HashiCorp Infrastructure Automation Certification
 
@@ -1562,7 +1368,7 @@
 
 ###### HashiCorp Certified: Consul Associate (002)
 
-####  1.2.14. <a name='RedHat'></a>RedHat
+#### RedHat
 
 ##### Platforms
 
@@ -1642,7 +1448,7 @@
 
 ###### Red Hat Certified Specialist in Business Rules
 
-####  1.2.15. <a name='ServiceNow'></a>ServiceNow
+#### ServiceNow
 
 ##### ServiceNow Certified Application Specialist
 
@@ -1688,13 +1494,13 @@
 
 ##### ServiceNow Certified Implementation Specialist in Vulnerability Response (VR)
 
-####  1.2.16. <a name='GAQM-GlobalAssociationforQualityManagement-Cloud'></a>GAQM - Global Association for Quality Management - Cloud
+#### GAQM - Global Association for Quality Management - Cloud
 
 ##### Certified Cloud Computing Professional (CCCP)
 
 ##### Certified Cloud Computing Consultant (CCCC)
 
-####  1.2.17. <a name='Shopify'></a>Shopify
+#### Shopify
 
 ##### App Development Certification
 
@@ -1702,7 +1508,7 @@
 
 ##### Product Fundamentals Certification
 
-####  1.2.18. <a name='Wordpress'></a>Wordpress
+#### Wordpress
 
 ##### Getting Started With WordPress: Get Setup
 
@@ -1758,11 +1564,11 @@
 
 ###### Advanced WordPress Certification by TemplateMonster
 
-####  1.2.19. <a name='SquareSpace'></a>SquareSpace
+#### SquareSpace
 
 ##### SquareSpace Circle Member - Build Three SquareSpace Sites
 
-####  1.2.20. <a name='Wix'></a>Wix
+#### Wix
 
 ##### Velo Developer
 
@@ -1770,7 +1576,7 @@
 
 ##### Wix SEO
 
-####  1.2.21. <a name='Webflow'></a>Webflow
+#### Webflow
 
 ##### Webflow Layout Certification - Level 1
 
@@ -1778,9 +1584,9 @@
 
 ##### Webflow CMS Certification - Level 1
 
-###  1.3. <a name='Security'></a>Security
+### Security
 
-####  1.3.1. <a name='DellTechnologies-Security'></a>Dell Technologies - Security
+#### Dell Technologies - Security
 
 ##### Associate - Data Protection and Management (DCA-DPM)
 
@@ -1790,7 +1596,7 @@
 
 ##### Infrastructure: Security Specialist - Specialist (DCS)
 
-####  1.3.2. <a name='CSA-CloudSecurityAlliance'></a>CSA - Cloud Security Alliance
+#### CSA - Cloud Security Alliance
 
 ##### Certificate of Cloud Security Knowledge (CCSK)
 
@@ -1800,7 +1606,7 @@
 
 ##### ASCP - Advanced Cloud Security Practitioner
 
-####  1.3.3. <a name='CertNexus'></a>CertNexus
+#### CertNexus
 
 ##### CyberSAFE
 
@@ -1810,7 +1616,7 @@
 
 ##### CyberSec First Responder® (CFR)
 
-####  1.3.4. <a name='ISC2'></a>(ISC)^2
+#### (ISC)^2
 
 ##### SSCP - Systems Security Certified Practitioner
 
@@ -1830,7 +1636,7 @@
 
 ##### HCISPP - HealthCare Information Security and Privacy Practitioner
 
-####  1.3.5. <a name='CompTIA'></a>CompTIA
+#### CompTIA
 
 ##### CompTIA Security+
 
@@ -1840,13 +1646,13 @@
 
 ##### CompTIA CASP+ Advanced Security Practitioner
 
-####  1.3.6. <a name='CIW'></a>CIW
+#### CIW
 
 ##### CIW Web Security Specialist
 
 ##### CIW Web Security Associate
 
-####  1.3.7. <a name='EC-Council'></a>EC-Council
+#### EC-Council
 
 ##### CCISO - Certified Chief Information Security Officer
 
@@ -1888,7 +1694,7 @@
 
 ##### EDRP - Disaster Recovery Professional
 
-####  1.3.8. <a name='ISACA'></a>ISACA
+#### ISACA
 
 ##### CISA - Certified Information Systems Auditor
 
@@ -1926,7 +1732,7 @@
 
 ##### IT Audit Fundamentals
 
-####  1.3.9. <a name='SECO-INSTITUTE'></a>SECO-INSTITUTE
+#### SECO-INSTITUTE
 
 ##### S-BCF - BUSINESS CONTINUITY FOUNDATION
 
@@ -1948,7 +1754,7 @@
 
 ##### S-SPF - SECURE PROGRAMMING FOUNDATION
 
-####  1.3.10. <a name='IdentityManagementInstitute'></a>Identity Management Institute
+#### Identity Management Institute
 
 ##### CIAM - Certified Identity and Access Manager
 
@@ -1966,7 +1772,7 @@
 
 ##### CDP - Certified in Data Protection
 
-####  1.3.11. <a name='SANSInstitute'></a>SANS Institute
+#### SANS Institute
 
 ##### Cloud Security
 
@@ -2072,7 +1878,7 @@
 
 ###### GCCC - GIAC Critical Controls Certification
 
-####  1.3.12. <a name='OffensiveSecurity'></a>Offensive Security
+#### Offensive Security
 
 ##### OSCP - Offensive Security Certified Professional
 
@@ -2092,7 +1898,7 @@
 
 ##### OSDA - Offensive Security Defense Analyst
 
-####  1.3.13. <a name='eLearnSecurity'></a>eLearnSecurity
+#### eLearnSecurity
 
 ##### eCPPTv2 - eLearnSecurity Certified Professional Penetration Tester
 
@@ -2122,7 +1928,7 @@
 
 ##### eCMAP - eLearnSecurity Certified Malware Analysis Professional
 
-####  1.3.14. <a name='IAPP-InternationalAssociationofPrivacyProfessionals'></a>IAPP - International Association of Privacy Professionals
+#### IAPP - International Association of Privacy Professionals
 
 ##### CIPP - Certified Information Privacy Professional
 
@@ -2134,7 +1940,7 @@
 
 ##### Privacy Law Specialist
 
-####  1.3.15. <a name='TheOpenGroup'></a>The Open Group
+#### The Open Group
 
 ##### Open FAIR™ Certification - Foundation
 
@@ -2144,11 +1950,11 @@
 
 ##### Open Distinguished Trusted Technology Practitioner
 
-####  1.3.16. <a name='LogicalOperations'></a>Logical Operations
+#### Logical Operations
 
 ##### CyberSec First Responder
 
-####  1.3.17. <a name='GAQM-GlobalAssociationforQualityManagement-Security'></a>GAQM - Global Association for Quality Management - Security
+#### GAQM - Global Association for Quality Management - Security
 
 ##### Certified Information Security Professional (CISP)
 
@@ -2232,13 +2038,13 @@
 
 ##### ISO/IEC 17020:2012 - Certified Lead Auditor
 
-###  1.4. <a name='Databases'></a>Databases
+### Databases
 
-####  1.4.1. <a name='CIW-Databases'></a>CIW - Databases
+#### CIW - Databases
 
 ##### CIW Database Design Specialist
 
-####  1.4.2. <a name='NoSQL'></a>NoSQL
+#### NoSQL
 
 ##### Kafka
 
@@ -2266,7 +2072,7 @@
 
 ###### Exploring InfluxDB Cloud - university.influxdata.com
 
-##### Beginner Flux - university.influxdata.com
+###### Beginner Flux - university.influxdata.com
 
 ###### Data Collection with Telegraf - university.influxdata.com
 
@@ -2370,7 +2176,7 @@
 
 ###### Splunk O11y Cloud Certified Metrics User
 
-####  1.4.3. <a name='SQL'></a>SQL
+#### SQL
 
 ##### MariaDB
 
@@ -2430,7 +2236,7 @@
 
 ###### Oracle GoldenGate 12c Certified Implementation Specialist
 
-####  1.4.4. <a name='Blockchain'></a>Blockchain
+#### Blockchain
 
 ##### ICCP - Institute for Certification of Computing Professionals
 
@@ -2448,7 +2254,7 @@
 
 ###### Certified BlockChain Professional (CBCP)
 
-####  1.4.5. <a name='BigData'></a>Big Data
+#### Big Data
 
 ##### ICCP - Institute for Certification of Computing Professionals - Databases
 
@@ -2462,13 +2268,13 @@
 
 ###### Certified Big Data Professional (CBDP) - Foundation
 
-####  1.4.6. <a name='GAQM-GlobalAssociationforQualityManagement-BigData'></a>GAQM - Global Association for Quality Management - Big Data
+#### GAQM - Global Association for Quality Management - Big Data
 
 ##### Certified Big Data Foundation Specialist (CBDFS)
 
-###  1.5. <a name='DevOps'></a>DevOps
+### DevOps
 
-####  1.5.1. <a name='Atlassian'></a>Atlassian
+#### Atlassian
 
 ##### Managing Jira Projects for Cloud
 
@@ -2482,7 +2288,7 @@
 
 ##### Atlassian Certified Expert
 
-####  1.5.2. <a name='DellTechnologies-DevOps'></a>Dell Technologies - DevOps
+#### Dell Technologies - DevOps
 
 ##### Specialist - Systems Administrator, OpenManage Enterprise (DCS-SA)
 
@@ -2522,7 +2328,7 @@
 
 ##### Dell Technologies Unified Workspace
 
-####  1.5.3. <a name='DataDog'></a>DataDog
+#### DataDog
 
 ##### Datadog Fundamentals
 
@@ -2530,13 +2336,13 @@
 
 ##### APM and Distributed Tracing Fundamentals
 
-####  1.5.4. <a name='NewRelic'></a>NewRelic
+#### NewRelic
 
 ##### Full Stack Observability Practitioner Exam
 
 ##### Programmability Certification
 
-####  1.5.5. <a name='VMware'></a>VMware
+#### VMware
 
 ##### VMware Certified Technical Associate Data Center Virtualization
 
@@ -2658,7 +2464,7 @@
 
 ##### VMware Certified Professional Application Modernization
 
-####  1.5.6. <a name='Oracle-DevOps'></a>Oracle - DevOps
+#### Oracle - DevOps
 
 ##### Oracle Certified Professional Helidon Microservices Developer
 
@@ -2680,7 +2486,7 @@
 
 ##### Oracle Cloud Infrastructure 2022 DevOps Certified Professional
 
-####  1.5.7. <a name='HewlettPackardEnterprise'></a>Hewlett Packard Enterprise
+#### Hewlett Packard Enterprise
 
 ##### HPE Master ASE - Compute Solutions V1
 
@@ -2688,7 +2494,7 @@
 
 ##### HPE Product Certified - Containers [2021]
 
-####  1.5.8. <a name='TheLinuxFoundation-DevOps'></a>The Linux Foundation - DevOps
+#### The Linux Foundation - DevOps
 
 ##### Certified Kubernetes Administrator (CKA)
 
@@ -2718,25 +2524,25 @@
 
 ##### Shell Scripting Using Bash
 
-####  1.5.9. <a name='OpenStack'></a>OpenStack
+#### OpenStack
 
 ##### Certified OpenStack Administrator (COA)
 
-####  1.5.10. <a name='Puppet'></a>Puppet
+#### Puppet
 
 ##### Puppet Practitioner
 
-####  1.5.11. <a name='Chef'></a>Chef
+#### Chef
 
 ##### Master Chef Certification
 
 ##### Executive Chef Certification
 
-####  1.5.12. <a name='Docker'></a>Docker
+#### Docker
 
 ##### Mirantis DCA - Docker Certified Administrator
 
-####  1.5.13. <a name='DevOpsInstitute'></a>DevOps Institute
+#### DevOps Institute
 
 ##### DevOps Foundation (DOFD)
 
@@ -2758,7 +2564,7 @@
 
 ##### Value Stream Management Foundation
 
-####  1.5.14. <a name='GAQM-GlobalAssociationforQualityManagement-DevOps'></a>GAQM - Global Association for Quality Management - DevOps
+#### GAQM - Global Association for Quality Management - DevOps
 
 ##### Foundation Certificate in DevOps (FCDO)
 
@@ -2772,7 +2578,7 @@
 
 ##### Linux Certified Master (LCM)
 
-####  1.5.15. <a name='Gitlab'></a>Gitlab
+#### Gitlab
 
 ##### GitLab Certified System Admin Specialist
 
@@ -2796,11 +2602,11 @@
 
 ##### GitLab Certified System Admin Associate
 
-####  1.5.16. <a name='Jenkins'></a>Jenkins
+#### Jenkins
 
 ##### Certified Jenkins Engineer (CJE)
 
-####  1.5.17. <a name='Github'></a>Github
+#### Github
 
 ##### GitHub Certified Partner: GitHub Actions
 
@@ -2808,11 +2614,11 @@
 
 ##### GitHub Certified Partner: GitHub Advanced Security
 
-####  1.5.18. <a name='GitKraken'></a>GitKraken
+#### GitKraken
 
 ##### Foundations of Git - Certification
 
-####  1.5.19. <a name='Slack'></a>Slack
+#### Slack
 
 ##### Slack Certified Admin
 
@@ -2820,9 +2626,9 @@
 
 ##### Slack Certified Developer
 
-###  1.6. <a name='SoftwareDevelopment'></a>Software Development
+### Software Development
 
-####  1.6.1. <a name='ISTQBASTQB-InternationalAmericanSoftwareTestingQualificationBoard'></a>ISTQB/ASTQB - International/American Software Testing Qualification Board
+#### ISTQB/ASTQB - International/American Software Testing Qualification Board
 
 ##### ISTQB Foundation Level Certification (CTFL)
 
@@ -2864,7 +2670,7 @@
 
 ##### ASTQB Proficiency Distinction
 
-####  1.6.2. <a name='CertNexus-SoftwareDevelopment'></a>CertNexus - Software Development
+#### CertNexus - Software Development
 
 ##### IoTBIZ - Internet of Things (IoT) for Business Professionals
 
@@ -2872,7 +2678,7 @@
 
 ##### Certified IoT Security Practitioner (CIoTSP)
 
-####  1.6.3. <a name='IEEE'></a>IEEE
+#### IEEE
 
 ##### Associate Software Developer
 
@@ -2880,7 +2686,7 @@
 
 ##### Professional Software Engineering Master
 
-####  1.6.4. <a name='TheOpenGroup-SoftwareDevelopment'></a>The Open Group - Software Development
+#### The Open Group - Software Development
 
 ##### Open Certified Technical Specialist
 
@@ -2888,7 +2694,7 @@
 
 ##### Open Distinguished Technical Specialist
 
-####  1.6.5. <a name='CIW-SoftwareDevelopment'></a>CIW - Software Development
+#### CIW - Software Development
 
 ##### CIW Internet Business Associate
 
@@ -2898,7 +2704,7 @@
 
 ##### CIW E-Commerce Specialist
 
-####  1.6.6. <a name='CompTIA-SoftwareDevelopment'></a>CompTIA - Software Development
+#### CompTIA - Software Development
 
 ##### CompTIA Cloud+
 
@@ -2906,7 +2712,7 @@
 
 ##### CompTIA Server+
 
-####  1.6.7. <a name='ICCP-InstituteforCertificationofComputingProfessionals-SoftwareDevelopment'></a>ICCP - Institute for Certification of Computing Professionals - Software Development
+#### ICCP - Institute for Certification of Computing Professionals - Software Development
 
 ##### CERTIFIED APPLICATION DEVELOPER (CAD)
 
@@ -2914,17 +2720,17 @@
 
 ##### Certified Computer Scientist (CCS)
 
-####  1.6.8. <a name='GAQM-GlobalAssociationforQualityManagement-SoftwareDevelopment'></a>GAQM - Global Association for Quality Management - Software Development
+#### GAQM - Global Association for Quality Management - Software Development
 
 ##### Certified Web Developer (CWD)
 
-####  1.6.9. <a name='IAAP-InternationalAssociationofAccessibilityProfessionals'></a>IAAP - International Association of Accessibility Professionals
+#### IAAP - International Association of Accessibility Professionals
 
 ##### Web Accessibility Specialist
 
 ##### Certified Professional in Web Accessibility
 
-####  1.6.10. <a name='HIPAACertification.net'></a>HIPAACertification.net
+#### HIPAACertification.net
 
 ##### Certified HIPAA Privacy Security Expert (CHPSE)
 
@@ -2934,7 +2740,7 @@
 
 ##### Certified HIPAA Privacy Associate (CHPA)
 
-####  1.6.11. <a name='PCISecurityStandardsCouncil'></a>PCI Security Standards Council
+#### PCI Security Standards Council
 
 ##### 3DS Assessors
 
@@ -2956,15 +2762,15 @@
 
 ##### Secure Software Lifecycle (Secure SLC) Assessors
 
-####  1.6.12. <a name='GDPRCertificationCourses.com'></a>GDPRCertificationCourses.com
+#### GDPRCertificationCourses.com
 
 ##### Certified EU General Data Protection Regulation (EU GDPR) Foundation
 
 ##### Certified EU General Data Protection Regulation (EU GDPR) Practitioner
 
-###  1.7. <a name='ProjectManagement'></a>Project Management
+### Project Management
 
-####  1.7.1. <a name='APM-AssociationforProjectManagement'></a>APM - Association for Project Management
+#### APM - Association for Project Management
 
 ##### APM Project Fundamentals Qualification (PFQ)
 
@@ -2972,11 +2778,11 @@
 
 ##### APM Project Professional Qualification (PPQ)
 
-####  1.7.2. <a name='CompTIA-ProjectManagement'></a>CompTIA - Project Management
+#### CompTIA - Project Management
 
 ##### CompTIA Project+
 
-####  1.7.3. <a name='Scrum.org'></a>Scrum.org
+#### Scrum.org
 
 ##### Professional Scrum Master (PSM I)
 
@@ -3002,13 +2808,13 @@
 
 ##### Professional Scrum with User Experience (PSU I)
 
-####  1.7.4. <a name='TheOpenGroup-ProjectManagement'></a>The Open Group - Project Management
+#### The Open Group - Project Management
 
 ##### DPBoK Foundation - Digital Practitioner Certification
 
 ##### Open Agile Architecture™ Practitioner Certification
 
-####  1.7.5. <a name='ProjectManagementInstitute'></a>Project Management Institute
+#### Project Management Institute
 
 ##### PMI Project Management Ready
 
@@ -3058,7 +2864,7 @@
 
 ##### PfMP - Portfolio Management Professional
 
-####  1.7.6. <a name='ScrumAlliance'></a>Scrum Alliance
+#### Scrum Alliance
 
 ##### CSM - Certified ScrumMaster
 
@@ -3092,7 +2898,7 @@
 
 ##### CST - Certified Scrum Trainer
 
-####  1.7.7. <a name='GAQM-GlobalAssociationforQualityManagement-ProjectManagement'></a>GAQM - Global Association for Quality Management - Project Management
+#### GAQM - Global Association for Quality Management - Project Management
 
 ##### Associate in Project Management (APM)
 
@@ -3126,7 +2932,7 @@
 
 ##### Certified Change Manager - Practitioner (CCMP)
 
-####  1.7.8. <a name='BVOP-BusinessValue-OrientedPrinciples'></a>BVOP - Business Value-Oriented Principles
+#### BVOP - Business Value-Oriented Principles
 
 ##### BVOP Chief Executive Certification
 
@@ -3144,7 +2950,7 @@
 
 ##### BVOP Human Resources Manager
 
-####  1.7.9. <a name='IAPM-InternationalAssociationofProjectManagers'></a>IAPM - International Association of Project Managers
+#### IAPM - International Association of Project Managers
 
 ##### Certified Junior Project Manager (IAPM)
 
@@ -3162,7 +2968,7 @@
 
 ##### Certified Project Management Trainer (IAPM)
 
-####  1.7.10. <a name='Axelos'></a>Axelos
+#### Axelos
 
 ##### ITIL 4 Foundation - IT Service Management
 
@@ -3194,9 +3000,9 @@
 
 ##### RESILIA Cyber Resilience Certification
 
-###  1.8. <a name='Networking'></a>Networking
+### Networking
 
-####  1.8.1. <a name='DellTechnologies-Networking'></a>Dell Technologies - Networking
+#### Dell Technologies - Networking
 
 ##### Associate - Networking (DCA)
 
@@ -3204,7 +3010,7 @@
 
 ##### Specialist - Implementation Engineer, Data Center Networking (DCS-IE)
 
-####  1.8.2. <a name='F5Networks'></a>F5 Networks
+#### F5 Networks
 
 ##### F5 Certified Administrator - BIG-IP
 
@@ -3222,15 +3028,15 @@
 
 ##### F5 Certified Solution Architect - Cloud
 
-####  1.8.3. <a name='Wireshark'></a>Wireshark
+#### Wireshark
 
 ##### Wireshark Certified Network Analyst
 
-####  1.8.4. <a name='SolarWinds'></a>SolarWinds
+#### SolarWinds
 
 ##### SolarWinds Certified Professional
 
-####  1.8.5. <a name='CWNP-CertifiedNetworkProfessionals'></a>CWNP - Certified Network Professionals
+#### CWNP - Certified Network Professionals
 
 ##### CWS - Certified Wireless Specialist
 
@@ -3258,7 +3064,7 @@
 
 ##### CWISE (Certified Wireless IoT Solution Expert)
 
-####  1.8.6. <a name='PaloAltoNetworks'></a>Palo Alto Networks
+#### Palo Alto Networks
 
 ##### PCCET - Palo Alto Networks Certified Cybersecurity Entry-level Technician
 
@@ -3272,7 +3078,7 @@
 
 ##### PCDRA - Palo Alto Networks Certified Detection and Remediation Analyst
 
-####  1.8.7. <a name='Juniper'></a>Juniper
+#### Juniper
 
 ##### Automation and DevOps, Associate (JNCIA-DevOps)
 
@@ -3328,7 +3134,7 @@
 
 ##### Service Provider Routing and Switching, Expert (JNCIE-SP)
 
-####  1.8.8. <a name='Cisco'></a>Cisco
+#### Cisco
 
 ##### Collaboration
 
@@ -3392,11 +3198,11 @@
 
 ###### Cisco Meraki Solutions Specialist
 
-####  1.8.9. <a name='CIW-Networking'></a>CIW - Networking
+#### CIW - Networking
 
 ##### CIW Network Technology Associate
 
-####  1.8.10. <a name='CompTIA-Networking'></a>CompTIA - Networking
+#### CompTIA - Networking
 
 ##### CompTIA IFT+ IT Fundamentals
 
@@ -3408,7 +3214,7 @@
 
 ##### CompTIA Cloud Essentials+
 
-####  1.8.11. <a name='HewlettPackardEnterprise-Networking'></a>Hewlett Packard Enterprise - Networking
+#### Hewlett Packard Enterprise - Networking
 
 ##### Greenlake
 
@@ -3482,7 +3288,7 @@
 
 ###### HPE Product Certified - SimpliVity [2021]
 
-####  1.8.12. <a name='Ubiquiti'></a>Ubiquiti
+#### Ubiquiti
 
 ##### UniFi Network Specialist
 
@@ -3496,7 +3302,7 @@
 
 ##### Ubiquiti Broadband Routing & Switching Admin
 
-####  1.8.13. <a name='GAQM-GlobalAssociationforQualityManagement-Networking'></a>GAQM - Global Association for Quality Management - Networking
+#### GAQM - Global Association for Quality Management - Networking
 
 ##### Certified Data Centre Professional (CDCP)
 
@@ -3506,9 +3312,9 @@
 
 ##### Certified Data Centre Facilities Operations Manager (CDCFOM)
 
-###  1.9. <a name='DesignandUserExperience'></a>Design and User Experience
+### Design and User Experience
 
-####  1.9.1. <a name='Adobe'></a>Adobe
+#### Adobe
 
 ##### Adobe Qualified: AEM Sites Content Author
 
@@ -3632,11 +3438,11 @@
 
 ##### Adobe Experience Platform Technical Foundations
 
-####  1.9.2. <a name='GAQM-GlobalAssociationforQualityManagement-DesignandUserExperience'></a>GAQM - Global Association for Quality Management - Design and User Experience
+#### GAQM - Global Association for Quality Management - Design and User Experience
 
 ##### Certified User Experience (UX) Designer (CUED)
 
-####  1.9.3. <a name='NielsonNormanGroup'></a>Nielson Norman Group
+#### Nielson Norman Group
 
 ##### NN/g UX Certification
 
@@ -3648,19 +3454,19 @@
 
 ##### NN/g UX Certification - Master
 
-###  1.10. <a name='SEOandSocialMedia'></a>SEO and Social Media
+### SEO and Social Media
 
-####  1.10.1. <a name='CIW-SEOandSocialMedia'></a>CIW - SEO and Social Media
+#### CIW - SEO and Social Media
 
 ##### CIW Social Media Strategist
 
-####  1.10.2. <a name='GAQM-GlobalAssociationforQualityManagement-SEOandSocialMedia'></a>GAQM - Global Association for Quality Management - SEO and Social Media
+#### GAQM - Global Association for Quality Management - SEO and Social Media
 
 ##### Certified Sales and Marketing Professional (CSMP)
 
 ##### Certified Digital Marketing Professional (CDMP)
 
-####  1.10.3. <a name='Semrush'></a>Semrush
+#### Semrush
 
 ##### Marketing Analysis - Where Theory Meets Practice
 
@@ -3728,7 +3534,7 @@
 
 ##### How to Start Selling on Amazon with Robyn Johnson
 
-####  1.10.4. <a name='Hubspot'></a>Hubspot
+#### Hubspot
 
 ##### HubSpot CMS for Developers Certification
 
@@ -3784,11 +3590,11 @@
 
 ##### HubSpot Marketing Software
 
-####  1.10.5. <a name='Clickminded'></a>Clickminded
+#### Clickminded
 
 ##### Clickminded SEO Certification
 
-####  1.10.6. <a name='Google'></a>Google
+#### Google
 
 ##### Google Analytics Certification - Skillshop
 
@@ -3832,7 +3638,7 @@
 
 ##### Waze Ads Fundamentals
 
-####  1.10.7. <a name='Moz'></a>Moz
+#### Moz
 
 ##### Keyword Research Certification
 
@@ -3844,7 +3650,7 @@
 
 ##### SEO Competitive Analysis Certification
 
-####  1.10.8. <a name='Meta'></a>Meta
+#### Meta
 
 ##### Meta Certified Digital Marketing Associate
 
@@ -3866,7 +3672,7 @@
 
 ##### Social Media Marketing Professional
 
-####  1.10.9. <a name='Hootsuite'></a>Hootsuite
+#### Hootsuite
 
 ##### Hootsuite Platform Certification
 
@@ -3882,7 +3688,7 @@
 
 ##### Hootsuite Enterprise Certification
 
-####  1.10.10. <a name='Twitter'></a>Twitter
+#### Twitter
 
 ##### Ads Manager Fundamentals Badge
 
@@ -3902,7 +3708,7 @@
 
 ##### Video Ads Specialist Badge
 
-####  1.10.11. <a name='AMA-AmericanMarketingAssociation'></a>AMA - American Marketing Association
+#### AMA - American Marketing Association
 
 ##### Digital Marketing Pro
 
@@ -3912,7 +3718,7 @@
 
 ##### Content Marketing Certification
 
-####  1.10.12. <a name='DMI-DigitalMarketingInstitute'></a>DMI - Digital Marketing Institute
+#### DMI - Digital Marketing Institute
 
 ##### Certified Digital Marketing Professional
 
@@ -3924,15 +3730,15 @@
 
 ##### Certified Digital Strategy and Planning Specialist
 
-####  1.10.13. <a name='OMCP-OnlineMarketingCertifiedProfessionals'></a>OMCP - Online Marketing Certified Professionals
+#### OMCP - Online Marketing Certified Professionals
 
 ##### OMCA - Online Marketing Certified Associate
 
 ##### OMCP - Online Marketing Certified Professional
 
-###  1.11. <a name='DataScience'></a>Data Science
+### Data Science
 
-####  1.11.1. <a name='DellTechnologies-DataScience'></a>Dell Technologies - Data Science
+#### Dell Technologies - Data Science
 
 ##### Specialist - Implementation Engineer, PowerProtect Data Manager (DCS-IE)
 
@@ -3950,7 +3756,7 @@
 
 ##### Specialist - Data Scientist, Advanced Analytics (DCS-DS)
 
-####  1.11.2. <a name='Snowflake'></a>Snowflake
+#### Snowflake
 
 ##### SnowPro Core Certification
 
@@ -3964,7 +3770,7 @@
 
 ##### SnowPro Advanced: Data Analyst Beta Certification
 
-####  1.11.3. <a name='DataStax'></a>DataStax
+#### DataStax
 
 ##### Apache Cassandra Administrator Associate Certification
 
@@ -3972,7 +3778,7 @@
 
 ##### Apache Cassandra K8ssandra Associate Certification
 
-####  1.11.4. <a name='CertNexus-DataScience'></a>CertNexus - Data Science
+#### CertNexus - Data Science
 
 ##### AIBIZ - Artificial Intelligence for Business Professionals
 
@@ -3986,7 +3792,7 @@
 
 ##### Certified Ethical Emerging Technologist™ (CEET)
 
-####  1.11.5. <a name='Tableau'></a>Tableau
+#### Tableau
 
 ##### Tableau Desktop Specialist
 
@@ -3994,25 +3800,25 @@
 
 ##### Tableau Server Certified Associate
 
-####  1.11.6. <a name='dbt-DataBuildTool'></a>dbt - Data Build Tool
+#### dbt - Data Build Tool
 
 ##### dbt Analytics Engineering Certification
 
-####  1.11.7. <a name='Astronomer'></a>Astronomer
+#### Astronomer
 
 ##### Astronomer Certification: Apache Airflow Fundamentals
 
 ##### Astronomer Certification: Apache Airflow DAG Authoring
 
-####  1.11.8. <a name='CIW-DataScience'></a>CIW - Data Science
+#### CIW - Data Science
 
 ##### CIW Data Analyst
 
-####  1.11.9. <a name='CompTIA-DataScience'></a>CompTIA - Data Science
+#### CompTIA - Data Science
 
 ##### CompTIA Data+
 
-####  1.11.10. <a name='TheOpenGroup-DataScience'></a>The Open Group - Data Science
+#### The Open Group - Data Science
 
 ##### Open Certified Data Scientist
 
@@ -4020,7 +3826,7 @@
 
 ##### Open Distinguished Data Scientist
 
-####  1.11.11. <a name='TeraData'></a>TeraData
+#### TeraData
 
 ##### Vantage Certified Associate
 
@@ -4038,11 +3844,11 @@
 
 ##### TeraData Vantage Data Science Master
 
-####  1.11.12. <a name='TDWI-TransformingDatawithIntelligence'></a>TDWI - Transforming Data with Intelligence
+#### TDWI - Transforming Data with Intelligence
 
 ##### CBIP - Certified Business Intelligence Professional
 
-####  1.11.13. <a name='ICCP-InstituteforCertificationofComputingProfessionals-DataScience'></a>ICCP - Institute for Certification of Computing Professionals - Data Science
+#### ICCP - Institute for Certification of Computing Professionals - Data Science
 
 ##### CDP-BA Certified Data Professional - Business Analytics
 
@@ -4076,17 +3882,17 @@
 
 ##### Certified Data Scientist (CDS) - Foundation
 
-####  1.11.14. <a name='GAQM-GlobalAssociationforQualityManagement-DataScience'></a>GAQM - Global Association for Quality Management - Data Science
+#### GAQM - Global Association for Quality Management - Data Science
 
 ##### Certified Artificial Intelligence Professional (CAIP)
 
-####  1.11.15. <a name='CertifiedAnalytics'></a>Certified Analytics
+#### Certified Analytics
 
 ##### aCAP - Associate Certified Analytics Professional
 
 ##### CAP - Certified Analytics Professional
 
-####  1.11.16. <a name='DASCA-DataScienceCouncilofAmerica'></a>DASCA - Data Science Council of America
+#### DASCA - Data Science Council of America
 
 ##### ABDE - Associate Big Data Engineer
 
@@ -4100,7 +3906,7 @@
 
 ##### PDS - Principal Data Scientist
 
-####  1.11.17. <a name='SAS'></a>SAS
+#### SAS
 
 ##### Programming Associate
 
@@ -4148,7 +3954,7 @@
 
 ##### IDeaS G3 RMS Certified User: Essentials
 
-####  1.11.18. <a name='CollegeBoard-CLEP'></a>CollegeBoard - CLEP
+#### CollegeBoard - CLEP
 
 ##### Biology
 
@@ -4164,107 +3970,107 @@
 
 ##### Precalculus
 
-###  1.12. <a name='FinOps'></a>FinOps
+### FinOps
 
-####  1.12.1. <a name='CFAInstitute'></a>CFA Institute
+#### CFA Institute
 
 ##### Chartered Financial Analyst (CFA)
 
-####  1.12.2. <a name='CFPBoard'></a>CFP Board
+#### CFP Board
 
 ##### CFP - Certified Financial Planner
 
-####  1.12.3. <a name='IBF-InstituteofBusinessandFinance'></a>IBF - Institute of Business and Finance
+#### IBF - Institute of Business and Finance
 
 ##### CFS - Certified Fund Specialist
 
-####  1.12.4. <a name='ACFS-AmericanCollegeofFinancialServices'></a>ACFS - American College of Financial Services
+#### ACFS - American College of Financial Services
 
 ##### Chartered Financial Consultant (ChFC)
 
 ##### Chartered Life Underwriter (CLU)
 
-####  1.12.5. <a name='InvestmentAdvisorAssociation'></a>Investment Advisor Association
+#### Investment Advisor Association
 
 ##### Chartered Investment Counselor (CIC)
 
-####  1.12.6. <a name='InvestmentsandWealthInstitute'></a>Investments and Wealth Institute
+#### Investments and Wealth Institute
 
 ##### Certified Investment Management Analyst (CIMA)
 
 ##### Certified Private Wealth Analyst CPWA
 
-####  1.12.7. <a name='ICDC-InternationalEconomicDevelopmentCouncil'></a>ICDC - International Economic Development Council
+#### ICDC - International Economic Development Council
 
 ##### Certified Economic Developer (CEcD)
 
-####  1.12.8. <a name='NDC-NationalDevelopmentCouncil'></a>NDC - National Development Council
+#### NDC - National Development Council
 
 ##### Economic Development Finance Professional
 
-####  1.12.9. <a name='CMTAssociation'></a>CMT Association
+#### CMT Association
 
 ##### Chartered Market Technician (CMT)
 
-####  1.12.10. <a name='AICPA-AssociationofInternationalCertifiedProfessionalAccountants'></a>AICPA - Association of International Certified Professional Accountants
+#### AICPA - Association of International Certified Professional Accountants
 
 ##### CPA/PFS - Certified Public Accountant/Personal Financial Specialist (PFS)
 
-####  1.12.11. <a name='AFP-AssociationforFinancialProfessionals'></a>AFP - Association for Financial Professionals
+#### AFP - Association for Financial Professionals
 
 ##### Certified Treasury Professional (CTP)
 
-####  1.12.12. <a name='AGA-AssociationofGovernmentAccountants'></a>AGA - Association of Government Accountants
+#### AGA - Association of Government Accountants
 
 ##### Certified Government Financial Manager (CGFM)
 
-####  1.12.13. <a name='HFMA-HealthcareFinancialManagementAssociation'></a>HFMA - Healthcare Financial Management Association
+#### HFMA - Healthcare Financial Management Association
 
 ##### Certified Healthcare Financial Professional (CHFP)
 
-####  1.12.14. <a name='ACIIA-AssociationCertifiedInternationalInvestmentAnalysts'></a>ACIIA - Association Certified International Investment Analysts
+#### ACIIA - Association Certified International Investment Analysts
 
 ##### Certified International Investment Analyst (CIIA)
 
-####  1.12.15. <a name='GAFM-GlobalAcademyofFinanceandManagement'></a>GAFM - Global Academy of Finance and Management
+#### GAFM - Global Academy of Finance and Management
 
 ##### CITA - Certified International Tax Analyst
 
-####  1.12.16. <a name='AllianceofMergerandAcquisitionAdvisors'></a>Alliance of Merger and Acquisition Advisors
+#### Alliance of Merger and Acquisition Advisors
 
 ##### Certified Merger and Acquisition Advisor (CM&AA)
 
-####  1.12.17. <a name='AAFM-AmericanAcademyofFinancialManagement'></a>AAFM - American Academy of Financial Management
+#### AAFM - American Academy of Financial Management
 
 ##### ChE - Chartered Economist
 
 ##### Chartered Economic Policy Analyst (ChE – EPA)
 
-####  1.12.18. <a name='AAIFM-AmericanAssociationforInvestmentandFinancialManagement'></a>AAIFM - American Association for Investment and Financial Management
+#### AAIFM - American Association for Investment and Financial Management
 
 ##### CEFA - Certified Economic Financial Analyst
 
-####  1.12.19. <a name='GARP-GlobalAssociationofRiskProfessionals'></a>GARP - Global Association of Risk Professionals
+#### GARP - Global Association of Risk Professionals
 
 ##### Energy Risk Professional (ERP)
 
 ##### Financial Risk Manager (FRM)
 
-####  1.12.20. <a name='CFI-CorporateFinanceInstitute'></a>CFI - Corporate Finance Institute
+#### CFI - Corporate Finance Institute
 
 ##### Certified Financial Modeling & Valuation Analyst (FMVA)
 
-####  1.12.21. <a name='CAIA-CharteredAlternativeInvestmentAnalystAssociation'></a>CAIA - Chartered Alternative Investment Analyst Association
+#### CAIA - Chartered Alternative Investment Analyst Association
 
 ##### UNIFI BY CAIA
 
 ##### FINANCIAL DATA PROFESSIONAL BY CAIA
 
-####  1.12.22. <a name='TheLinuxFoundation-FinOps'></a>The Linux Foundation - FinOps
+#### The Linux Foundation - FinOps
 
 ##### FinOps Certified Practitioner (FOCP)
 
-####  1.12.23. <a name='GAQM-GlobalAssociationforQualityManagement-FinOps'></a>GAQM - Global Association for Quality Management - FinOps
+#### GAQM - Global Association for Quality Management - FinOps
 
 ##### Certified Finance Manager (CFM)
 
@@ -4280,7 +4086,7 @@
 
 ##### Certified Professional Financial Analyst (CPFA)
 
-####  1.12.24. <a name='CollegeBoard-CLEP-FinOps'></a>CollegeBoard - CLEP - FinOps
+#### CollegeBoard - CLEP - FinOps
 
 ##### Principles of Macroeconomics
 
@@ -4294,9 +4100,9 @@
 
 ##### Principles of Management
 
-###  1.13. <a name='EnterpriseArchitecture'></a>Enterprise Architecture
+### Enterprise Architecture
 
-####  1.13.1. <a name='TheOpenGroup-EnterpriseArchitecture'></a>The Open Group - Enterprise Architecture
+#### The Open Group - Enterprise Architecture
 
 ##### ArchiMate 3 - Foundation
 
@@ -4328,7 +4134,7 @@
 
 ##### Open Distinguished Architect
 
-####  1.13.2. <a name='GAQM-GlobalAssociationforQualityManagement-EnterpriseArchitecture'></a>GAQM - Global Association for Quality Management - Enterprise Architecture
+#### GAQM - Global Association for Quality Management - Enterprise Architecture
 
 ##### Certified Business Analyst Foundation (CBAF)
 
@@ -4340,9 +4146,9 @@
 
 ##### Business Process Manager (BPM)
 
-###  1.14. <a name='SoftwareTesting'></a>Software Testing
+### Software Testing
 
-####  1.14.1. <a name='GAQM-GlobalAssociationforQualityManagement-SoftwareTesting'></a>GAQM - Global Association for Quality Management - Software Testing
+#### GAQM - Global Association for Quality Management - Software Testing
 
 ##### Certified Software Tester - Foundation Level (CSTFL)
 
@@ -4382,9 +4188,9 @@
 
 ##### Certified Software Quality Manager (CSQM)
 
-###  1.15. <a name='LiberalArts'></a>Liberal Arts
+### Liberal Arts
 
-####  1.15.1. <a name='CollegeBoard-CLEP-LiberalArts'></a>CollegeBoard - CLEP - Liberal Arts
+#### CollegeBoard - CLEP - Liberal Arts
 
 ##### American Government
 
