@@ -1,557 +1,558 @@
+---
 Providers:
   Linkedin Learning:
     Short Name: "LL"
-    URLs: 
+    URLs:
       - "https://www.linkedin.com/learning/"
 
   The Linux Foundation:
     Short Name: "TLF"
-    URLs: 
+    URLs:
       - "https://training.linuxfoundation.org/"
 
   Microsoft Learn:
     Short Name: "MS"
-    URLs: 
+    URLs:
       - "https://learn.microsoft.com/"
 
   Zend Technologies:
     Short Name: "Zend"
-    URLs: 
+    URLs:
       - "https://www.zend.com/training/"
 
   W3Schools:
     Short Name: "W3Schools"
-    URLs: 
+    URLs:
       - "https://www.w3schools.com/"
 
   Global Association for Quality Management:
     Short Name: "GAQM"
-    URLs: 
+    URLs:
       - "https://gaqm.org/certification_category"
 
   Acquia:
     Short Name: "Acquia"
-    URLs: 
+    URLs:
       - "https://www.acquia.com/support/training-certification/acquia-certification"
 
   Apple:
     Short Name: "Apple"
-    URLs: 
+    URLs:
       - "https://developer.apple.com/learn/curriculum/"
 
   Julia Academy:
     Short Name: "JA"
-    URLs: 
+    URLs:
       - "https://juliaacademy.com/"
 
   CancanIT:
     Short Name: "cancanit"
-    URLs: 
+    URLs:
       - "https://cancanit.com/"
 
   FreeCodeCamp:
     Short Name: "FCC"
-    URLs: 
+    URLs:
       - "https://www.freecodecamp.org/"
 
   National Computer Science Academy:
     Short Name: "NCSA"
-    URLs: 
+    URLs:
       - "https://www.ncsacademy.com/certifications.cfm"
 
   Certified Internet Web Professional:
     Short Name: "CIW"
-    URLs: 
+    URLs:
       - "https://www.ciwcertified.com/ciw-certifications"
 
   Oracle:
     Short Name: "Oracle"
-    URLs: 
+    URLs:
       - "https://education.oracle.com/certification"
 
   Perl.org:
     Short Name: "Perl"
-    URLs: 
+    URLs:
       - "https://learn.perl.org/"
 
   VSkills.in:
     Short Name: "VSkills"
-    URLs: 
+    URLs:
       - "https://www.vskills.in/certification/"
 
   Android Training Company:
     Short Name: "ATC"
-    URLs: 
+    URLs:
       - "https://androidatc.com/index.php"
 
   Coursera:
     Short Name: "Coursera"
-    URLs: 
+    URLs:
       - "https://www.coursera.org/professional-certificates"
 
   MathWorks:
     Short Name: "MW"
-    URLs: 
-      - "https://www.mathworks.com/learn/training/certification.html"  
+    URLs:
+      - "https://www.mathworks.com/learn/training/certification.html"
 
   International JavaScript Institute:
     Short Name: "IJI"
-    URLs: 
+    URLs:
       - "https://www.javascriptinstitute.org/"
 
   Js.Institute:
     Short Name: "JSI"
-    URLs: 
+    URLs:
       - "https://js.institute/"
 
   Salesforce:
     Short Name: "SF"
-    URLs: 
+    URLs:
       - "https://trailhead.salesforce.com/"
 
   The Odin Project:
     Short Name: "TOP"
-    URLs: 
+    URLs:
       - "https://www.theodinproject.com/"
 
   AngularTraining.com:
     Short Name: "AngularTraining"
-    URLs: 
+    URLs:
       - "https://angulartraining.com/"
 
   Ruby Association:
     Short Name: "RA"
-    URLs: 
+    URLs:
       - "https://www.ruby.or.jp/"
 
   Python Institute:
     Short Name: "PI"
-    URLs: 
+    URLs:
       - "https://pythoninstitute.org/"
 
   Global Information Assurance Certification:
     Short Name: "GIAC"
-    URLs: 
+    URLs:
       - "https://www.giac.org/"
 
   Environmental Systems Research Institute:
     Short Name: "ESRI"
-    URLs: 
+    URLs:
       - "https://www.esri.com/training/certification-find-exam/search/"
 
   VMware:
     Short Name: "VMware"
-    URLs: 
+    URLs:
       - "https://www.vmware.com/learning.html"
 
   C++ Institute:
     Short Name: "C++ Institute"
-    URLs: 
+    URLs:
       - "https://cppinstitute.org/"
 
   Dell Technologies:
     Short Name: "Dell"
-    URLs: 
+    URLs:
       - "https://education.dellemc.com/"
 
   Nutanix:
     Short Name: "Nutanix"
-    URLs: 
+    URLs:
       - "https://www.nutanix.com/support-services/training-certification/"
 
   Amazon Web Services:
-   Short Name: "AWS"
-   URLs: 
-    - "https://aws.amazon.com/training/"
+    Short Name: "AWS"
+    URLs:
+      - "https://aws.amazon.com/training/"
 
   Google Cloud Platform:
     Short Name: "GCP"
-    URLs: 
+    URLs:
       - "https://cloud.google.com/certification"
 
   Systems, Applications & Products in Data Processing:
     Short Name: "SAP"
-    URLs: 
+    URLs:
       - "https://training.sap.com/"
 
   International Business Machines:
     Short Name: "IBM"
-    URLs: 
+    URLs:
       - "https://www.ibm.com/training/"
 
   Cloudera:
     Short Name: "Cloudera"
-    URLs: 
+    URLs:
       - "https://www.cloudera.com/about/training/certification.html"
 
   databricks:
     Short Name: "databricks"
-    URLs: 
+    URLs:
       - "https://www.databricks.com/learn/certification"
 
   Alibaba Cloud:
     Short Name: "Alibaba"
-    URLs: 
+    URLs:
       - "https://edu.alibabacloud.com/certification"
 
   HashiCorp:
     Short Name: "HashiCorp"
-    URLs: 
+    URLs:
       - "https://www.hashicorp.com/certification"
 
   RedHat:
     Short Name: "RH"
-    URLs: 
+    URLs:
       - "https://www.redhat.com/en/services/certifications"
 
   ServiceNow:
     Short Name: "SN"
-    URLs: 
+    URLs:
       - "https://www.servicenow.com/services/training-and-certification.html"
 
   Shopify:
     Short Name: "Shopify"
-    URLs: 
+    URLs:
       - "https://partner-training.shopify.com/"
 
   Wordpress:
     Short Name: "WP"
-    URLs: 
+    URLs:
       - "https://learn.wordpress.org/"
 
   SquareSpace:
     Short Name: "SS"
-    URLs: 
+    URLs:
       - "https://www.squarespace.com/circle/"
 
   Wix:
     Short Name: "Wix"
-    URLs: 
+    URLs:
       - "https://www.wix.com/learn/certifications"
 
   Webflow:
     Short Name: "Webflow"
-    URLs: 
+    URLs:
       - "https://university.webflow.com/certification-exams"
 
   Cloud Security Alliance:
     Short Name: "CSA"
-    URLs: 
+    URLs:
       - "https://cloudsecurityalliance.org/"
 
   CertNexus:
     Short Name: "CN"
-    URLs: 
+    URLs:
       - "https://certnexus.com/certifications/"
 
   International Information System Security Certification Consortium:
     Short Name: "(ISC)^2"
-    URLs: 
+    URLs:
       - "https://www.isc2.org/Certifications"
 
   The Computing Technology Industry Association:
     Short Name: "CompTIA"
-    URLs: 
+    URLs:
       - "https://www.comptia.org/certifications"
 
   International Council of E-Commerce Consultants:
     Short Name: "EC-Council"
-    URLs: 
+    URLs:
       - "https://www.eccouncil.org/"
 
   Information Systems Audit and Control Association:
     Short Name: "ISACA"
-    URLs: 
+    URLs:
       - "https://www.isaca.org/credentialing/certifications"
 
   Security and Continuity Institute:
     Short Name: "SECO-INSTITUTE"
-    URLs: 
+    URLs:
       - "https://www.seco-institute.org/certifications/"
 
   Identity Management Institute:
     Short Name: "IMI"
-    URLs: 
+    URLs:
       - "https://identitymanagementinstitute.org/certification/"
 
   SysAdmin, Audit, Network, and Security Institute:
     Short Name: "SANS Institute"
-    URLs: 
+    URLs:
       - "https://www.sans.org/cyber-security-certifications/"
 
   Offensive Security:
     Short Name: "OffSec"
-    URLs: 
+    URLs:
       - "https://www.offensive-security.com/courses-and-certifications/"
 
   eLearnSecurity:
     Short Name: "eLearnSecurity"
-    URLs: 
+    URLs:
       - "https://elearnsecurity.com/"
 
   International Association of Privacy Professionals:
     Short Name: "IAPP"
-    URLs: 
+    URLs:
       - "https://iapp.org/certify/"
 
   The Open Group:
     Short Name: "TOG"
-    URLs: 
+    URLs:
       - "https://www.opengroup.org/certifications"
 
   Logical Operations:
     Short Name: "LO"
-    URLs: 
+    URLs:
       - "https://logicaloperations.com/"
 
   Confluent:
     Short Name: "Confluent"
-    URLs: 
+    URLs:
       - "https://www.confluent.io/certification/"
 
   MongoDB:
     Short Name: "MongoDB"
-    URLs: 
+    URLs:
       - "https://learn.mongodb.com/pages/certification-program"
 
   Influx Data:
     Short Name: "Influxdb"
-    URLs: 
+    URLs:
       - "https://university.influxdata.com/"
 
   Couchbase:
     Short Name: "Couchbase"
-    URLs: 
+    URLs:
       - "https://learn.couchbase.com/"
 
   KX Systems:
     Short Name: "KX"
-    URLs: 
+    URLs:
       - "https://kx.com/academy/"
 
   Neo4j:
     Short Name: "Neo4j"
-    URLs: 
+    URLs:
       - "https://graphacademy.neo4j.com/"
 
   TigerGraph:
     Short Name: "TigerGraph"
-    URLs: 
+    URLs:
       - "https://www.tigergraph.com/training/"
 
   Redis Labs:
     Short Name: "Redis"
-    URLs: 
+    URLs:
       - "https://university.redis.com/certification/"
 
   Elasticsearch:
     Short Name: "Elastic"
-    URLs: 
+    URLs:
       - "https://www.elastic.co/training/"
 
   Splunk:
     Short Name: "Splunk"
-    URLs: 
+    URLs:
       - "https://www.splunk.com/en_us/training/certification.html"
 
   MariaDB:
     Short Name: "MariaDB"
-    URLs: 
+    URLs:
       - "https://mariadb.com/resources/datasheets/certification-mariadb/"
 
   EnterpriseDB:
     Short Name: "EDB"
-    URLs: 
+    URLs:
       - "https://www.enterprisedb.com/training/training-catalog"
 
   CertFirst:
     Short Name: "CertFirst"
-    URLs: 
+    URLs:
       - "https://certfirst.com/category/postgresql/#"
 
   Institute for Certification of Computing Professionals:
     Short Name: "ICCP"
-    URLs: 
+    URLs:
       - "https://www.iccp.org/certifications-available.html"
 
   Atlassian:
     Short Name: "Atlassian"
-    URLs: 
+    URLs:
       - "https://university.atlassian.com/"
 
   DataDog:
     Short Name: "DataDog"
-    URLs: 
+    URLs:
       - "https://www.datadoghq.com/certification/overview/"
 
   NewRelic:
     Short Name: "NewRelic"
-    URLs: 
+    URLs:
       - "https://learn.newrelic.com/"
 
   Hewlett Packard Enterprise:
     Short Name: "HPE"
-    URLs: 
+    URLs:
       - "https://certification-learning.hpe.com/tr/certifications"
 
   OpenStack:
     Short Name: "OpenStack"
-    URLs: 
+    URLs:
       - "https://www.openstack.org/"
 
   Puppet:
     Short Name: "Puppet"
-    URLs: 
+    URLs:
       - "https://www.puppet.com/support/training"
 
   Chef Software:
     Short Name: "Chef"
-    URLs: 
+    URLs:
       - "https://www.chef.io/training"
 
   Mirantis:
     Short Name: "Mirantis"
-    URLs: 
+    URLs:
       - "https://training.mirantis.com/certification/"
 
   DevOps Institute:
     Short Name: "DOPSI"
-    URLs: 
+    URLs:
       - "https://www.devopsinstitute.com/certifications/"
 
   GitLab:
     Short Name: "GitLab"
-    URLs: 
+    URLs:
       - "https://about.gitlab.com/services/education/"
 
   CloudBees:
     Short Name: "CloudBees"
-    URLs: 
+    URLs:
       - "https://www.cloudbees.com/jenkins/certification"
 
   GitHub:
     Short Name: "GH"
-    URLs: 
+    URLs:
       - "https://partner.microsoft.com/en-us/asset/collection/github-certifification-for-azure-partners#/"
 
   GitKraken:
     Short Name: "GitKraken"
-    URLs: 
+    URLs:
       - "https://learn.gitkraken.com/"
 
   Slack:
     Short Name: "Slack"
-    URLs: 
+    URLs:
       - "https://www.slackcertified.com/"
 
   International/American Software Testing Qualification Board:
     Short Name: "ISTQB/ASTQB"
-    URLs: 
+    URLs:
       - "https://astqb.org/certifications/"
 
   Institute of Electrical and Electronics Engineers Computer Society:
     Short Name: "IEEE CS"
-    URLs: 
+    URLs:
       - "https://www.computer.org/education/certifications"
 
   International Association of Accessibility Professionals:
     Short Name: "IAAP"
-    URLs: 
+    URLs:
       - "https://www.accessibilityassociation.org/s/certification"
 
   HIPAA Certification Company:
     Short Name: "HIPAA Certification"
-    URLs: 
+    URLs:
       - "https://www.hipaacertification.net/hipaa-certification/"
 
   PCI Security Standards Council:
     Short Name: "PCI Security Standards Council"
-    URLs: 
+    URLs:
       - "https://www.pcisecuritystandards.org/program_training_and_qualification/"
 
   GDPRCertificationCourses.com:
     Short Name: "GDPRCertificationCourses.com"
-    URLs: 
+    URLs:
       - "https://www.gdprcertificationcourses.com/"
 
   Association for Project Management:
     Short Name: "APM"
-    URLs: 
+    URLs:
       - "https://www.apm.org.uk/qualifications-and-training/"
 
   Scrum.org:
     Short Name: "Scrum.org"
-    URLs: 
+    URLs:
       - "https://www.scrum.org/professional-scrum-certifications"
 
   Project Management Institute:
     Short Name: "PMI"
-    URLs: 
+    URLs:
       - "https://www.pmi.org/certifications"
 
   Scrum Alliance:
     Short Name: "Scrum Alliance"
-    URLs: 
+    URLs:
       - "https://www.scrumalliance.org/get-certified"
 
   Business Value-Oriented Principles:
     Short Name: "BVOP"
-    URLs: 
+    URLs:
       - "https://bvop.org/certification/"
 
   International Association of Project Managers:
     Short Name: "IAPM"
-    URLs: 
+    URLs:
       - "https://www.iapm.net/en/certification/levels-of-certification/overview/"
 
   Axelos:
     Short Name: "Axelos"
-    URLs: 
+    URLs:
       - "https://www.axelos.com/certifications"
 
   F5 Networks:
     Short Name: "F5"
-    URLs: 
+    URLs:
       - "https://www.f5.com/services/certification"
 
   Wireshark:
     Short Name: "Wireshark"
-    URLs: 
+    URLs:
       - "https://www.wcnacertification.com/"
 
   SolarWinds:
     Short Name: "SolarWinds"
-    URLs: 
+    URLs:
       - "https://support.solarwinds.com/solarwinds-certified-professional-program"
 
   Certified Wireless Network Professionals:
     Short Name: "CWNP"
-    URLs: 
+    URLs:
       - "https://www.cwnp.com/it-certifications/"
 
   Palo Alto Networks:
     Short Name: "Palo Alto"
-    URLs: 
+    URLs:
       - "https://www.paloaltonetworks.com/services/education"
 
   Juniper Networks:
     Short Name: "Juniper"
-    URLs: 
+    URLs:
       - "https://www.juniper.net/us/en/training/certification.html"
 
   Cisco Networks:
     Short Name: "Cisco"
-    URLs: 
+    URLs:
       - "https://www.cisco.com/c/en/us/training-events/training-certifications.html"
 
   Ubiquiti Networks:
     Short Name: "Ubiquiti"
-    URLs: 
+    URLs:
       - "https://www.ui.com/training/"
 
   Adobe:
     Short Name: "Adobe"
-    URLs: 
+    URLs:
       - "https://learning.adobe.com/certification.html"
       - "https://certifiedprofessional.adobe.com/en/home"
       - "https://certifiedprofessional.adobe.com/specialty"

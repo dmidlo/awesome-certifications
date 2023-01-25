@@ -1,3 +1,4 @@
+---
 Categories:
   - Programming Languages
   - Cloud
@@ -17,7 +18,7 @@ Categories:
 
 Sub-Categories:
   Assembly Language:
-    Parent: 
+    Parent:
       - Programming Languages
 
   Web Assembly:
@@ -41,108 +42,108 @@ Sub-Categories:
       - Assembly Language
 
   FSharp:
-    Parent: 
+    Parent:
       - Programming Languages
     String: "F#"
 
   PHP:
-    Parent: 
+    Parent:
       - Programming Languages
 
   Swift:
-    Parent: 
+    Parent:
       - Programming Languages
 
   Go:
-    Parent: 
+    Parent:
       - Programming Languages
 
   Rust:
-    Parent: 
+    Parent:
       - Programming Languages
 
   R:
-    Parent: 
+    Parent:
       - Programming Languages
 
   Julia:
-    Parent: 
+    Parent:
       - Programming Languages
 
   HTML:
-    Parent: 
+    Parent:
       - Programming Languages
 
   CSS:
-    Parent: 
+    Parent:
       - Programming Languages
 
   Perl:
-    Parent: 
+    Parent:
       - Programming Languages
 
   Dart:
-    Parent: 
+    Parent:
       - Programming Languages
 
   Kotlin:
-    Parent: 
+    Parent:
       - Programming Languages
 
   Scala:
-    Parent: 
+    Parent:
       - Programming Languages
 
   Matlab:
-    Parent: 
+    Parent:
       - Programming Languages
 
   Clojure:
-    Parent: 
+    Parent:
       - Programming Languages
 
   Elixir:
-    Parent: 
+    Parent:
       - Programming Languages
 
   Haskell:
-    Parent: 
+    Parent:
       - Programming Languages
 
   Erlang:
-    Parent: 
+    Parent:
       - Programming Languages
 
   JavaScript:
-    Parent: 
+    Parent:
       - Programming Languages
 
   Ruby:
-    Parent: 
+    Parent:
       - Programming Languages
 
   Python:
-    Parent: 
+    Parent:
       - Programming Languages
 
   TypeScript:
-    Parent: 
+    Parent:
       - Programming Languages
       - JavaScript
 
   Java:
-    Parent: 
+    Parent:
       - Programming Languages
 
   C:
-    Parent: 
+    Parent:
       - Programming Languages
 
   C++:
-    Parent: 
+    Parent:
       - Programming Languages
 
   CSharp:
-    Parent: 
+    Parent:
       - Programming Languages
     String: "C#"
