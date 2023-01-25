@@ -34,7 +34,9 @@
 
 ##### x86 Assembly
 
-##### RISC-V Foundational Associate (RVFA)
+##### RISC-V
+
+###### RISC-V Foundational Associate (RVFA)
 
 #### F#
 
@@ -3036,7 +3038,7 @@
 
 ##### SolarWinds Certified Professional
 
-#### CWNP - Certified Network Professionals
+#### CWNP - Certified Wireless Network Professionals
 
 ##### CWS - Certified Wireless Specialist
 
@@ -3333,6 +3335,12 @@
 ##### Adobe Certified Professional - Photoshop
 
 ##### Adobe Certified Professional - Premier Pro
+
+##### Adobe Certified Professional - Visual Design
+
+##### Adobe Certified Professional - Video Design
+
+##### Adobe Certified Professional - Web Design
 
 ##### Adobe Advertising Cloud Search Business Practitioner Professional
 

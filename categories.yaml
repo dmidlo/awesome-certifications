@@ -1,0 +1,148 @@
+Categories:
+  - Programming Languages
+  - Cloud
+  - Security
+  - Databases
+  - DevOps
+  - Software Development
+  - Project Management
+  - Networking
+  - Design and User Experience
+  - SEO and Social Media
+  - Data Science
+  - FinOps
+  - Enterprise Architecture
+  - Software Testing
+  - Liberal Arts
+
+Sub-Categories:
+  Assembly Language:
+    Parent: 
+      - Programming Languages
+
+  Web Assembly:
+    Parent:
+      - Assembly Language
+
+  Armv8-M Assembly:
+    Parent:
+      - Assembly Language
+
+  Arm64 / Aarch64:
+    Parent:
+      - Assembly Language
+
+  x86 Assembly:
+    Parent:
+      - Assembly Language
+
+  RISC-V:
+    Parent:
+      - Assembly Language
+
+  FSharp:
+    Parent: 
+      - Programming Languages
+    String: "F#"
+
+  PHP:
+    Parent: 
+      - Programming Languages
+
+  Swift:
+    Parent: 
+      - Programming Languages
+
+  Go:
+    Parent: 
+      - Programming Languages
+
+  Rust:
+    Parent: 
+      - Programming Languages
+
+  R:
+    Parent: 
+      - Programming Languages
+
+  Julia:
+    Parent: 
+      - Programming Languages
+
+  HTML:
+    Parent: 
+      - Programming Languages
+
+  CSS:
+    Parent: 
+      - Programming Languages
+
+  Perl:
+    Parent: 
+      - Programming Languages
+
+  Dart:
+    Parent: 
+      - Programming Languages
+
+  Kotlin:
+    Parent: 
+      - Programming Languages
+
+  Scala:
+    Parent: 
+      - Programming Languages
+
+  Matlab:
+    Parent: 
+      - Programming Languages
+
+  Clojure:
+    Parent: 
+      - Programming Languages
+
+  Elixir:
+    Parent: 
+      - Programming Languages
+
+  Haskell:
+    Parent: 
+      - Programming Languages
+
+  Erlang:
+    Parent: 
+      - Programming Languages
+
+  JavaScript:
+    Parent: 
+      - Programming Languages
+
+  Ruby:
+    Parent: 
+      - Programming Languages
+
+  Python:
+    Parent: 
+      - Programming Languages
+
+  TypeScript:
+    Parent: 
+      - Programming Languages
+      - JavaScript
+
+  Java:
+    Parent: 
+      - Programming Languages
+
+  C:
+    Parent: 
+      - Programming Languages
+
+  C++:
+    Parent: 
+      - Programming Languages
+
+  CSharp:
+    Parent: 
+      - Programming Languages
+    String: "C#"
