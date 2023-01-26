@@ -127,49 +127,162 @@ def validate_providers() -> None:
     """Validate providers.yaml"""
     providers_data: dict = import_yaml("providers.yaml")
 
-    check_provider_keys(providers_data, required_keys={"Short Name", "URLs"})
+    check_keys(  # noblack
+        providers_data, "Providers", required_keys={"Short Name", "URLs"}
+    )
 
 
-def check_provider_keys(providers_data: dict, required_keys: set) -> None:
+def check_keys(yaml_data: dict, root_key: str, required_keys: set) -> None:
     """Validate that provider has two keys, "Short Name" and "URLs"
 
     Args:
-        providers_data (dict): yaml dict
+        yaml_data (dict): yaml dict
 
     Raises:
         RuntimeError: if missing keys or too many keys.
     """
 
+    if root_key == "Providers":
+        entry_type = "Provider"
+    elif root_key == "Certifications":
+        entry_type = "Certification"
+
     problems: list = []
-    for provider in providers_data["Providers"]:
-        present_keys = set(providers_data["Providers"][provider].keys())
+    for entry in yaml_data[root_key]:
+        present_keys = set(yaml_data[root_key][entry].keys())
 
         if required_keys != present_keys:
             problems.append(
                 (
-                    f"Provider '{provider}' is missing the following keys: "
+                    f"{entry_type} '{entry}' is missing the following keys: "
                     f"{required_keys - present_keys}"
                 )
             )
 
         if len(present_keys) > len(required_keys):
             problems.append(
-                (f"Provider '{provider}' has too many keys: {present_keys}")
+                (f"{entry_type} '{entry}' has too many keys: {present_keys}")
             )
 
     try:
         if problems:
             raise RuntimeError(problems)
     except RuntimeError as err:
-        print("The providers in providers.yaml have the following errors:")
+        print(
+            f"The {root_key.lower()} in {root_key.lower()}.yaml "
+            "have the following errors:"
+        )
         print(*problems, sep="\n")
         raise SystemExit from err
 
+
+def validate_certifications() -> None:
+    """Validate certifications.yaml"""
+
+    certifications_data: dict = import_yaml("certifications.yaml")
+
+    check_keys(
+        certifications_data,
+        "Certifications",
+        required_keys={
+            "Short Name",
+            "Provider",
+            "Categories",
+            "Sub-Categories",
+            "Exam Code",
+            "Cost",
+            "Exam Duration",
+            "Number of Questions",
+            "Exam Format",
+            "Passing Score",
+            "Delivery Channel",
+            "Exam Syllabus",
+            "Testing Policies",
+            "Hard Prerequisites",
+            "Soft Prerequisites",
+            "Registration URL",
+            "Practice Test URLs",
+            "Study URLs",
+        },
+    )
+
+    validate_cert_providers()
+    validate_cert_categories()
+
+
+def validate_cert_providers() -> None:
+    """Check that cert provider is in providers.yaml"""
+
+    certifications_data: dict = import_yaml("certifications.yaml")
+    providers_data: dict = import_yaml("providers.yaml")
+
+    certifications: dict = certifications_data['Certifications']
+    providers: dict = providers_data["Providers"]
+
+    providers_set: set = set(list(providers))
+
+    problems: list = []
+    for cert in certifications:
+        provider: str = certifications[cert]["Provider"]
+        if provider != "NA" and provider not in providers_set:
+            problems.append(
+                f"Error for cert: '{cert}'. "
+                f"'{provider}' not in providers.yaml"
+            )
+
+    exit_on_problem(problems)
+
+
+def validate_cert_categories() -> None:
+    """Validate cartification categories are in categories.yaml"""
+
+    certifications_data: dict = import_yaml("certifications.yaml")
+    categories_data: dict = import_yaml("categories.yaml")
+
+    certifications: dict = certifications_data['Certifications']
+    categories: set = set(categories_data["Categories"])
+    sub_categories: dict = categories_data["Sub-Categories"]
+    all_cats_and_sub_cats: set = categories | set(sub_categories.keys())
+
+    problems: list = []
+    for cert in certifications:
+        cert_categories: set = set(certifications[cert]['Categories'])
+        cert_subcategories: set = set(certifications[cert]['Sub-Categories'])
+        cert_cats_and_sub_cats: set = cert_categories | cert_subcategories
+
+        if not cert_cats_and_sub_cats <= all_cats_and_sub_cats:
+            problems.append(
+                f"Error for cert: '{cert}'. "
+                f"{cert_cats_and_sub_cats - all_cats_and_sub_cats}"
+                " is not a category or sub-category defined in categories.yaml"
+            )
+
+    exit_on_problem(problems)
+
+
+def exit_on_problem(problems: list) -> None:
+    """Exit if problem.
+
+    Args:
+        problems (list): list of problems
+
+    Raises:
+        ValueError:
+        SystemExit:
+    """
+
+    try:
+        if problems:
+            raise ValueError(problems)
+    except ValueError as err:
+        print(*problems, sep="\n")
+        raise SystemExit from err
 
 def validate() -> None:
     """validate awesome certification yaml files."""
     validate_categories()
     validate_providers()
+    validate_certifications()
 
 
 if __name__ == "__main__":

@@ -25,9 +25,13 @@ Sub-Categories:
     Parent:
       - Assembly Language
 
-  Armv8-M Assembly:
+  Cortex-M Assembly:
     Parent:
       - Assembly Language
+
+  Armv8-M Assembly:
+    Parent:
+      - Cortex-M Assembly
 
   Arm64 / Aarch64:
     Parent:
