@@ -1,5 +1,7 @@
 """Validate YAML files for Awesome Certifications
 
+WARNING: MVP code ahead.  It's smelly
+
 Raises:
     ValueError: Invalid Category or sub-category
     KeyError: Missing Parent key
