@@ -132,7 +132,6 @@ Sub-Categories:
 
   TypeScript:
     Parent:
-      - Programming Languages
       - JavaScript
 
   Java:
@@ -151,3 +150,19 @@ Sub-Categories:
     Parent:
       - Programming Languages
     String: "C#"
+
+  IaaS:
+    Parent:
+      - Cloud
+
+  SaaS:
+    Parent:
+      - Cloud
+
+  PaaS:
+    Parent:
+      - Cloud
+
+  FaaS:
+    Parent:
+      - Cloud

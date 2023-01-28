@@ -11,6 +11,10 @@ from yamllint import config as yaml_config
 from yamllint import linter as yaml_linter
 from iteration_utilities import duplicates
 
+CERTIFICATIONS_YAML: str = "certifications.yaml"
+CATEGORIES_YAML: str = "categories.yaml"
+PROVIDERS_YAML: str = "providers.yaml"
+
 
 def import_yaml(filename: str) -> dict:
     """Load Yaml file.
@@ -63,7 +67,7 @@ def lint_yaml_file(yaml_path: Path) -> None:
 
 def validate_categories() -> None:
     """Validate categories.yaml"""
-    categories_data: dict = import_yaml("categories.yaml")
+    categories_data: dict = import_yaml(CATEGORIES_YAML)
 
     check_categories_for_duplicates(categories_data["Categories"])
     validate_subcategory_parents(categories_data)
@@ -125,7 +129,7 @@ def validate_subcategory_parents(categories_data: dict) -> None:
 
 def validate_providers() -> None:
     """Validate providers.yaml"""
-    providers_data: dict = import_yaml("providers.yaml")
+    providers_data: dict = import_yaml(PROVIDERS_YAML)
 
     check_keys(  # noblack
         providers_data, "Providers", required_keys={"Short Name", "URLs"}
@@ -179,7 +183,7 @@ def check_keys(yaml_data: dict, root_key: str, required_keys: set) -> None:
 def validate_certifications() -> None:
     """Validate certifications.yaml"""
 
-    certifications_data: dict = import_yaml("certifications.yaml")
+    certifications_data: dict = import_yaml(CERTIFICATIONS_YAML)
 
     check_keys(
         certifications_data,
@@ -213,8 +217,8 @@ def validate_certifications() -> None:
 def validate_cert_providers() -> None:
     """Check that cert provider is in providers.yaml"""
 
-    certifications_data: dict = import_yaml("certifications.yaml")
-    providers_data: dict = import_yaml("providers.yaml")
+    certifications_data: dict = import_yaml(CERTIFICATIONS_YAML)
+    providers_data: dict = import_yaml(PROVIDERS_YAML)
 
     certifications: dict = certifications_data['Certifications']
     providers: dict = providers_data["Providers"]
@@ -234,10 +238,10 @@ def validate_cert_providers() -> None:
 
 
 def validate_cert_categories() -> None:
-    """Validate cartification categories are in categories.yaml"""
+    """Validate certification categories are in categories.yaml"""
 
-    certifications_data: dict = import_yaml("certifications.yaml")
-    categories_data: dict = import_yaml("categories.yaml")
+    certifications_data: dict = import_yaml(CERTIFICATIONS_YAML)
+    categories_data: dict = import_yaml(CATEGORIES_YAML)
 
     certifications: dict = certifications_data['Certifications']
     categories: set = set(categories_data["Categories"])
@@ -277,6 +281,7 @@ def exit_on_problem(problems: list) -> None:
     except ValueError as err:
         print(*problems, sep="\n")
         raise SystemExit from err
+
 
 def validate() -> None:
     """validate awesome certification yaml files."""

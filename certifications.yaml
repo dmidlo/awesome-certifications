@@ -89,8 +89,6 @@ Certifications:
     Sub-Categories:
       - "Assembly Language"
       - "Web Assembly"
-      - "Rust"
-      - "JavaScript"
     Exam Code: "LFD134x"
     Cost:
       - "Free"
@@ -257,7 +255,6 @@ Certifications:
       - "Programming Languages"
     Sub-Categories:
       - "FSharp"
-      - "James"
     Exam Code: "NA"
     Cost:
       - "Free"
@@ -294,7 +291,6 @@ Certifications:
     Provider: "Zend Technologies"
     Categories:
       - "Programming Languages"
-      - "David"
     Sub-Categories:
       - "PHP"
     Exam Code: "200-710"
@@ -328,6 +324,7 @@ Certifications:
       - "https://www.zend.com/training/php-certification-study-guide"
       - "https://www.zend.com/training/php-certification-test-prep"
       - "https://www.zend.com/training/certification-faq"
+
 
 # Certification Name:
 #   Short Name:
