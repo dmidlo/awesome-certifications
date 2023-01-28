@@ -1,9 +1,7 @@
 """WARNING: MVP code ahead.  It's smelly"""
 
-from mdutils.mdutils import MdUtils
 from collections import deque
-
-from rich import print
+from mdutils.mdutils import MdUtils
 
 from validate import validate, import_yaml
 
@@ -13,6 +11,17 @@ PROVIDERS_YAML: str = "providers.yaml"
 
 
 def initialize_dom() -> dict:
+    """Create a document object model to be rendered as markdown
+
+    there has got to be a better way.
+
+    This takes the contents of the yaml files and creates
+    a sensibly structured dict from the data model(s) they
+    describe.
+
+    Returns:
+        dict: a dom that only has headings (dict keys)
+    """
     dom: dict = {}
     certifications_data = import_yaml(CERTIFICATIONS_YAML)
     categories_data = import_yaml(CATEGORIES_YAML)
@@ -102,6 +111,14 @@ def initialize_dom() -> dict:
 
 
 def populate_dom_with_certs(dom: dict) -> dict:
+    """Add certs to their respective nodes in the skeleton dom
+
+    Args:
+        dom (dict): skeleton dom (from initialize_dom)
+
+    Returns:
+        dict: unsorted but data complete dom
+    """
     certifications_data = import_yaml(CERTIFICATIONS_YAML)
     categories_data = import_yaml(CATEGORIES_YAML)
 
@@ -136,6 +153,13 @@ def populate_dom_with_certs(dom: dict) -> dict:
 
 
 def merge_cert_into_dom(dom: dict, dest_key: str, dest_data: dict):
+    """Traverse and Recurse the dom add data when appropriate key is found
+
+    Args:
+        dom (dict): skeleton dom
+        dest_key (str): existing key in skeleton dom
+        dest_data (dict): value/data to add to skeleton key
+    """
     for item in dom.items():
         if isinstance(item[1], dict):
             if dest_key == item[0]:
@@ -146,6 +170,16 @@ def merge_cert_into_dom(dom: dict, dest_key: str, dest_data: dict):
 
 
 def sort_dom(dom: dict) -> dict:
+    """Sort dom with default sort
+
+    Args:
+        dom (dict): data complete dom
+
+    Returns:
+        dict: sorted dom
+
+    TODO: Once more certifications are filled out, need to add cert sorting.
+    """
     certifications_data = import_yaml(CERTIFICATIONS_YAML)
     categories_data = import_yaml(CATEGORIES_YAML)
     providers_data = import_yaml(PROVIDERS_YAML)
@@ -167,51 +201,67 @@ def sort_dom(dom: dict) -> dict:
 def sort_cats_and_sub_cats(
     dom: dict, cats_and_subcats: set, sorting_order: list, v_dom=dict()
 ):
+    """Traverse and recurse through dom dict, sorting each key's children.
 
+    Args:
+        dom (dict): document object model.
+        cats_and_subcats (set): all categories and subcategories
+        sorting_order (list): might someday be used to provide custom sort.
+        v_dom (_type_, optional): placeholder to build a sorted dom.
+
+    Returns:
+        dict: returns a sorted copy of dom.
+    """
     if len(v_dom) == 0:
         v_dom = dict(sorted(dom.items()))
     else:
         v_dom = dict(sorted(v_dom.items()))
 
     for item in v_dom.items():
-        if item[0] in cats_and_subcats:
-            if isinstance(item[1], dict):
-                sorted_item_1 = dict(sorted(item[1].items()))
-                item[1].clear()
-                item[1].update(sorted_item_1)
-                sort_cats_and_sub_cats(
-                    dom, cats_and_subcats, sorting_order, item[1]
-                )  # noqa:E501
+        if item[0] in cats_and_subcats and isinstance(item[1], dict):
+            sorted_item_1 = dict(sorted(item[1].items()))
+            item[1].clear()
+            item[1].update(sorted_item_1)
+            sort_cats_and_sub_cats(
+                dom, cats_and_subcats, sorting_order, item[1]
+            )  # noqa:E501
 
+
+    # Quick and dirty solution.  Tired of working on sorting
+    # this works, but it's yucky.
     if dom == v_dom:
         return v_dom
 
 
 def convert_dom_to_markdown(dom: dict) -> None:
-    certifications_data = import_yaml(CERTIFICATIONS_YAML)
-    categories_data = import_yaml(CATEGORIES_YAML)
-    providers_data = import_yaml(PROVIDERS_YAML)
+    """Convert dom to markdown using mdutils
 
-    certifications = list(certifications_data["Certifications"])
+    Args:
+        dom (dict): the dom.
+    """
+    categories_data = import_yaml(CATEGORIES_YAML)
+
     categories: list = categories_data["Categories"]
     sub_categories: list = list(categories_data["Sub-Categories"])
     cats_and_subcats: set = set(categories) | set(sub_categories)
 
-    providers = list(providers_data["Providers"])
-    sorting_order: list = (
-        categories + sub_categories + providers + certifications
-    )  # noqa:E501
-
-
     md_file = MdUtils(file_name="README", title="Awesome Certifications")
-    
+
     generate_markdown_body(dom, md_file, cats_and_subcats)
-    
+
     md_file.new_table_of_contents(table_title="Contents", depth=2)
     md_file.create_md_file()
-    
-def generate_markdown_body(dom: dict, md_file, cats_and_subcats, depth=0):
-    
+
+
+def generate_markdown_body(dom: dict, md_file, cats_and_subcats: set, depth=0):
+    """Traverse and recurse through the dom adding content to md_file.
+
+    Args:
+        dom (dict): the dom.
+        md_file (_type_): a instance of an MdUtils file.
+        cats_and_subcats (set): a set of all categories and subcategories.
+        depth (int, optional): recursion depth to set markdown header level.
+    """
     depth += 1
     for item in dom.items():
         if item[0] in cats_and_subcats:
@@ -222,13 +272,16 @@ def generate_markdown_body(dom: dict, md_file, cats_and_subcats, depth=0):
             for key in item[1]:
                 md_file.new_line(f"**{key}:** {item[1][key]}")
 
+
 def generate() -> None:
+    """Put it all together."""
     convert_dom_to_markdown(
         sort_dom(populate_dom_with_certs(initialize_dom()))
     )  # noqa:E501
 
 
 def run() -> None:
+    """Validate yaml file contents and generate README.md"""
     validate()
     generate()
 
