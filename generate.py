@@ -226,7 +226,6 @@ def sort_cats_and_sub_cats(
                 dom, cats_and_subcats, sorting_order, item[1]
             )  # noqa:E501
 
-
     # Quick and dirty solution.  Tired of working on sorting
     # this works, but it's yucky.
     if dom == v_dom:

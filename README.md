@@ -190,3 +190,23 @@ Contents
 **Registration URL:** ['https://store.zend.com/zend-php-certification-voucher']  
 **Practice Test URLs:** ['https://www.zend.com/training/php-certification-test-prep']  
 **Study URLs:** ['https://www.zend.com/training/php-certification-exam', 'https://www.zend.com/training/php', 'https://www.zend.com/training/php-certification-study-guide', 'https://www.zend.com/training/php-certification-test-prep', 'https://www.zend.com/training/certification-faq']
+### Zend Framework 2 Certified Architect
+  
+**Short Name:** Zend Framework 2 Certified Architect  
+**Provider:** Zend Technologies  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['PHP']  
+**Exam Code:** ZF2-200-550  
+**Cost:** [195.0]  
+**Exam Duration:** 90  
+**Number of Questions:** 70  
+**Exam Format:** ['Multiple Choice', 'Free Form']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['Person VUE']  
+**Exam Syllabus:** ['https://store.zend.com/test-prep-zend-framework-2-certification-online-training-course-includes-a-free-test-voucher']  
+**Testing Policies:** ['https://wsr.pearsonvue.com/testtaker/registration/ExamPoliciesPage/ZENDTECHNOLOGIE?conversationId=799768']  
+**Hard Prerequisites:** ['PHP']  
+**Soft Prerequisites:** ['Perl Regular Expressions', 'ANSI SQL']  
+**Registration URL:** ['https://store.zend.com/zend-framework-certification-exam-voucher']  
+**Practice Test URLs:** ['https://www.zend.com/training/zf2-certification-test-prep']  
+**Study URLs:** ['https://www.zend.com/training/zf2-certification-exam', 'https://www.zend.com/training/laminas', 'https://www.zend.com/training/zf2-certification-exam', 'https://www.zend.com/training/zf2-certification-study-guide', 'https://www.zend.com/training/certification-faq', 'https://store.zend.com/certification/certification-guide/zend-framework-2-certification-study-guide']
