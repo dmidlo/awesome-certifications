@@ -434,6 +434,68 @@ Certifications:
     Study URLs:
       - "https://gaqm.org/certifications/information_technology/cpp"
 
+  PHP Developer certification:
+    Short Name: "PHP Developer certification"
+    Provider: "Linkedin Learning"
+    Categories:
+      - "Programming Languages"
+    Sub-Categories:
+      - "PHP"
+    Exam Code: "NA"
+    Cost:
+      - "NA"
+    Exam Duration: "NA"
+    Number of Questions: "NA"
+    Exam Format:
+      - "NA"
+    Passing Score:
+      - "NA"
+    Delivery Channel:
+      - "Provider Direct"
+    Exam Syllabus:
+      - "NA"
+    Testing Policies:
+      - "NA"
+    Hard Prerequisites:
+      - "NA"
+    Soft Prerequisites:
+      - "NA"
+    Registration URL:
+      - "NA"
+    Practice Test URLs:
+      - "NA"
+    Study URLs:
+      - "https://www.linkedin.com/learning/practice-it-php-classes-and-objects/become-a-successful-php-developer"
+      - "https://www.linkedin.com/learning/level-up-php/test-your-php-skills"
+      - "https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/debugging-and-php"
+      - "https://www.linkedin.com/learning/php-user-authentication/restricting-user-access-in-php-applications"
+      - "https://www.linkedin.com/learning/php-techniques-pagination/showing-posts-in-pages-using-php"
+      - "https://www.linkedin.com/learning/php-tips-tricks-and-techniques/welcome"
+      - "https://www.linkedin.com/learning/building-apis-in-php-using-the-slim-micro-framework/welcome"
+      - "https://www.linkedin.com/learning/tech-on-the-go-history-of-php/why-does-php-exist-17281292"
+      - "https://www.linkedin.com/learning/hands-on-introduction-php/welcome-to-hands-on-php"
+      - "https://www.linkedin.com/learning/processing-data-sources-in-php/what-are-data-sources"
+      - "https://www.linkedin.com/learning/php-for-non-programmers/what-to-expect-from-this-course"
+      - "https://www.linkedin.com/learning/laravel-9-0-essential-training/why-laravel"
+      - "https://www.linkedin.com/learning/php-essential-training-2017/learning-the-fundamentals-of-php"
+      - "https://www.linkedin.com/learning/php-object-oriented-programming-2017/php-oop-techniques"
+      - "https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/introduction-14250492"
+      - "https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/welcome-14188564"
+      - "https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/building-restful-apis-in-laravel"
+      - "https://www.linkedin.com/learning/php-creating-secure-websites-8399320/the-need-for-security-with-php?autoplay"
+      - "https://www.linkedin.com/learning/learning-php-4/should-you-learn-php"
+      - "https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/work-with-files-and-directories-in-php"
+      - "https://www.linkedin.com/learning/php-for-wordpress/what-is-php-for-wordpress"
+      - "https://www.linkedin.com/learning/advanced-php/welcome"
+      - "https://www.linkedin.com/learning/hands-on-introduction-php/welcome-to-hands-on-php"
+      - "https://www.linkedin.com/learning/mvc-frameworks-for-building-php-web-applications-2/welcome"
+      - "https://www.linkedin.com/learning/installing-apache-mysql-and-php-3/install-configure-and-set-up-the-amp-stack"
+      - "https://www.linkedin.com/learning/php-design-patterns/welcome"
+      - "https://www.linkedin.com/learning/php-for-web-designers/welcome"
+      - "https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/debugging-and-php"
+      - "https://www.linkedin.com/learning/php-test-driven-development-with-phpunit/welcome"
+      - "https://www.linkedin.com/learning/level-up-php/test-your-php-skills"
+
 
 # Certification Name:
 #   Short Name:

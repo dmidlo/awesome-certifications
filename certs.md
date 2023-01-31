@@ -1,7 +1,5 @@
 #### PHP
 
-##### PHP Developer certification - Linkedin Learning
-
 ##### Acquia
 
 ###### Acquia Certified Site Builder - D9
