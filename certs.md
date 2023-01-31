@@ -1,29 +1,3 @@
-#### PHP
-
-##### Acquia
-
-###### Acquia Certified Site Builder - D9
-
-###### Acquia Certified Developer - D9
-
-###### Acquia Certified Front End Specialist- D9
-
-###### Acquia Certified Back End Specialist- D9
-
-###### Acquia Certified Cloud Pro
-
-###### Acquia Certified Site Factory Pro
-
-###### Acquia Certified Personalization Developer
-
-###### Acquia Certified Personalization Marketer
-
-###### Acquia Certified Site Studio 6 Site Builder
-
-###### Acquia Certified Campaign Studio Marketing Pro
-
-###### Acquia Certified DAM Administrator
-
 #### Swift
 
 ##### App Development with Swift certification
@@ -4175,3 +4149,14 @@
 ##### Spanish Language: Levels 1 and 2
 
 ##### Spanish with Writing: Levels 1 and 2
+
+
+<!-- # CLOUD SaaS
+Acquia Platform Certification Track:
+Acquia Certified Cloud Pro:
+Acquia Certified Site Factory Pro:
+Acquia Certified Personalization Developer:
+Acquia Certified Personalization Marketer:
+Acquia Certified Site Studio 6 Site Builder:
+Acquia Certified Campaign Studio Marketing Pro:
+Acquia Certified DAM Administrator: -->

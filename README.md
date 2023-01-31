@@ -170,6 +170,166 @@ Contents
 **Study URLs:** ['https://learn.microsoft.com/en-us/training/modules/fsharp-first-steps/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-first-program/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-conditional/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-functions/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-lists/', 'https://fsharp.org/']
 ## PHP
 
+### Acquia Certified Back End Specialist - D10
+  
+**Short Name:** Acquia Certified Back End Specialist - D10  
+**Provider:** Acquia  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['PHP']  
+**Exam Code:** Acquia Certified Back end Specialist - Drupal 10  
+**Cost:** ['NA']  
+**Exam Duration:** NA  
+**Number of Questions:** NA  
+**Exam Format:** ['NA']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['NA']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['NA']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['NA']
+### Acquia Certified Back End Specialist - D9
+  
+**Short Name:** Acquia Certified Back End Specialist - D9  
+**Provider:** Acquia  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['PHP']  
+**Exam Code:** Acquia Certified Back end Specialist - Drupal 9  
+**Cost:** [350]  
+**Exam Duration:** 90  
+**Number of Questions:** 60  
+**Exam Format:** ['multiple choice', 'multiple response']  
+**Passing Score:** ['70%']  
+**Delivery Channel:** ['ProctorU']  
+**Exam Syllabus:** ['https://www.acquia.com/support/training-certification/acquia-certification/drupal-9-certification-track#acquia-certified-back-end-d9']  
+**Testing Policies:** ['https://www.acquia.com/support/training-certification/acquia-certification']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://community.acquiaacademy.com/learn/course/external/view/elearning/1131/acquia-certified-back-end-specialist-drupal-9']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://docs.acquia.com/certification/study-guides/d9-backend-specialist/']
+### Acquia Certified Developer - D10
+  
+**Short Name:** Acquia Certified Developer - D10  
+**Provider:** Acquia  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['PHP']  
+**Exam Code:** Acquia Certified Developer - Drupal 10  
+**Cost:** ['NA']  
+**Exam Duration:** NA  
+**Number of Questions:** NA  
+**Exam Format:** ['NA']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['NA']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['NA']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['NA']
+### Acquia Certified Developer - D9
+  
+**Short Name:** Acquia Certified Developer - D9  
+**Provider:** Acquia  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['PHP']  
+**Exam Code:** Acquia Certified Developer - Drupal 9  
+**Cost:** [250.0]  
+**Exam Duration:** 90  
+**Number of Questions:** 60  
+**Exam Format:** ['multiple choice', 'multiple response']  
+**Passing Score:** ['65%']  
+**Delivery Channel:** ['ProctorU']  
+**Exam Syllabus:** ['https://www.acquia.com/support/training-certification/acquia-certification/drupal-9-certification-track#acquia-certified-developer-d9']  
+**Testing Policies:** ['https://www.acquia.com/support/training-certification/acquia-certification']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://community.acquiaacademy.com/learn/course/external/view/elearning/1130/acquia-certified-developer-drupal-9']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://docs.acquia.com/certification/study-guides/d9-certified-developer/']
+### Acquia Certified Front End Specialist - D10
+  
+**Short Name:** Acquia Certified Front End Specialist - D10  
+**Provider:** Acquia  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['PHP']  
+**Exam Code:** Acquia Certified Front End Specialist - Drupal 10  
+**Cost:** ['NA']  
+**Exam Duration:** NA  
+**Number of Questions:** NA  
+**Exam Format:** ['NA']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['NA']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['NA']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['NA']
+### Acquia Certified Front End Specialist - D9
+  
+**Short Name:** Acquia Certified Front End Specialist - D9  
+**Provider:** Acquia  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['PHP']  
+**Exam Code:** Acquia Certified Front End Specialist - Drupal 9  
+**Cost:** ['300']  
+**Exam Duration:** 90  
+**Number of Questions:** 60  
+**Exam Format:** ['multiple choice', 'multiple response']  
+**Passing Score:** ['68%']  
+**Delivery Channel:** ['ProctorU']  
+**Exam Syllabus:** ['https://www.acquia.com/support/training-certification/acquia-certification/drupal-9-certification-track#acquia-certified-front-end-d9']  
+**Testing Policies:** ['https://www.acquia.com/support/training-certification/acquia-certification']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://community.acquiaacademy.com/learn/course/external/view/elearning/1134/acquia-certified-front-end-specialist-drupal-9']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://docs.acquia.com/certification/study-guides/d9-front-end-specialist/']
+### Acquia Certified Site Builder - D10
+  
+**Short Name:** Acquia Certified Site Builder - D10  
+**Provider:** Acquia  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['PHP']  
+**Exam Code:** Acquia Certified Drupal 10 Site Builder  
+**Cost:** ['NA']  
+**Exam Duration:** NA  
+**Number of Questions:** NA  
+**Exam Format:** ['NA']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['NA']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['NA']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['NA']
+### Acquia Certified Site Builder - D9
+  
+**Short Name:** Acquia Certified Site Builder - D9  
+**Provider:** Acquia  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['PHP']  
+**Exam Code:** Acquia Certified Drupal 9 Site Builder  
+**Cost:** [155.0]  
+**Exam Duration:** 75  
+**Number of Questions:** 50  
+**Exam Format:** ['multiple choice', 'multiple response']  
+**Passing Score:** ['68%']  
+**Delivery Channel:** ['ProctorU']  
+**Exam Syllabus:** ['https://www.acquia.com/support/training-certification/acquia-certification/drupal-9-certification-track#acquia-certified-site-builder-d9']  
+**Testing Policies:** ['https://www.acquia.com/support/training-certification/acquia-certification']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['Drupal']  
+**Registration URL:** ['https://community.acquiaacademy.com/learn/course/external/view/elearning/1129/acquia-certified-site-builder-drupal-9']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://docs.acquia.com/certification/study-guides/d9-site-builder/']
 ### Certified PHP Professional (CPP)
   
 **Short Name:** CPP  
@@ -182,7 +342,7 @@ Contents
 **Number of Questions:** 100  
 **Exam Format:** [None]  
 **Passing Score:** ['70%']  
-**Delivery Channel:** ['proctoru']  
+**Delivery Channel:** ['ProctorU']  
 **Exam Syllabus:** ['https://gaqm.org/uploads/brochures/broch_5167.pdf']  
 **Testing Policies:** ['NA']  
 **Hard Prerequisites:** ['NA']  
