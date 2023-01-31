@@ -401,6 +401,39 @@ Certifications:
       - "https://www.w3schools.com/Php/php_quiz.asp"
       - "https://www.w3schools.com/Php/php_exercises.asp"
 
+  Certified PHP Professional (CPP):
+    Short Name: "CPP"
+    Provider: "Global Association for Quality Management"
+    Categories:
+      - "Programming Languages"
+    Sub-Categories:
+      - "PHP"
+    Exam Code: "CPP-001"
+    Cost:
+      - 170.00
+    Exam Duration: 90
+    Number of Questions: 100
+    Exam Format:
+      -
+    Passing Score:
+      - 70%
+    Delivery Channel:
+      - "proctoru"
+    Exam Syllabus:
+      - "https://gaqm.org/uploads/brochures/broch_5167.pdf"
+    Testing Policies:
+      - "NA"
+    Hard Prerequisites:
+      - "NA"
+    Soft Prerequisites:
+      - "MySQL"
+    Registration URL:
+      - "https://gaqm.org/voucher_store"
+    Practice Test URLs:
+      - "https://gaqm.org/uploads/sample_exams/smplex_8658.pdf"
+    Study URLs:
+      - "https://gaqm.org/certifications/information_technology/cpp"
+
 
 # Certification Name:
 #   Short Name:

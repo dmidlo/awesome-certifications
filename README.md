@@ -170,6 +170,26 @@ Contents
 **Study URLs:** ['https://learn.microsoft.com/en-us/training/modules/fsharp-first-steps/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-first-program/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-conditional/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-functions/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-lists/', 'https://fsharp.org/']
 ## PHP
 
+### Certified PHP Professional (CPP)
+  
+**Short Name:** CPP  
+**Provider:** Global Association for Quality Management  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['PHP']  
+**Exam Code:** CPP-001  
+**Cost:** [170.0]  
+**Exam Duration:** 90  
+**Number of Questions:** 100  
+**Exam Format:** [None]  
+**Passing Score:** ['70%']  
+**Delivery Channel:** ['proctoru']  
+**Exam Syllabus:** ['https://gaqm.org/uploads/brochures/broch_5167.pdf']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['MySQL']  
+**Registration URL:** ['https://gaqm.org/voucher_store']  
+**Practice Test URLs:** ['https://gaqm.org/uploads/sample_exams/smplex_8658.pdf']  
+**Study URLs:** ['https://gaqm.org/certifications/information_technology/cpp']
 ### W3Schools Certified PHP Developer
   
 **Short Name:** W3Schools Certified PHP Developer  

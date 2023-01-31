@@ -1,11 +1,5 @@
 #### PHP
 
-##### W3Schools PHP certification
-
-##### GAQM - Global Association for Quality Management
-
-###### Certified PHP Professional (CPP)
-
 ##### PHP Developer certification - Linkedin Learning
 
 ##### Acquia
