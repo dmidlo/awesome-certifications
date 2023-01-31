@@ -1,11 +1,3 @@
-#### Swift
-
-##### App Development with Swift certification
-
-###### App Development with Swift Associate
-
-###### App Development with Swift Certified User
-
 #### Go
 
 ##### Go Essential Training | LinkedIn Learning

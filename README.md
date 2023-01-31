@@ -9,6 +9,7 @@ Contents
 	* [Assembly Language](#assembly-language)
 	* [FSharp](#fsharp)
 	* [PHP](#php)
+	* [Swift](#swift)
 
 # Programming Languages
 
@@ -430,3 +431,45 @@ Contents
 **Registration URL:** ['https://store.zend.com/zend-framework-certification-exam-voucher']  
 **Practice Test URLs:** ['https://www.zend.com/training/zf2-certification-test-prep']  
 **Study URLs:** ['https://www.zend.com/training/zf2-certification-exam', 'https://www.zend.com/training/laminas', 'https://www.zend.com/training/zf2-certification-exam', 'https://www.zend.com/training/zf2-certification-study-guide', 'https://www.zend.com/training/certification-faq', 'https://store.zend.com/certification/certification-guide/zend-framework-2-certification-study-guide']
+## Swift
+
+### App Development with Swift Associate
+  
+**Short Name:** App Development with Swift Associate  
+**Provider:** Apple  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Swift']  
+**Exam Code:** App Development with Swift Associate  
+**Cost:** [155.0]  
+**Exam Duration:** NA  
+**Number of Questions:** NA  
+**Exam Format:** ['NA']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['CertiPort']  
+**Exam Syllabus:** ['https://certiport.pearsonvue.com/fc/apple/swift/associate/od']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://store.certiport.com/p/12006185']  
+**Practice Test URLs:** ['https://store.certiport.com/p/12006185']  
+**Study URLs:** ['https://developer.apple.com/learn/curriculum/', 'https://certiport.pearsonvue.com/fc/apple/swift/associate/overview', 'https://certiport.pearsonvue.com/fc/apple/swift/faq']
+### App Development with Swift Certified User
+  
+**Short Name:** App Development with Swift Certified User  
+**Provider:** Apple  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Swift']  
+**Exam Code:** App Development with Swift Certified User  
+**Cost:** [155.0]  
+**Exam Duration:** NA  
+**Number of Questions:** NA  
+**Exam Format:** ['NA']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['CertiPort']  
+**Exam Syllabus:** ['https://certiport.pearsonvue.com/fc/apple/swift/cu/od']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://store.certiport.com/p/12006185']  
+**Practice Test URLs:** ['https://store.certiport.com/p/12006185']  
+**Study URLs:** ['https://developer.apple.com/learn/curriculum/', 'https://certiport.pearsonvue.com/fc/apple/swift/cu/overview', 'https://certiport.pearsonvue.com/fc/apple/swift/faq']
