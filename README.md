@@ -170,6 +170,26 @@ Contents
 **Study URLs:** ['https://learn.microsoft.com/en-us/training/modules/fsharp-first-steps/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-first-program/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-conditional/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-functions/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-lists/', 'https://fsharp.org/']
 ## PHP
 
+### W3Schools Certified PHP Developer
+  
+**Short Name:** W3Schools Certified PHP Developer  
+**Provider:** W3Schools  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['PHP']  
+**Exam Code:** None  
+**Cost:** [95.0]  
+**Exam Duration:** 70  
+**Number of Questions:** 70  
+**Exam Format:** ['Multiple Choice']  
+**Passing Score:** ['75%']  
+**Delivery Channel:** ['Provider Direct']  
+**Exam Syllabus:** ['https://www.w3schools.com/Php/php_exam.asp']  
+**Testing Policies:** ['https://courses.w3schools.com/browse/certifications/courses/php-certification-exam']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://campus.w3schools.com/products/php-certificate']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://www.w3schools.com/Php/php_examples.asp', 'https://www.w3schools.com/Php/php_compiler.asp', 'https://www.w3schools.com/Php/php_quiz.asp', 'https://www.w3schools.com/Php/php_exercises.asp']
 ### Zend Certified PHP Engineer
   
 **Short Name:** Zend Certified PHP Engineer  
