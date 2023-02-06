@@ -10,6 +10,7 @@ Contents
 	* [FSharp](#fsharp)
 	* [Go](#go)
 	* [PHP](#php)
+	* [Rust](#rust)
 	* [Swift](#swift)
 
 # Programming Languages
@@ -474,6 +475,108 @@ Contents
 **Registration URL:** ['https://store.zend.com/zend-framework-certification-exam-voucher']  
 **Practice Test URLs:** ['https://www.zend.com/training/zf2-certification-test-prep']  
 **Study URLs:** ['https://www.zend.com/training/zf2-certification-exam', 'https://www.zend.com/training/laminas', 'https://www.zend.com/training/zf2-certification-exam', 'https://www.zend.com/training/zf2-certification-study-guide', 'https://www.zend.com/training/certification-faq', 'https://store.zend.com/certification/certification-guide/zend-framework-2-certification-study-guide']
+## Rust
+
+### Advanced Rust - Managing Projects
+  
+**Short Name:** Advanced Rust: Managing Projects  
+**Provider:** Linkedin Learning  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Rust']  
+**Exam Code:** NA  
+**Cost:** ['Free']  
+**Exam Duration:** 98  
+**Number of Questions:** NA  
+**Exam Format:** ['video']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['provider direct']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://www.linkedin.com/learning/advanced-rust-managing-projects/']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['NA']
+### Rust Code Challenges
+  
+**Short Name:** Rust Code Challenges  
+**Provider:** Linkedin Learning  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Rust']  
+**Exam Code:** NA  
+**Cost:** ['Free']  
+**Exam Duration:** 155  
+**Number of Questions:** NA  
+**Exam Format:** ['video']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['provider direct']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://www.linkedin.com/learning/rust-code-challenges/']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['NA']
+### Rust Essential Training
+  
+**Short Name:** Rust Essential Training  
+**Provider:** Linkedin Learning  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Rust']  
+**Exam Code:** NA  
+**Cost:** ['Free']  
+**Exam Duration:** 407  
+**Number of Questions:** NA  
+**Exam Format:** ['video']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['provider direct']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://www.linkedin.com/learning/rust-essential-training/']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['NA']
+### Rust Tips and Tricks
+  
+**Short Name:** Rust Tips and Tricks  
+**Provider:** Linkedin Learning  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Rust']  
+**Exam Code:** NA  
+**Cost:** ['Free']  
+**Exam Duration:** 38  
+**Number of Questions:** NA  
+**Exam Format:** ['video']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['provider direct']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://www.linkedin.com/learning/rust-tips-and-tricks']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['NA']
+### Take your first steps with Rust
+  
+**Short Name:** Take your first steps with Rust  
+**Provider:** Microsoft Learn  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Rust']  
+**Exam Code:** NA  
+**Cost:** ['Free']  
+**Exam Duration:** 331  
+**Number of Questions:** NA  
+**Exam Format:** ['video']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['provider direct']  
+**Exam Syllabus:** ['https://learn.microsoft.com/en-us/training/paths/rust-first-steps/']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://learn.microsoft.com/en-us/training/paths/rust-first-steps/']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['NA']
 ## Swift
 
 ### App Development with Swift Associate

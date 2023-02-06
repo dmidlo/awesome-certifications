@@ -1,37 +1,3 @@
-#### Rust
-
-##### What is Rust - Microsoft Learn
-
-##### Take your first steps with Rust - Microsoft Learn
-
-##### Create your first Rust program - Microsoft Learn
-
-##### Understand how Rust manages memory - Microsoft Learn
-
-##### Set up the Rust development environment - Microsoft Learn
-
-##### Write automated tests - Microsoft Learn
-
-##### Handle errors in Rust - Microsoft Learn
-
-##### Explore modules, packages, and third-party crates - Microsoft Learn
-
-##### Use loops to iterate through data in Rust - Microsoft Learn
-
-##### Test conditions with if/else expressions in Rust - Microsoft Learn
-
-##### Implement generic types and traits - Microsoft Learn
-
-##### Build a command-line to-do list program - Microsoft Learn
-
-##### Rust Essential Training - Linkedin Learning
-
-##### Advanced Rust: Managing Projects - Linkedin Learning
-
-##### Rust Code Challenges - Linkedin Learning
-
-##### Rust Tips and Tricks - Linkedin Learning
-
 #### R
 
 ##### Explore and analyze data with R - Microsoft Learn
