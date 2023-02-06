@@ -8,6 +8,7 @@ Contents
 * [Programming Languages](#programming-languages)
 	* [Assembly Language](#assembly-language)
 	* [FSharp](#fsharp)
+	* [Go](#go)
 	* [PHP](#php)
 	* [Swift](#swift)
 
@@ -169,6 +170,48 @@ Contents
 **Registration URL:** ['https://learn.microsoft.com/en-us/training/paths/fsharp-first-steps/']  
 **Practice Test URLs:** ['NA']  
 **Study URLs:** ['https://learn.microsoft.com/en-us/training/modules/fsharp-first-steps/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-first-program/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-conditional/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-functions/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-lists/', 'https://fsharp.org/']
+## Go
+
+### Go Design Patterns
+  
+**Short Name:** Go Design Patterns  
+**Provider:** Linkedin Learning  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Go']  
+**Exam Code:** NA  
+**Cost:** ['Free']  
+**Exam Duration:** 85  
+**Number of Questions:** NA  
+**Exam Format:** ['video']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['provider direct']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://www.linkedin.com/learning/go-design-patterns/']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['NA']
+### Go Essential Training
+  
+**Short Name:** Go Essential Training  
+**Provider:** Linkedin Learning  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Go']  
+**Exam Code:** NA  
+**Cost:** ['Free']  
+**Exam Duration:** 105  
+**Number of Questions:** NA  
+**Exam Format:** ['video']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['Provider Direct']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://www.linkedin.com/learning/go-essential-training-16567666/']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['NA']
 ## PHP
 
 ### Acquia Certified Back End Specialist - D10

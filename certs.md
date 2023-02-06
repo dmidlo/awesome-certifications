@@ -1,9 +1,3 @@
-#### Go
-
-##### Go Essential Training | LinkedIn Learning
-
-##### Go Design Patterns Online Class | LinkedIn Learning
-
 #### Rust
 
 ##### What is Rust - Microsoft Learn

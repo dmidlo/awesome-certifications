@@ -834,6 +834,72 @@ Certifications:
       - "https://certiport.pearsonvue.com/fc/apple/swift/cu/overview"
       - "https://certiport.pearsonvue.com/fc/apple/swift/faq"
 
+  Go Essential Training:
+    Short Name: "Go Essential Training"
+    Provider: "Linkedin Learning"
+    Categories:
+      - "Programming Languages"
+    Sub-Categories:
+      - "Go"
+    Exam Code: "NA"
+    Cost:
+      - "Free"
+    Exam Duration: 105
+    Number of Questions: "NA"
+    Exam Format:
+      - "video"
+    Passing Score:
+      - "NA"
+    Delivery Channel:
+      - "Provider Direct"
+    Exam Syllabus:
+      - "NA"
+    Testing Policies:
+      - "NA"
+    Hard Prerequisites:
+      - "NA"
+    Soft Prerequisites:
+      - "NA"
+    Registration URL:
+      - "https://www.linkedin.com/learning/go-essential-training-16567666/"
+    Practice Test URLs:
+      - "NA"
+    Study URLs:
+      - "NA"
+
+  Go Design Patterns:
+    Short Name: "Go Design Patterns"
+    Provider: "Linkedin Learning"
+    Categories:
+      - "Programming Languages"
+    Sub-Categories:
+      - "Go"
+    Exam Code: "NA"
+    Cost:
+      - "Free"
+    Exam Duration: 85
+    Number of Questions: "NA"
+    Exam Format:
+      - "video"
+    Passing Score:
+      - "NA"
+    Delivery Channel:
+      - "provider direct"
+    Exam Syllabus:
+      - "NA"
+    Testing Policies:
+      - "NA"
+    Hard Prerequisites:
+      - "NA"
+    Soft Prerequisites:
+      - "NA"
+    Registration URL:
+      - "https://www.linkedin.com/learning/go-design-patterns/"
+    Practice Test URLs:
+      - "NA"
+    Study URLs:
+      - "NA"
+
 # Certification Name:
 #   Short Name:
 #   Provider:
