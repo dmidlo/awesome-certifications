@@ -1,26 +1,3 @@
-
-#### Julia
-
-##### Learning Julia - Linkedin Learning
-
-##### Julia for Data Scientists First Look - Linkedin Learning
-
-##### Introduction to Julia (for programmers) - Julia Academy
-
-##### Julia for Data Science - Julia Academy
-
-##### Computational Modeling in Julia with Applications to the COVID-19 Pandemic - Julia Academy
-
-##### Introduction to DataFrames.jl (v1.1.1) - Julia Academy
-
-##### Deep Learning with Flux.jl - Julia Academy
-
-##### Parallel Computing
-
-##### The world of Machine Learning with Knet - Julia Academy
-
-##### Decision Making Under Uncertainty with POMDPs.jl - Julia Academy
-
 #### HTML
 
 ##### W3Schools HTML Certificate

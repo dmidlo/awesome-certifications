@@ -9,6 +9,7 @@ Contents
 	* [Assembly Language](#assembly-language)
 	* [FSharp](#fsharp)
 	* [Go](#go)
+	* [Julia](#julia)
 	* [PHP](#php)
 	* [R](#r)
 	* [Rust](#rust)
@@ -194,6 +195,48 @@ Contents
 **Registration URL:** ['NA']  
 **Practice Test URLs:** ['NA']  
 **Study URLs:** ['https://www.linkedin.com/learning/go-essential-training-16567666/', 'https://www.linkedin.com/learning/go-design-patterns/']
+## Julia
+
+### Julia Academy Julia Training
+  
+**Short Name:** Julia Academy Julia Training  
+**Provider:** Julia Academy  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Julia']  
+**Exam Code:** NA  
+**Cost:** ['Free']  
+**Exam Duration:** NA  
+**Number of Questions:** NA  
+**Exam Format:** ['video']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['provider direct']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['NA']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://juliaacademy.com/p/intro-to-julia', 'https://juliaacademy.com/p/julia-for-data-science', 'https://juliaacademy.com/p/julia-programming-for-nervous-beginners', 'https://juliaacademy.com/p/computational-modeling-in-julia-with-applications-to-the-covid-19-pandemic', 'https://juliaacademy.com/p/getting-started-with-juliaacademy', 'https://juliaacademy.com/p/introduction-to-machine-learning', 'https://juliaacademy.com/p/introduction-to-dataframes-jl1', 'https://juliaacademy.com/p/deep-learning-with-flux-jl', 'https://juliaacademy.com/p/parallel-computing', 'https://juliaacademy.com/p/the-world-of-machine-learning-with-knet', 'https://juliaacademy.com/p/decision-making-under-uncertainty-with-pomdps-jl']
+### Linkedin Learning Julia Training
+  
+**Short Name:** Linkedin Learning Julia Training  
+**Provider:** Linkedin Learning  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Julia']  
+**Exam Code:** NA  
+**Cost:** ['Free']  
+**Exam Duration:** NA  
+**Number of Questions:** NA  
+**Exam Format:** ['video']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['provider direct']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['NA']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://www.linkedin.com/learning/learning-julia', 'https://www.linkedin.com/learning/julia-for-data-scientists-first-look']
 ## PHP
 
 ### Acquia Certified Back End Specialist - D10
@@ -486,7 +529,7 @@ Contents
 **Sub-Categories:** ['R']  
 **Exam Code:** NA  
 **Cost:** ['Free']  
-**Exam Duration:** 164  
+**Exam Duration:** NA  
 **Number of Questions:** NA  
 **Exam Format:** ['video']  
 **Passing Score:** ['NA']  
