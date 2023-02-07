@@ -10,6 +10,7 @@ Contents
 	* [FSharp](#fsharp)
 	* [Go](#go)
 	* [PHP](#php)
+	* [R](#r)
 	* [Rust](#rust)
 	* [Swift](#swift)
 
@@ -129,9 +130,9 @@ Contents
 **Study URLs:** ['https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format', 'https://www.webassemblyman.com/wat_webassembly_text_format.html', 'https://webassembly.github.io/spec/core/text/index.html', 'https://docs.wasmtime.dev/wasm-wat.html', 'https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html', 'https://nishtahir.com/the-wasm-text-format/', 'https://sendilkumarn.com/blog/webassembly-text-format']
 ### x86 Assembly
 
-#### Learning Assembly Language
+#### Linkedin Learning Assembly Language Training
   
-**Short Name:** Learning Assembly Language  
+**Short Name:** Linkedin Learning Assembly Language Training  
 **Provider:** Linkedin Learning  
 **Categories:** ['Programming Languages']  
 **Sub-Categories:** ['Assembly Language', 'x86 Assembly']  
@@ -146,9 +147,9 @@ Contents
 **Testing Policies:** ['NA']  
 **Hard Prerequisites:** ['NA']  
 **Soft Prerequisites:** ['NA']  
-**Registration URL:** ['https://www.linkedin.com/learning/learning-assembly-language/']  
+**Registration URL:** ['NA']  
 **Practice Test URLs:** ['NA']  
-**Study URLs:** ['NA']
+**Study URLs:** ['https://www.linkedin.com/learning/learning-assembly-language/']
 ## FSharp
 
 ### Take your first steps with FSharp
@@ -173,29 +174,9 @@ Contents
 **Study URLs:** ['https://learn.microsoft.com/en-us/training/modules/fsharp-first-steps/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-first-program/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-conditional/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-functions/', 'https://learn.microsoft.com/en-us/training/modules/fsharp-lists/', 'https://fsharp.org/']
 ## Go
 
-### Go Design Patterns
+### Linkedin Learning Go Training
   
-**Short Name:** Go Design Patterns  
-**Provider:** Linkedin Learning  
-**Categories:** ['Programming Languages']  
-**Sub-Categories:** ['Go']  
-**Exam Code:** NA  
-**Cost:** ['Free']  
-**Exam Duration:** 85  
-**Number of Questions:** NA  
-**Exam Format:** ['video']  
-**Passing Score:** ['NA']  
-**Delivery Channel:** ['provider direct']  
-**Exam Syllabus:** ['NA']  
-**Testing Policies:** ['NA']  
-**Hard Prerequisites:** ['NA']  
-**Soft Prerequisites:** ['NA']  
-**Registration URL:** ['https://www.linkedin.com/learning/go-design-patterns/']  
-**Practice Test URLs:** ['NA']  
-**Study URLs:** ['NA']
-### Go Essential Training
-  
-**Short Name:** Go Essential Training  
+**Short Name:** Linkedin Learning Go Training  
 **Provider:** Linkedin Learning  
 **Categories:** ['Programming Languages']  
 **Sub-Categories:** ['Go']  
@@ -210,9 +191,9 @@ Contents
 **Testing Policies:** ['NA']  
 **Hard Prerequisites:** ['NA']  
 **Soft Prerequisites:** ['NA']  
-**Registration URL:** ['https://www.linkedin.com/learning/go-essential-training-16567666/']  
+**Registration URL:** ['NA']  
 **Practice Test URLs:** ['NA']  
-**Study URLs:** ['NA']
+**Study URLs:** ['https://www.linkedin.com/learning/go-essential-training-16567666/', 'https://www.linkedin.com/learning/go-design-patterns/']
 ## PHP
 
 ### Acquia Certified Back End Specialist - D10
@@ -395,9 +376,9 @@ Contents
 **Registration URL:** ['https://gaqm.org/voucher_store']  
 **Practice Test URLs:** ['https://gaqm.org/uploads/sample_exams/smplex_8658.pdf']  
 **Study URLs:** ['https://gaqm.org/certifications/information_technology/cpp']
-### PHP Developer certification
+### Linkedin Learning PHP Developer Training
   
-**Short Name:** PHP Developer certification  
+**Short Name:** Linkedin Learning PHP Developer Training  
 **Provider:** Linkedin Learning  
 **Categories:** ['Programming Languages']  
 **Sub-Categories:** ['PHP']  
@@ -475,51 +456,53 @@ Contents
 **Registration URL:** ['https://store.zend.com/zend-framework-certification-exam-voucher']  
 **Practice Test URLs:** ['https://www.zend.com/training/zf2-certification-test-prep']  
 **Study URLs:** ['https://www.zend.com/training/zf2-certification-exam', 'https://www.zend.com/training/laminas', 'https://www.zend.com/training/zf2-certification-exam', 'https://www.zend.com/training/zf2-certification-study-guide', 'https://www.zend.com/training/certification-faq', 'https://store.zend.com/certification/certification-guide/zend-framework-2-certification-study-guide']
+## R
+
+### Create machine learning models with R and tidymodels
+  
+**Short Name:** Create machine learning models with R and tidymodels  
+**Provider:** Microsoft Learn  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['R']  
+**Exam Code:** NA  
+**Cost:** ['Free']  
+**Exam Duration:** 300  
+**Number of Questions:** NA  
+**Exam Format:** ['video']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['provider direct']  
+**Exam Syllabus:** ['https://learn.microsoft.com/en-us/training/paths/machine-learning-with-r/']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://learn.microsoft.com/en-us/training/paths/machine-learning-with-r/']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['NA']
+### Linkedin Learning R Training
+  
+**Short Name:** Linkedin Learning R Training  
+**Provider:** Linkedin Learning  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['R']  
+**Exam Code:** NA  
+**Cost:** ['Free']  
+**Exam Duration:** 164  
+**Number of Questions:** NA  
+**Exam Format:** ['video']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['Provider Direct']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['NA']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://www.linkedin.com/learning/learning-r-18748884', 'https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/', 'https://www.linkedin.com/learning/processing-text-with-r-essential-training', 'https://www.linkedin.com/learning/r-essential-training-wrangling-and-visualizing-data', 'https://www.linkedin.com/learning/building-data-apps-with-r-and-shiny-essential-training', 'https://www.linkedin.com/learning/r-for-data-science-lunch-break-lessons', 'https://www.linkedin.com/learning/r-essential-training-part-2-modeling-data', 'https://www.linkedin.com/learning/creating-reports-and-presentations-with-r-markdown-and-rstudio', 'https://www.linkedin.com/learning/data-wrangling-in-r-14135737', 'https://www.linkedin.com/learning/r-data-science-code-challenges', 'https://www.linkedin.com/learning/r-programming-in-data-science-high-variety-data', 'https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r', 'https://www.linkedin.com/learning/text-analytics-and-predictions-with-r-essential-training', 'https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects', 'https://www.linkedin.com/learning/creating-maps-with-r', 'https://www.linkedin.com/learning/social-network-analysis-using-r', 'https://www.linkedin.com/learning/code-clinic-r-2018', 'https://www.linkedin.com/learning/r-interactive-visualizations-with-htmlwidgets', 'https://www.linkedin.com/learning/data-visualization-in-r-with-ggplot2', 'https://www.linkedin.com/learning/cleaning-bad-data-in-r', 'https://www.linkedin.com/learning/learning-the-r-tidyverse', 'https://www.linkedin.com/learning/designing-big-data-healthcare-studies-part-one', 'https://www.linkedin.com/learning/designing-big-data-healthcare-studies-part-two', 'https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training', 'https://www.linkedin.com/learning/healthcare-analytics-regression-in-r?u=95233017']
 ## Rust
 
-### Advanced Rust - Managing Projects
+### Linkedin Learning Rust Training
   
-**Short Name:** Advanced Rust: Managing Projects  
-**Provider:** Linkedin Learning  
-**Categories:** ['Programming Languages']  
-**Sub-Categories:** ['Rust']  
-**Exam Code:** NA  
-**Cost:** ['Free']  
-**Exam Duration:** 98  
-**Number of Questions:** NA  
-**Exam Format:** ['video']  
-**Passing Score:** ['NA']  
-**Delivery Channel:** ['provider direct']  
-**Exam Syllabus:** ['NA']  
-**Testing Policies:** ['NA']  
-**Hard Prerequisites:** ['NA']  
-**Soft Prerequisites:** ['NA']  
-**Registration URL:** ['https://www.linkedin.com/learning/advanced-rust-managing-projects/']  
-**Practice Test URLs:** ['NA']  
-**Study URLs:** ['NA']
-### Rust Code Challenges
-  
-**Short Name:** Rust Code Challenges  
-**Provider:** Linkedin Learning  
-**Categories:** ['Programming Languages']  
-**Sub-Categories:** ['Rust']  
-**Exam Code:** NA  
-**Cost:** ['Free']  
-**Exam Duration:** 155  
-**Number of Questions:** NA  
-**Exam Format:** ['video']  
-**Passing Score:** ['NA']  
-**Delivery Channel:** ['provider direct']  
-**Exam Syllabus:** ['NA']  
-**Testing Policies:** ['NA']  
-**Hard Prerequisites:** ['NA']  
-**Soft Prerequisites:** ['NA']  
-**Registration URL:** ['https://www.linkedin.com/learning/rust-code-challenges/']  
-**Practice Test URLs:** ['NA']  
-**Study URLs:** ['NA']
-### Rust Essential Training
-  
-**Short Name:** Rust Essential Training  
+**Short Name:** Linkedin Learning Rust Training  
 **Provider:** Linkedin Learning  
 **Categories:** ['Programming Languages']  
 **Sub-Categories:** ['Rust']  
@@ -534,29 +517,9 @@ Contents
 **Testing Policies:** ['NA']  
 **Hard Prerequisites:** ['NA']  
 **Soft Prerequisites:** ['NA']  
-**Registration URL:** ['https://www.linkedin.com/learning/rust-essential-training/']  
+**Registration URL:** ['NA']  
 **Practice Test URLs:** ['NA']  
-**Study URLs:** ['NA']
-### Rust Tips and Tricks
-  
-**Short Name:** Rust Tips and Tricks  
-**Provider:** Linkedin Learning  
-**Categories:** ['Programming Languages']  
-**Sub-Categories:** ['Rust']  
-**Exam Code:** NA  
-**Cost:** ['Free']  
-**Exam Duration:** 38  
-**Number of Questions:** NA  
-**Exam Format:** ['video']  
-**Passing Score:** ['NA']  
-**Delivery Channel:** ['provider direct']  
-**Exam Syllabus:** ['NA']  
-**Testing Policies:** ['NA']  
-**Hard Prerequisites:** ['NA']  
-**Soft Prerequisites:** ['NA']  
-**Registration URL:** ['https://www.linkedin.com/learning/rust-tips-and-tricks']  
-**Practice Test URLs:** ['NA']  
-**Study URLs:** ['NA']
+**Study URLs:** ['https://www.linkedin.com/learning/rust-essential-training/', 'https://www.linkedin.com/learning/advanced-rust-managing-projects/', 'https://www.linkedin.com/learning/rust-code-challenges/', 'https://www.linkedin.com/learning/rust-tips-and-tricks']
 ### Take your first steps with Rust
   
 **Short Name:** Take your first steps with Rust  

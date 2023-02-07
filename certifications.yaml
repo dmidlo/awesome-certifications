@@ -1,7 +1,7 @@
 ---
 Certifications:
-  Learning Assembly Language:
-    Short Name: "Learning Assembly Language"
+  Linkedin Learning Assembly Language Training:
+    Short Name: "Linkedin Learning Assembly Language Training"
     Provider: "Linkedin Learning"
     Categories:
       - "Programming Languages"
@@ -28,11 +28,11 @@ Certifications:
     Soft Prerequisites:
       - "NA"
     Registration URL:
-      - "https://www.linkedin.com/learning/learning-assembly-language/"
+      - "NA"
     Practice Test URLs:
       - "NA"
     Study URLs:
-      - "NA"
+      - "https://www.linkedin.com/learning/learning-assembly-language/"
 
   Introduction to WebAssembly (LFD133x):
     Short Name: "Introduction to WebAssembly"
@@ -434,8 +434,8 @@ Certifications:
     Study URLs:
       - "https://gaqm.org/certifications/information_technology/cpp"
 
-  PHP Developer certification:
-    Short Name: "PHP Developer certification"
+  Linkedin Learning PHP Developer Training:
+    Short Name: "Linkedin Learning PHP Developer Training"
     Provider: "Linkedin Learning"
     Categories:
       - "Programming Languages"
@@ -834,8 +834,8 @@ Certifications:
       - "https://certiport.pearsonvue.com/fc/apple/swift/cu/overview"
       - "https://certiport.pearsonvue.com/fc/apple/swift/faq"
 
-  Go Essential Training:
-    Short Name: "Go Essential Training"
+  Linkedin Learning Go Training:
+    Short Name: "Linkedin Learning Go Training"
     Provider: "Linkedin Learning"
     Categories:
       - "Programming Languages"
@@ -861,44 +861,12 @@ Certifications:
     Soft Prerequisites:
       - "NA"
     Registration URL:
+      - "NA"
+    Practice Test URLs:
+      - "NA"
+    Study URLs:
       - "https://www.linkedin.com/learning/go-essential-training-16567666/"
-    Practice Test URLs:
-      - "NA"
-    Study URLs:
-      - "NA"
-
-  Go Design Patterns:
-    Short Name: "Go Design Patterns"
-    Provider: "Linkedin Learning"
-    Categories:
-      - "Programming Languages"
-    Sub-Categories:
-      - "Go"
-    Exam Code: "NA"
-    Cost:
-      - "Free"
-    Exam Duration: 85
-    Number of Questions: "NA"
-    Exam Format:
-      - "video"
-    Passing Score:
-      - "NA"
-    Delivery Channel:
-      - "provider direct"
-    Exam Syllabus:
-      - "NA"
-    Testing Policies:
-      - "NA"
-    Hard Prerequisites:
-      - "NA"
-    Soft Prerequisites:
-      - "NA"
-    Registration URL:
       - "https://www.linkedin.com/learning/go-design-patterns/"
-    Practice Test URLs:
-      - "NA"
-    Study URLs:
-      - "NA"
 
   Take your first steps with Rust:
     Short Name: "Take your first steps with Rust"
@@ -933,8 +901,8 @@ Certifications:
     Study URLs:
       - "NA"
 
-  Rust Essential Training:
-    Short Name: "Rust Essential Training"
+  Linkedin Learning Rust Training:
+    Short Name: "Linkedin Learning Rust Training"
     Provider: "Linkedin Learning"
     Categories:
       - "Programming Languages"
@@ -960,89 +928,26 @@ Certifications:
     Soft Prerequisites:
       - "NA"
     Registration URL:
+      - "NA"
+    Practice Test URLs:
+      - "NA"
+    Study URLs:
       - "https://www.linkedin.com/learning/rust-essential-training/"
-    Practice Test URLs:
-      - "NA"
-    Study URLs:
-      - "NA"
-
-  Advanced Rust - Managing Projects:
-    Short Name: "Advanced Rust: Managing Projects"
-    Provider: "Linkedin Learning"
-    Categories:
-      - "Programming Languages"
-    Sub-Categories:
-      - "Rust"
-    Exam Code: "NA"
-    Cost:
-      - "Free"
-    Exam Duration: 98
-    Number of Questions: "NA"
-    Exam Format:
-      - "video"
-    Passing Score:
-      - "NA"
-    Delivery Channel:
-      - "provider direct"
-    Exam Syllabus:
-      - "NA"
-    Testing Policies:
-      - "NA"
-    Hard Prerequisites:
-      - "NA"
-    Soft Prerequisites:
-      - "NA"
-    Registration URL:
       - "https://www.linkedin.com/learning/advanced-rust-managing-projects/"
-    Practice Test URLs:
-      - "NA"
-    Study URLs:
-      - "NA"
-
-  Rust Code Challenges:
-    Short Name: "Rust Code Challenges"
-    Provider: "Linkedin Learning"
-    Categories:
-      - "Programming Languages"
-    Sub-Categories:
-      - "Rust"
-    Exam Code: "NA"
-    Cost:
-      - "Free"
-    Exam Duration: 155
-    Number of Questions: "NA"
-    Exam Format:
-      - "video"
-    Passing Score:
-      - "NA"
-    Delivery Channel:
-      - "provider direct"
-    Exam Syllabus:
-      - "NA"
-    Testing Policies:
-      - "NA"
-    Hard Prerequisites:
-      - "NA"
-    Soft Prerequisites:
-      - "NA"
-    Registration URL:
       - "https://www.linkedin.com/learning/rust-code-challenges/"
-    Practice Test URLs:
-      - "NA"
-    Study URLs:
-      - "NA"
+      - "https://www.linkedin.com/learning/rust-tips-and-tricks"
 
-  Rust Tips and Tricks:
-    Short Name: "Rust Tips and Tricks"
-    Provider: "Linkedin Learning"
+  Create machine learning models with R and tidymodels:
+    Short Name: "Create machine learning models with R and tidymodels"
+    Provider: "Microsoft Learn"
     Categories:
       - "Programming Languages"
     Sub-Categories:
-      - "Rust"
+      - "R"
     Exam Code: "NA"
     Cost:
       - "Free"
-    Exam Duration: 38
+    Exam Duration: 300
     Number of Questions: "NA"
     Exam Format:
       - "video"
@@ -1050,6 +955,39 @@ Certifications:
       - "NA"
     Delivery Channel:
       - "provider direct"
+    Exam Syllabus:
+      - "https://learn.microsoft.com/en-us/training/paths/machine-learning-with-r/"
+    Testing Policies:
+      - "NA"
+    Hard Prerequisites:
+      - "NA"
+    Soft Prerequisites:
+      - "NA"
+    Registration URL:
+      - "https://learn.microsoft.com/en-us/training/paths/machine-learning-with-r/"
+    Practice Test URLs:
+      - "NA"
+    Study URLs:
+      - "NA"
+
+  Linkedin Learning R Training:
+    Short Name: "Linkedin Learning R Training"
+    Provider: "Linkedin Learning"
+    Categories:
+      - "Programming Languages"
+    Sub-Categories:
+      - "R"
+    Exam Code: "NA"
+    Cost:
+      - "Free"
+    Exam Duration: 164
+    Number of Questions: "NA"
+    Exam Format:
+      - "video"
+    Passing Score:
+      - "NA"
+    Delivery Channel:
+      - "Provider Direct"
     Exam Syllabus:
       - "NA"
     Testing Policies:
@@ -1059,11 +997,35 @@ Certifications:
     Soft Prerequisites:
       - "NA"
     Registration URL:
-      - "https://www.linkedin.com/learning/rust-tips-and-tricks"
+      - "NA"
     Practice Test URLs:
       - "NA"
     Study URLs:
-      - "NA"
+      - "https://www.linkedin.com/learning/learning-r-18748884"
+      - "https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/"
+      - "https://www.linkedin.com/learning/processing-text-with-r-essential-training"
+      - "https://www.linkedin.com/learning/r-essential-training-wrangling-and-visualizing-data"
+      - "https://www.linkedin.com/learning/building-data-apps-with-r-and-shiny-essential-training"
+      - "https://www.linkedin.com/learning/r-for-data-science-lunch-break-lessons"
+      - "https://www.linkedin.com/learning/r-essential-training-part-2-modeling-data"
+      - "https://www.linkedin.com/learning/creating-reports-and-presentations-with-r-markdown-and-rstudio"
+      - "https://www.linkedin.com/learning/data-wrangling-in-r-14135737"
+      - "https://www.linkedin.com/learning/r-data-science-code-challenges"
+      - "https://www.linkedin.com/learning/r-programming-in-data-science-high-variety-data"
+      - "https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r"
+      - "https://www.linkedin.com/learning/text-analytics-and-predictions-with-r-essential-training"
+      - "https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects"
+      - "https://www.linkedin.com/learning/creating-maps-with-r"
+      - "https://www.linkedin.com/learning/social-network-analysis-using-r"
+      - "https://www.linkedin.com/learning/code-clinic-r-2018"
+      - "https://www.linkedin.com/learning/r-interactive-visualizations-with-htmlwidgets"
+      - "https://www.linkedin.com/learning/data-visualization-in-r-with-ggplot2"
+      - "https://www.linkedin.com/learning/cleaning-bad-data-in-r"
+      - "https://www.linkedin.com/learning/learning-the-r-tidyverse"
+      - "https://www.linkedin.com/learning/designing-big-data-healthcare-studies-part-one"
+      - "https://www.linkedin.com/learning/designing-big-data-healthcare-studies-part-two"
+      - "https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training"
+      - "https://www.linkedin.com/learning/healthcare-analytics-regression-in-r?u=95233017"
 
 # Certification Name:
 #   Short Name:
