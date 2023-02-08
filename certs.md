@@ -1,7 +1,5 @@
 #### HTML
 
-##### W3Schools HTML Certificate
-
 ##### CanCanIT HTML5
 
 ##### FreeCodeCamp HTML5

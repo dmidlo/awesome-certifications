@@ -9,6 +9,7 @@ Contents
 	* [Assembly Language](#assembly-language)
 	* [FSharp](#fsharp)
 	* [Go](#go)
+	* [HTML](#html)
 	* [Julia](#julia)
 	* [PHP](#php)
 	* [R](#r)
@@ -195,6 +196,28 @@ Contents
 **Registration URL:** ['NA']  
 **Practice Test URLs:** ['NA']  
 **Study URLs:** ['https://www.linkedin.com/learning/go-essential-training-16567666/', 'https://www.linkedin.com/learning/go-design-patterns/']
+## HTML
+
+### W3Schools HTML Certificate
+  
+**Short Name:** W3Schools HTML Certificate  
+**Provider:** W3Schools  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['HTML']  
+**Exam Code:** W3Schools HTML Certificate  
+**Cost:** [95.0]  
+**Exam Duration:** 70  
+**Number of Questions:** 70  
+**Exam Format:** ['Multiple Choice']  
+**Passing Score:** [75]  
+**Delivery Channel:** ['provider direct']  
+**Exam Syllabus:** ['https://courses.w3schools.com/browse/certifications/courses/html-certification-exam']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://campus.w3schools.com/collections/certifications/products/html-certificate']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://courses.w3schools.com/courses/html', 'https://www.w3schools.com/html/default.asp']
 ## Julia
 
 ### Julia Academy Julia Training

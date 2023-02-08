@@ -1104,6 +1104,40 @@ Certifications:
       - "https://juliaacademy.com/p/the-world-of-machine-learning-with-knet"
       - "https://juliaacademy.com/p/decision-making-under-uncertainty-with-pomdps-jl"
 
+  W3Schools HTML Certificate:
+    Short Name: "W3Schools HTML Certificate"
+    Provider: "W3Schools"
+    Categories:
+      - "Programming Languages"
+    Sub-Categories:
+      - "HTML"
+    Exam Code: "W3Schools HTML Certificate"
+    Cost:
+      - 95.00
+    Exam Duration: 70
+    Number of Questions: 70
+    Exam Format:
+      - "Multiple Choice"
+    Passing Score:
+      - 75
+    Delivery Channel:
+      - "provider direct"
+    Exam Syllabus:
+      - "https://courses.w3schools.com/browse/certifications/courses/html-certification-exam"
+    Testing Policies:
+      - "NA"
+    Hard Prerequisites:
+      - "NA"
+    Soft Prerequisites:
+      - "NA"
+    Registration URL:
+      - "https://campus.w3schools.com/collections/certifications/products/html-certificate"
+    Practice Test URLs:
+      - "NA"
+    Study URLs:
+      - "https://courses.w3schools.com/courses/html"
+      - "https://www.w3schools.com/html/default.asp"
+
 # Certification Name:
 #   Short Name:
 #   Provider:
