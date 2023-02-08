@@ -198,6 +198,26 @@ Contents
 **Study URLs:** ['https://www.linkedin.com/learning/go-essential-training-16567666/', 'https://www.linkedin.com/learning/go-design-patterns/']
 ## HTML
 
+### CancanIT HTML5 Certification
+  
+**Short Name:** CancanIT HTML5 Certification  
+**Provider:** CancanIT  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['HTML']  
+**Exam Code:** CancanIT HTML5 Certification  
+**Cost:** [120.0]  
+**Exam Duration:** 120  
+**Number of Questions:** 20  
+**Exam Format:** ['Multiple Choice', 'Free Form']  
+**Passing Score:** [75]  
+**Delivery Channel:** ['provider direct']  
+**Exam Syllabus:** ['https://cancanit.com/html5-certification/']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://cancanit.com/html5-certification/']  
+**Practice Test URLs:** ['https://cancanit.com/example-certification-test/']  
+**Study URLs:** ['https://html.spec.whatwg.org/multipage/', 'http://diveintohtml5.info/', 'https://www.amazon.com/Pro-HTML5-Programming-Application-Development/dp/143023864X/ref=sr_1_1?crid=2V07TLXTGPZTS&keywords=Pro+HTML5+Programming%3A+Powerful+APIs+for+Richer+Internet+Application+Development&qid=1675866508&s=books&sprefix=pro+html5+programming+powerful+apis+for+richer+internet+application+development%2Cstripbooks%2C89&sr=1-1']
 ### W3Schools HTML Certificate
   
 **Short Name:** W3Schools HTML Certificate  

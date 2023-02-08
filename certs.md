@@ -1,7 +1,5 @@
 #### HTML
 
-##### CanCanIT HTML5
-
 ##### FreeCodeCamp HTML5
 
 ##### NCSA CP-450 HTML5
