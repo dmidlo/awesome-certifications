@@ -812,3 +812,78 @@ Providers:
     Short Name: "Corp Security"
     URLs:
       - "https://corpsecurity.org/"
+
+  International Association of Emergency Management:
+    Short Name: "IAEM"
+    URLs:
+      - "https://www.iaem.org/"
+
+  International Foundation for Cultural Property Protection:
+    Short Name: "IFCPP"
+    URLs:
+      - "https://ifcpp.org/"
+
+  Center for Security and Emergency Management:
+    Short Name: "C4SEM"
+    URLs:
+      - "https://www.c4sem.org/"
+
+  Federal Law Enforcement Training Centers:
+    Short Name: "FLETC"
+    URLs:
+      - "https://www.fletc.gov/"
+
+  Texas Engineering Extension Service:
+    Short Name: "TEEX"
+    URLs:
+      - "https://teex.org/"
+
+  CounterTerrorism Operations Support:
+    Short Name: "CTOS"
+    URLs:
+      - "https://www.ctosnnsa.org/"
+
+  Rural Domestic Preparedness Consortium:
+    Short Name: "RDPC"
+    URLs:
+      - "https://ruraltraining.org/"
+
+  University of Hawaii, National Disaster Preparedness Training Centers:
+    Short Name: "UH-NDPTC"
+    URLs:
+      - "https://ndptc.hawaii.edu/"
+
+  University of Texas San Antonio:
+    Short Name: "UTSA"
+    URLs:
+      - "https://www.utsa.edu/"
+
+  The Trustees of Columbia University in the City of New York, National Center for Disaster Preparedness:
+    Short Name: "NCDP"
+    URLs:
+      - "https://ncdp.columbia.edu/"
+
+  The University of Arkansas, Criminal Justice Institute:
+    Short Name: "CJI"
+    URLs:
+      - "https://www.cji.edu/"
+
+  Louisiana State University:
+    Short Name: "LSU"
+    URLs:
+      - "https://www.lsu.edu/"
+  
+  Naval Postgraduate School:
+    Short Name: "NPS"
+    URLs:
+      - "https://nps.edu/"
+
+  Norwich University Applied Research Institute:
+    Short Name: "NUARI"
+    URLs:
+      - "https://nuari.org/"
+
+  Center for Domestic Preparedness:
+    Short Name: "CDP"
+    URLs:
+      - "https://cdp.dhs.gov/"

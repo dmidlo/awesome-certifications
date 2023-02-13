@@ -1178,6 +1178,320 @@
 
 ### Security
 
+#### Texas Engineering Extension Service:
+
+##### Basic Emergency Medical Services (EMS) Concepts for Chemical, Biological, Radiological, Nuclear, and Explosive (CBRNE) Events
+
+##### Essentials of Community Cyber Security
+
+##### Network Assurance, Web-Based
+
+##### Digital Forensics Basics
+
+##### WMD/Terrorism Awareness for Emergency Responders
+
+##### Foundations of Cyber Crimes
+
+##### Cyber Incident Analysis and Response, Web-Based
+
+##### Information Security Basics, Web-Based
+
+##### Cyber Ethics, Web-Based
+
+##### Disaster Recovery for Information Systems, Web-Based
+
+##### Information Risk Management, Web-Based
+
+##### Critical Infrastructure Security and Resilience Awareness
+
+##### Medical Countermeasures Awareness for Public Health Emergencies
+
+##### Understanding Targeted Cyber Attacks
+
+##### Detecting and Responding to a Cyber Attack
+
+##### Threat and Hazard Identification and Risk Assessment and Stakeholder Preparedness Review (Online)
+
+##### Disaster Recovery Awareness
+
+##### Enhanced All-Hazards Incident Management/Unified Command
+
+##### Public Information in an All-Hazards Incident
+
+##### Medical Countermeasures: Points of Dispensing (POD), Planning and Response
+
+##### 	Crisis Leadership
+
+##### Disaster Preparedness for Healthcare Organizations within the Community Infrastructure
+
+##### 	Strategic Overview of Disaster Management for Water and Wastewater Utilities
+
+##### Disaster Management for Water and Wastewater Utilities
+
+##### Disaster Management for Electric Power Systems
+
+##### Emergency Operations Center (EOC) Operations and Planning for All-Hazards Events
+
+##### Incident Command System (ICS) Forms Review
+
+##### Crisis Management Affecting Institutions of Higher Education: A Collaborative Community Approach
+
+##### 	Community Preparedness for Cyber Incidents
+
+##### 	Critical Infrastructure Resilience and Community Lifelines
+
+##### Enhanced Sports and Special Events Incident Management
+
+##### Physical and Cybersecurity for Critical Infrastructure
+
+##### Integration of Cybersecurity Personnel into the Emergency Operations Center for Cyber Incidents
+
+#### CounterTerrorism Operations Support
+
+##### Introduction to Radiological Nuclear WMD Operations
+
+##### WMD Radiological/Nuclear Awareness Course, Train-the-Trainer
+
+##### Introduction to Radiological/Nuclear WMD Operations
+
+#### Rural Domestic Preparedness Consortium
+
+##### Community Based Planning for All-Hazards Threats in Tribal Communities
+
+##### Terrorism and WMD Awareness in the Workplace, Web-Based
+
+#### University of Hawaii, National Disaster Preparedness Training Centers
+
+##### Unmanned Aircraft Systems in Disaster Management
+
+##### Disaster Resilience for Small Businesses
+
+##### Social Media Platforms for Disaster Management
+
+#### University of Texas San Antonio
+
+##### Using the Community Cyber Security Maturity Model (CCSMM) to Develop a Cyber Security Program
+
+##### Establishing an Information Sharing and Analysis Organization
+
+##### Cyber Identity and Authentication
+
+##### Cyber Awareness for Municipal, Police, Fire and EMS IT Personnel
+
+##### Cyber Incident Response for Municipal, Police, Fire and EMS IT Personnel
+
+##### Introduction to Information Sharing and Analysis Organizations
+
+##### Cybersecurity Fundamentals
+
+##### Recovering from Cybersecurity Incidents
+
+##### Organizational Cybersecurity Information Sharing
+
+##### Cybersecurity First Responder (CFR)
+
+##### Malware Prevention, Discovery, and Recovery
+
+#### The Trustees of Columbia University in the City of New York, National Center for Disaster Preparedness
+
+##### Principles of Community Economic Recovery
+
+##### Addressing Gaps in Housing Disaster Recovery: Conducting Impact Assessments
+
+##### Addressing Gaps in Housing Disaster Recovery: Pre-Disaster Planning
+
+##### Addressing Gaps in Housing Disaster Recovery: Post-Disaster Planning
+
+##### Establishing Collaborative Case Management Services
+
+##### Executing Strategies to Rapidly Rehabilitate Damaged Housing
+
+##### Community Planning for Economic Recovery
+
+##### Establishing Collaborative Case Management Services
+
+##### Executing Strategies to Rapidly Rehabilitate Damaged Housing
+
+##### Planning for Transitional and Long-Term Housing After Major Disasters
+
+##### Improving Business' Financial Literacy and Management to Support Post-Disaster Economic Recovery
+
+##### Improving Individual and Households' Financial Literacy and Management to Support Post-Disaster
+
+##### Incorporating Best Practices for Short-Term and Long-Term Housing Construction Programs
+
+#### The University of Arkansas, Criminal Justice Institute
+
+##### Developing a Cyber Security Annex for Incident Response
+
+##### Understanding Social Engineering Attacks
+
+##### Introduction to Basic Vulnerability Assessment Skills
+
+##### Mobile Device Security and Privacy
+
+##### Introduction to Internet of Things (IoT)
+
+##### Examining Advanced Persistant Threats
+
+##### Comprehensive Cybersecurity Defense (CCD)
+
+##### Cybersecurity Incident Response for IT Personnel
+
+##### Cybersecurity Resiliency in Industrial Control Systems
+
+#### Louisiana State University
+
+##### Instructor Development Workshop
+
+##### Readiness: Training Identification and Preparedness Planning
+
+#### Naval Postgraduate School
+
+##### Master of Arts Degree in Homeland Security
+
+##### Homeland Security Executive Leaders Program (ELP)
+
+##### Executive Education Seminars hosted by Mobile Education Team (MET)
+
+##### Pacific Executive Leaders Program (PELP)
+
+##### Radiological Emergency Preparedness (REP) Executive Education Program
+
+##### Emergence Program
+
+#### Norwich University Applied Research Institute
+
+##### Community Cybersecurity Information Sharing Integration
+
+#### Center for Domestic Preparedness
+
+##### REP Plan Review 24 hour
+
+##### Managing Public Information for All Hazards Incidents
+
+##### Instructor Training Course
+
+##### REP Exercise Evaluator
+
+##### Radiological Accident Assessment
+
+#### Federal Law Enforcement Training Centers
+
+##### Basic Incident Response to Digital Evidence
+
+##### Case Organization & Presentation Training Program
+
+##### Covert Electronic Surveillance Program
+
+##### Covert Electronic Tracking Program
+
+##### Crime Scene Investigators Training Program
+
+##### Critical Communication Skills in Officer/Citizen Encounters Instructor Training Program
+
+##### Critical Communications Skills in Officer/Citizen Encounters Asynchronous Training Program
+
+##### Cyber Incident Response and Analysis
+
+##### Digital Evidence Acquisition Specialist Training
+
+##### Digital Evidence Collection in an Enterprise Environment
+
+##### Digital Photography for Law Enforcement Level 1
+
+##### Digital Photography for Law Enforcement Level 2
+
+##### Electronic Control Device Instructor Training Program
+
+##### Electronic Navigation Training Program
+
+##### Financial Investigation and Analysis Training Program
+
+##### Foreign Affairs Counter Threat
+
+##### Grant Fraud Investigation Training Program
+
+##### Internal Affairs Investigations Training Program
+
+##### International Banking and Money Laundering Training Program
+
+##### Internet Protocol Camera Program
+
+##### Introduction to Criminal Investigation Training Program
+
+##### Introduction to Digital Evidence Analysis
+
+##### Investigative Analysis for Law Enforcement
+
+##### JTAG ChipOff for Smartphones Training Program
+
+##### Law Enforcement Mesh Network Training Program
+
+##### Macintosh Forensics Training Program
+
+##### Mobile Device Investigations Program
+
+##### Money Laundering & Asset Forfeiture Training Program
+
+##### Physical Security Training Program
+
+##### Procurement Fraud Investigation Training Program
+
+##### Product Substitution Investigations Training Program
+
+##### Recovery of Evidence from CCTV Video Recording
+
+##### Seized Computer Evidence Recovery Specialist
+
+##### Vehicle Data Extraction Training Program
+
+##### Wi-Fi Tools for Analysis and GEO-Locating
+
+#### Center for Security and Emergency Management - C4SEM
+
+##### Certified Anti-Corruption Specialist (CACS)
+
+##### Certified Critical Infrastructure Protection Specialist (CCIPS)
+
+##### Certified Chief Security Officer (CCSO)
+
+##### Certified Counter Terrorism Specialist (CCTS)
+
+##### Certified Evidence Collection Specialist (CECS)
+
+##### Certified Emergency Management Specialist (CEMS)
+
+##### Certified Emergency Operation Center Manager (CEOCM)
+
+##### Certified Homeland Security Manager (CHSM)
+
+##### Certified Intelligence Analyst Specialist (CIAS)
+
+##### Certified Internal Investigation Officer (CIIO)
+
+##### Certified Site Safety and Health Inspector (CSSHI) 
+
+##### Certified Special Security Officer (CSSO)
+
+##### Certified Emergency Operation Center Specialist (CEOCS)
+
+##### Certified Homeland Security Specialist (CHSS)
+
+##### Certified Site Safety and Health Specialist (CSSHS)
+
+##### Certified Physical Security Specialist (CPSS)
+
+#### International Foundation for Cultural Property Protection - IFCPP
+
+##### Cultural Property Protection Professional
+
+#### International Association of Emergency Management - IAEM
+
+##### Associate Emergency Manager
+
+##### Certified Emergency Manager
+
 #### Corp Security International
 
 ##### Certified Security Manager (CSM)
