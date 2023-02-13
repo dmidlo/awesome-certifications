@@ -13,6 +13,7 @@ Contents
 	* [HTML](#html)
 	* [Julia](#julia)
 	* [PHP](#php)
+	* [Perl](#perl)
 	* [R](#r)
 	* [Rust](#rust)
 	* [Swift](#swift)
@@ -725,6 +726,28 @@ Contents
 **Registration URL:** ['https://store.zend.com/zend-framework-certification-exam-voucher']  
 **Practice Test URLs:** ['https://www.zend.com/training/zf2-certification-test-prep']  
 **Study URLs:** ['https://www.zend.com/training/zf2-certification-exam', 'https://www.zend.com/training/laminas', 'https://www.zend.com/training/zf2-certification-exam', 'https://www.zend.com/training/zf2-certification-study-guide', 'https://www.zend.com/training/certification-faq', 'https://store.zend.com/certification/certification-guide/zend-framework-2-certification-study-guide']
+## Perl
+
+### Oracle University Perl Training
+  
+**Short Name:** Oracle University Perl Training  
+**Provider:** Oracle  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Perl']  
+**Exam Code:** NA  
+**Cost:** ['Free']  
+**Exam Duration:** NA  
+**Number of Questions:** NA  
+**Exam Format:** ['NA']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['Provider Direct']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://education.oracle.com/perl-programming-ed-3/courP_1278']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://learn.perl.org/', 'https://www.linkedin.com/learning/perl-5-essential-training', 'linkedin.com/learning/learning-regular-expressions-15586553']
 ## R
 
 ### Create machine learning models with R and tidymodels
