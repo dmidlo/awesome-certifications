@@ -13,6 +13,7 @@ Contents
 	* [Go](#go)
 	* [HTML](#html)
 	* [Julia](#julia)
+	* [Kotlin](#kotlin)
 	* [PHP](#php)
 	* [Perl](#perl)
 	* [R](#r)
@@ -587,6 +588,28 @@ Contents
 **Registration URL:** ['NA']  
 **Practice Test URLs:** ['NA']  
 **Study URLs:** ['https://www.linkedin.com/learning/learning-julia', 'https://www.linkedin.com/learning/julia-for-data-scientists-first-look']
+## Kotlin
+
+### Linkedin Learning Kotlin Training
+  
+**Short Name:** Linkedin Learning Kotlin Training  
+**Provider:** Linkedin Learning  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Kotlin']  
+**Exam Code:** NA  
+**Cost:** ['NA']  
+**Exam Duration:** NA  
+**Number of Questions:** NA  
+**Exam Format:** ['video']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['provider direct']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['NA']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://www.linkedin.com/learning/kotlin-essential-training', 'https://www.linkedin.com/learning/kotlin-for-java-developers', 'https://www.linkedin.com/learning/transitioning-from-java-to-kotlin', 'https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code', 'https://www.linkedin.com/learning/build-spring-boot-apps-with-the-kotlin-programming-language', 'https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o', 'https://www.linkedin.com/learning/intermediate-kotlin-for-android-developers', 'https://www.linkedin.com/learning/advanced-kotlin-database-development', 'https://www.linkedin.com/learning/programming-for-non-programmers-android-kotlin', 'https://www.linkedin.com/learning/creating-your-first-android-app-with-kotlin', 'https://www.linkedin.com/learning/android-development-retrofit-with-kotlin', 'https://www.linkedin.com/learning/kotlin-for-android-best-practices', 'https://www.linkedin.com/learning/android-development-essential-training-your-first-app-with-kotlin', 'https://www.linkedin.com/learning/concurrent-programming-with-android-threads-workers-and-kotlin-coroutines', 'https://www.linkedin.com/learning/android-dependency-injection-with-dagger-2-and-kotlin', 'https://www.linkedin.com/learning/developing-aws-lambda-functions-with-kotlin', 'https://www.linkedin.com/learning/android-development-essential-training-manage-data-with-kotlin', 'https://www.linkedin.com/learning/android-development-essential-training-app-architecture-with-kotlin', 'https://www.linkedin.com/learning/android-development-essential-training-1-your-first-app', 'https://www.linkedin.com/learning/distributing-your-android-app-for-kotlin-developers', 'https://www.linkedin.com/learning/android-development-essential-training-5-storage-and-databases', 'https://www.linkedin.com/learning/android-studio-essential-training-14266841', 'https://www.linkedin.com/learning/android-development-essential-training-3-navigation', 'https://www.linkedin.com/learning/android-development-essential-training-the-user-interface-with-kotlin', 'https://www.linkedin.com/learning/android-development-essential-training-2-user-interface-design', 'https://www.linkedin.com/learning/android-studio-essential-training-2020', 'https://www.linkedin.com/learning/intellij-idea-community-edition-essential-training-2']
 ## PHP
 
 ### Acquia Certified Back End Specialist - D10
