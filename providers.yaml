@@ -782,3 +782,33 @@ Providers:
     Short Name: "CAIA"
     URLs:
       - "https://caia.org/programs"
+
+  American Society for Industrial Security:
+    Short Name: "ASIS"
+    URLs:
+      - "https://www.asisonline.org/"
+
+  Center for Development of Security Excellence:
+    Short Name: "CDSE"
+    URLs:
+      - "https://www.cdse.edu/"
+
+  The Society of Industrial Security Professionals:
+    Short Name: "NCMS"
+    URLs:
+      - "https://classmgmt.com/"
+
+  Electronic Security Association:
+    Short Name: "ESA"
+    URLs:
+      - "https://esaweb.org/"
+
+  Security Industry Association:
+    Short Name: "SIA"
+    URLs:
+      - "https://www.securityindustry.org/"
+
+  Corp Security International:
+    Short Name: "Corp Security"
+    URLs:
+      - "https://corpsecurity.org/"

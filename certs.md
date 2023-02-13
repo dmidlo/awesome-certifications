@@ -1178,6 +1178,82 @@
 
 ### Security
 
+#### Corp Security International
+
+##### Certified Security Manager (CSM)
+
+##### Certified Security Investigator (CSI)
+
+##### Certified Security Specialist (CSS)
+
+##### Certified Security Executive (CSE)
+
+##### Certified Security Associate (CSA)
+
+#### Security Industry Association SIA:
+
+##### Security Industry Cybersecurity Certification (SICC)
+
+##### Certified Security Project Manager (CSPM)
+
+#### Electronic Security Association (ESA):
+
+##### ESA Certified Alarm Technician Level 1 Certification (CAT Level 1)
+
+##### ESA Certified Alarm Technician Level 2 Certification (CAT Level 2)
+
+##### ESA Certified Intrusion Technician Level 2 Certification (CIT)
+
+##### ESA Certified Systems Integrator Certification (CSI)
+
+##### ESA Certified Security Systems Integrator Certification (CSSI)
+
+##### ESA Certified Service Technician Certification (CST)
+
+##### ESA Certified Fire Alarm Technician Level 2 (CFAT)
+
+##### Certified Fire Alarm Designer (CFAD) Level III Fire Certification
+
+##### Certified Residential Fire Alarm Inspector (CRFAI) Certification
+
+##### ESA Certified Video Technician Certification (CVT)
+
+##### ESA Certified Security Salesperson Certification (CSS)
+
+#### Center for Development of Security Excellence - CDSE
+
+##### Security Fundamentals Professional Certification (SFPC)
+
+##### Security Asset Protection Professional Certification (SAPPC)
+
+##### Security Program Integration Professional Certification (SPIPC)
+
+##### Special Program Security Credential (SPSC)
+
+##### Industrial Security Oversight Certification (ISOC)
+
+##### Physical Security Certification (PSC)
+
+##### Adjudicator Professional Certification (APC)
+
+##### Due Process Adjudicator Professional Credential (DPAPC)
+
+##### Antiterrorism Credential (ATC)
+
+#### The Society of Industrial Security Professionals (NCMS)
+
+##### Industrial Security Professional (ISP)
+
+#### American Society for Industrial Security - ASIS
+
+##### Certified Protection Professional (CPP)
+
+##### Professional Certified Investigator (PCI)
+
+##### Associate Protection Professional (APP)
+
+##### Physical Security Professional (PSP)
+
 #### FreeCodeCamp.org - Security
 
 ##### Information Security
