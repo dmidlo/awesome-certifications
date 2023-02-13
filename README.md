@@ -218,6 +218,66 @@ Contents
 **Registration URL:** ['https://cancanit.com/html5-certification/']  
 **Practice Test URLs:** ['https://cancanit.com/example-certification-test/']  
 **Study URLs:** ['https://html.spec.whatwg.org/multipage/', 'http://diveintohtml5.info/', 'https://www.amazon.com/Pro-HTML5-Programming-Application-Development/dp/143023864X/ref=sr_1_1?crid=2V07TLXTGPZTS&keywords=Pro+HTML5+Programming%3A+Powerful+APIs+for+Richer+Internet+Application+Development&qid=1675866508&s=books&sprefix=pro+html5+programming+powerful+apis+for+richer+internet+application+development%2Cstripbooks%2C89&sr=1-1']
+### Linkedin Learning HTML Training
+  
+**Short Name:** Linkedin Learning HTML Training  
+**Provider:** Linkedin Learning  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['HTML']  
+**Exam Code:** NA  
+**Cost:** ['NA']  
+**Exam Duration:** NA  
+**Number of Questions:** NA  
+**Exam Format:** ['video']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['provider direct']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['NA']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://www.linkedin.com/learning/html-essential-training-4', 'https://www.linkedin.com/learning/practical-html-for-no-coders', 'https://www.linkedin.com/learning/html-css-creating-forms', 'https://www.linkedin.com/learning/semantic-html-and-css-code-challenges', 'https://www.linkedin.com/learning/html-and-css-linking', 'https://www.linkedin.com/learning/creating-a-responsive-html-email', 'https://www.linkedin.com/learning/building-great-forms-with-html-and-css', 'https://www.linkedin.com/learning/learning-html-canvas', 'https://www.linkedin.com/learning/html5-geolocation', 'https://www.linkedin.com/learning/html-tables', 'https://www.linkedin.com/learning/creating-an-html-email-newsletter', 'https://www.linkedin.com/learning/crafting-meaningful-html', 'https://www.linkedin.com/learning/html-structured-semantic-data', 'https://www.linkedin.com/learning/design-the-web-html-background-video', 'https://www.linkedin.com/learning/html-metadata-in-the-head', 'https://www.linkedin.com/learning/html-images-and-figures', 'https://www.linkedin.com/learning/html5-document-editing', 'https://www.linkedin.com/learning/html-for-educators']
+### NCSA CP-400 HTML4
+  
+**Short Name:** NCSA CP-400 HTML4  
+**Provider:** National Computer Science Academy  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['HTML']  
+**Exam Code:** CP-400  
+**Cost:** ['Free']  
+**Exam Duration:** NA  
+**Number of Questions:** 35  
+**Exam Format:** ['Multiple Choice']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['provider direct']  
+**Exam Syllabus:** ['https://www.ncsacademy.com/certification/html4.cfm']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://www.ncsacademy.com/certification/html4.cfm']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['']
+### NCSA CP-450 HTML5
+  
+**Short Name:** NCSA CP-450 HTML5  
+**Provider:** National Computer Science Academy  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['HTML']  
+**Exam Code:** CP-450  
+**Cost:** ['Free']  
+**Exam Duration:** NA  
+**Number of Questions:** 35  
+**Exam Format:** ['Multiple Choice']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['provider direct']  
+**Exam Syllabus:** ['https://www.ncsacademy.com/certification/html5.cfm']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://www.ncsacademy.com/certification/html5.cfm']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['']
 ### W3Schools HTML Certificate
   
 **Short Name:** W3Schools HTML Certificate  

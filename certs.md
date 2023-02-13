@@ -1,17 +1,3 @@
-#### HTML
-
-##### FreeCodeCamp HTML5
-
-##### NCSA CP-450 HTML5
-
-##### HTML & CSS: Creating Forms - Linkedin Learning
-
-##### HTML5: Document Editing - Linkedin Learning
-
-##### HTML5: Geolocation - Linkedin Learning
-
-##### Design the Web: HTML Background Video - Linkedin Learning
-
 #### CSS
 
 ##### W3Schools CSS Certificate
@@ -270,6 +256,10 @@
 
 ###### Angular Certified Developer Level 3
 
+##### FreeCodeCamp.org
+
+###### JavaScript Algorithms and Data Structures Certification
+
 #### Ruby
 
 ##### Ruby Association Certified Ruby Programmer
@@ -303,6 +293,14 @@
 ###### Certified Associate Python Programmer (CAPP)
 
 ###### Certified Professional Python Programmer (CPPP)
+
+##### FreeCodeCamp.org - Python
+
+###### Scientific Computing with Python
+
+###### Data Analysis with Python
+
+###### Machine Learning with Python
 
 #### TypeScript
 
@@ -1366,6 +1364,10 @@
 
 ### Security
 
+#### FreeCodeCamp.org - Security
+
+##### Information Security
+
 #### Dell Technologies - Security
 
 ##### Associate - Data Protection and Management (DCA-DPM)
@@ -1819,6 +1821,10 @@
 ##### ISO/IEC 17020:2012 - Certified Lead Auditor
 
 ### Databases
+
+#### FreeCodeCamp.org
+
+##### Relational Databases
 
 #### CIW - Databases
 
@@ -2407,6 +2413,14 @@
 ##### Slack Certified Developer
 
 ### Software Development
+
+#### FreeCodeCamp.org
+
+##### Responsive Web Design
+
+##### Front End Development Libraries
+
+##### Back End Development and APIs
 
 #### ISTQB/ASTQB - International/American Software Testing Qualification Board
 
@@ -3524,6 +3538,10 @@
 
 ### Data Science
 
+#### FreeCodeCamp.org
+
+##### Data Visualization
+
 #### Dell Technologies - Data Science
 
 ##### Specialist - Implementation Engineer, PowerProtect Data Manager (DCS-IE)
@@ -3933,6 +3951,10 @@
 ##### Business Process Manager (BPM)
 
 ### Software Testing
+
+#### FreeCodeCamp.org - QA
+
+##### Quality Assurance Certification
 
 #### GAQM - Global Association for Quality Management - Software Testing
 
