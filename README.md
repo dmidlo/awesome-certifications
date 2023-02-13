@@ -7,6 +7,7 @@ Contents
 
 * [Programming Languages](#programming-languages)
 	* [Assembly Language](#assembly-language)
+	* [CSS](#css)
 	* [FSharp](#fsharp)
 	* [Go](#go)
 	* [HTML](#html)
@@ -152,6 +153,128 @@ Contents
 **Registration URL:** ['NA']  
 **Practice Test URLs:** ['NA']  
 **Study URLs:** ['https://www.linkedin.com/learning/learning-assembly-language/']
+## CSS
+
+### CIW Advanced HTML5 & CSS3 Specialist
+  
+**Short Name:** CIW Advanced HTML5 & CSS3 Specialist  
+**Provider:** Certified Internet Web Professional  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['CSS']  
+**Exam Code:** 1D0-720  
+**Cost:** [150.0]  
+**Exam Duration:** 75  
+**Number of Questions:** 56  
+**Exam Format:** ['Multiple Choice']  
+**Passing Score:** ['75%']  
+**Delivery Channel:** ['Provider Direct']  
+**Exam Syllabus:** ['https://www.ciwcertified.com/resources/documents/objectives/1D0-720_ExamObjectives.pdf']  
+**Testing Policies:** ['https://www.ciwcertified.com/ciw-certifications/exam-info/taking-an-exam']  
+**Hard Prerequisites:** ['https://www.ciwcertified.com/ciw-certifications/web-foundations-series/site-development-associate']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://ciwcertifiedstore.com/index.php?route=product/category&path=60']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://www.ciwcertified.com/ciw-certifications/web-and-mobile-design-series/advanced-html5-and-css3-specialist', 'https://www.ciwcertified.com/resources/documents/course-descriptions/CCN02CDHTCSCU2012.pdf', 'https://www.ciwcertified.com/resources/documents/course-components-us/Course_Components_Template_ADVHTML5CSS3_ILT_US_03252016.pdf', 'https://www.ciwcertified.com/resources/documents/course-components-emea/Course_Components_ADVHTML5CSS3_ILT_EMEA_03252016.pdf', 'https://www.ciwcertified.com/resources/documents/course-components-us/Course_Components_ADVHTML5CSS3_SS_US_03252016.pdf', 'https://www.ciwcertified.com/resources/documents/course-components-emea/Course_Components_ADVHTML5CSS3_SS_EMEA_03252016.pdf', 'https://www.ciwcertified.com/resources/documents/web-and-mobile-design/CIW_WDMS_HTML5_CSS3_04212014.pdf']
+### CIW Multimedia Specialist
+  
+**Short Name:** CIW Multimedia Specialist  
+**Provider:** Certified Internet Web Professional  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['CSS']  
+**Exam Code:** 1D0-724  
+**Cost:** [150.0]  
+**Exam Duration:** 75  
+**Number of Questions:** 56  
+**Exam Format:** ['Multiple Choice']  
+**Passing Score:** ['75%']  
+**Delivery Channel:** ['Provider Direct']  
+**Exam Syllabus:** ['https://www.ciwcertified.com/resources/documents/1D0-724_Exam_Objectives.pdf']  
+**Testing Policies:** ['https://www.ciwcertified.com/ciw-certifications/exam-info/taking-an-exam']  
+**Hard Prerequisites:** ['https://www.ciwcertified.com/ciw-certifications/web-foundations-series/internet-business-associate', 'https://www.ciwcertified.com/ciw-certifications/web-foundations-series/site-development-associate', 'https://www.ciwcertified.com/ciw-certifications/web-and-mobile-design-series/advanced-html5-and-css3-specialist', 'https://www.ciwcertified.com/ciw-certifications/web-and-mobile-design-series/user-interface-designer']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://ciwcertifiedstore.com/index.php?route=product/category&path=60']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://www.ciwcertified.com/ciw-certifications/web-and-mobile-design-series/multimedia-specialist', 'https://www.ciwcertified.com/resources/documents/MultiMedia_Specialist_v1.0_CourseOutline.pdf']
+### CIW User Interface Designer
+  
+**Short Name:** CIW User Interface Designer  
+**Provider:** Certified Internet Web Professional  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['CSS']  
+**Exam Code:** 1D0-621  
+**Cost:** [150.0]  
+**Exam Duration:** 75  
+**Number of Questions:** 54  
+**Exam Format:** ['Multiple Choice']  
+**Passing Score:** ['74.07%']  
+**Delivery Channel:** ['Provider Direct']  
+**Exam Syllabus:** ['https://www.ciwcertified.com/resources/documents/objectives/1D0-621_ExamObjectives.pdf']  
+**Testing Policies:** ['https://www.ciwcertified.com/ciw-certifications/exam-info/taking-an-exam']  
+**Hard Prerequisites:** ['https://www.ciwcertified.com/ciw-certifications/web-foundations-series/site-development-associate', 'https://www.ciwcertified.com/ciw-certifications/web-and-mobile-design-series/advanced-html5-and-css3-specialist']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://ciwcertifiedstore.com/index.php?route=product/category&path=60']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://www.ciwcertified.com/ciw-certifications/web-and-mobile-design-series/user-interface-designer', 'https://www.ciwcertified.com/resources/documents/course-descriptions/UID_v1.0_CourseOutline.pdf', 'https://www.ciwcertified.com/resources/documents/course-components-us/Course_Components_UID_ILT_US_03252016.pdf', 'https://www.ciwcertified.com/resources/documents/course-components-emea/Course_Components_UID_ILT_EMEA_03252016.pdf', 'https://www.ciwcertified.com/resources/documents/course-components-us/Course_Components_UID_SS_US_03252016.pdf', 'https://www.ciwcertified.com/resources/documents/course-components-emea/Course_Components_UID_SS_EMEA_03252016.pdf', 'https://www.ciwcertified.com/resources/documents/web-and-mobile-design/CIW_WDMS_UID_03222016.pdf']
+### CIW Web Foundations Associate
+  
+**Short Name:** CIW Web Foundations Associate  
+**Provider:** Certified Internet Web Professional  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['CSS']  
+**Exam Code:** 1D0-610  
+**Cost:** [150.0]  
+**Exam Duration:** 90  
+**Number of Questions:** 90  
+**Exam Format:** ['Multiple Choice']  
+**Passing Score:** ['63.33%']  
+**Delivery Channel:** ['Provider Direct']  
+**Exam Syllabus:** ['https://www.ciwcertified.com/resources/documents/objectives/1D0-610.pdf']  
+**Testing Policies:** ['https://www.ciwcertified.com/ciw-certifications/exam-info/taking-an-exam']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['https://www.ciwcertified.com/ciw-certifications/web-foundations-series/internet-business-associate', 'https://www.ciwcertified.com/ciw-certifications/web-foundations-series/site-development-associate', 'https://www.ciwcertified.com/ciw-certifications/web-foundations-series/network-technology-associate']  
+**Registration URL:** ['https://ciwcertifiedstore.com/index.php?route=product/category&path=60']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://www.ciwcertified.com/ciw-certifications/web-foundations-series/web-foundations-associate', 'https://www.ciwcertified.com/resources/documents/course-descriptions/CCKITCFNDLKKL1208.PDF', 'https://ciwcertifiedstore.com/?_ga=2.146441204.1569918.1676279547-481567083.1676279547', 'https://www.ciwcertified.com/ciw-certifications/web-foundations-series/web-foundations-associate/instructor-led-products', 'https://www.ciwcertified.com/resources/documents/course-components-us/Course_Components_WFA_ILT_US_03252016.pdf', 'https://www.ciwcertified.com/resources/documents/course-components-us/Course_Components_WFA_SS_US_03252016.pdf', 'https://www.ciwcertified.com/resources/documents/web-foundations/CIW_web_foundations_associate.pdf', 'https://www.ciwcertified.com/ciw-certifications/web-foundations-series/internet-business-associate', 'https://www.ciwcertified.com/ciw-certifications/web-foundations-series/site-development-associate', 'https://www.ciwcertified.com/ciw-certifications/web-foundations-series/network-technology-associate']
+### Linkedin Learning CSS Training
+  
+**Short Name:** Linkedin Learning CSS Training  
+**Provider:** Linkedin Learning  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['CSS']  
+**Exam Code:** NA  
+**Cost:** ['NA']  
+**Exam Duration:** NA  
+**Number of Questions:** NA  
+**Exam Format:** ['video']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['provider direct']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['NA']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://www.linkedin.com/learning/cutting-edge-css', 'https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade', 'https://www.linkedin.com/learning/css-enhancing-interfaces-with-animation', 'https://www.linkedin.com/learning/creating-a-responsive-web-design', 'https://www.linkedin.com/learning/html-css-creating-forms', 'https://www.linkedin.com/learning/css-logical-properties-code-challenges', 'https://www.linkedin.com/learning/css-advanced-typographic-techniques', 'https://www.linkedin.com/learning/tailwind-css-3-essential-training/', 'https://www.linkedin.com/learning/tailwind-css-3-essential-training', 'https://www.linkedin.com/learning/advanced-css-media-queries', 'https://www.linkedin.com/learning/tailwind-css-essential-training', 'https://www.linkedin.com/learning/design-the-web-responsive-svg-images', 'https://www.linkedin.com/learning/learning-materialize-css', 'https://www.linkedin.com/learning/css-transforms-and-transitions', 'https://www.linkedin.com/learning/design-the-web-svg-rollovers-with-css', 'https://www.linkedin.com/learning/css-positioning-best-practices', 'https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2', 'https://www.linkedin.com/learning/design-the-web-creating-css-only-navigation-menus', 'https://www.linkedin.com/learning/building-a-responsive-single-page-design-with-sass', 'https://www.linkedin.com/learning/css-enhancing-website-graphics', 'https://www.linkedin.com/learning/design-the-web-styling-a-table', 'https://www.linkedin.com/learning/css-variable-fonts', 'https://www.linkedin.com/learning/next-generation-css-design-with-postcss-and-cssnext', 'https://www.linkedin.com/learning/css-design-systems-and-architectures', 'https://www.linkedin.com/learning/sass-essential-training-15630917', 'https://www.linkedin.com/learning/creating-a-responsive-web-design-advanced-techniques', 'https://www.linkedin.com/learning/design-the-web-creating-a-pull-quote-with-css', 'https://www.linkedin.com/learning/css-print-style-sheets', 'https://www.linkedin.com/learning/css-frameworks-grids', 'https://www.linkedin.com/learning/responsive-typography-techniques', 'https://www.linkedin.com/learning/bootstrap-4-layouts-responsive-single-page-design', 'https://www.linkedin.com/learning/design-the-web-using-counters-and-resets-in-css', 'https://www.linkedin.com/learning/building-a-responsive-single-page-design-with-postcss', 'https://www.linkedin.com/learning/design-the-web-graphics-and-css-pseudo-elements', 'https://www.linkedin.com/learning/css-refactoring-style-sheets', 'https://www.linkedin.com/learning/design-the-web-styling-form-elements', 'https://www.linkedin.com/learning/design-the-web-pie-charts-with-css/', 'https://www.linkedin.com/learning/css-to-sass-converting-an-existing-site', 'https://www.linkedin.com/learning/responsive-images', 'https://www.linkedin.com/learning/creating-web-icons-with-svg', 'https://www.linkedin.com/learning/bootstrap-4-with-sass', 'https://www.linkedin.com/learning/design-the-web-creating-and-protecting-email-links', 'https://www.linkedin.com/learning/bootstrap-4-with-sass', 'https://www.linkedin.com/learning/responsive-typography-techniques', 'https://www.linkedin.com/learning/making-your-site-retina-ready', 'https://www.linkedin.com/learning/responsive-images', 'https://www.linkedin.com/learning/delivering-video-in-web-experiences-17175150', 'https://www.linkedin.com/learning/design-the-web-creating-a-sortable-table', 'https://www.linkedin.com/learning/bootstrap-5-essential-training', 'https://www.linkedin.com/learning/learning-web-audio-and-video', 'https://www.linkedin.com/learning/css-formatting-visual-data', 'https://www.linkedin.com/learning/bootstrap-4-essential-training', 'https://www.linkedin.com/learning/css-essential-training-3', 'https://www.linkedin.com/learning/introduction-to-css-14934735', 'https://www.linkedin.com/learning/css-combining-grid-and-flexbox', 'https://www.linkedin.com/learning/css-shorts/', 'https://www.linkedin.com/learning/css-for-programmers', 'https://www.linkedin.com/learning/css-animation-14153685', 'https://www.linkedin.com/learning/level-up-css-layout', 'https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid', 'https://www.linkedin.com/learning/html-and-css-creating-navigation-bars', 'https://www.linkedin.com/learning/css-tips/supercharge-your-css', 'https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox', 'https://www.linkedin.com/learning/building-great-forms-with-html-and-css/', 'https://www.linkedin.com/learning/css-images/', 'https://www.linkedin.com/learning/css-selectors-2', 'https://www.linkedin.com/learning/interactive-animations-with-css-and-javascript', 'https://www.linkedin.com/learning/controlling-css-with-javascript', 'https://www.linkedin.com/learning/css-scrolling-and-parallax/', 'https://www.linkedin.com/learning/semantic-html-and-css-code-challenges', 'https://www.linkedin.com/learning/css-advanced-layouts-with-grid', 'https://www.linkedin.com/learning/css-display']
+### W3Schools CSS Certificate
+  
+**Short Name:** W3Schools CSS Certificate  
+**Provider:** W3Schools  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['CSS']  
+**Exam Code:** W3Schools CSS Certificate  
+**Cost:** [95.0]  
+**Exam Duration:** 70  
+**Number of Questions:** 70  
+**Exam Format:** ['Multiple choice']  
+**Passing Score:** ['75%']  
+**Delivery Channel:** ['Provider Direct']  
+**Exam Syllabus:** ['https://courses.w3schools.com/browse/certifications/courses/css-certification-exam']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://campus.w3schools.com/products/css-certificate']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://campus.w3schools.com/products/css-course', 'https://www.w3schools.com/css/css_exam.asp', 'https://www.w3schools.com/css/default.asp']
 ## FSharp
 
 ### Take your first steps with FSharp
