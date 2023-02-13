@@ -1,13 +1,3 @@
-#### Perl
-
-##### CIW Perl Specialist
-
-##### Perl Programming - Oracle University
-
-##### Beginning Perl - learn.perl.org
-
-##### Perl 5 Essential Training - Linkedin Learning
-
 #### Dart
 
 ##### Clean Code with Dart - Linkedin Learning

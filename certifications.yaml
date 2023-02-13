@@ -1589,6 +1589,41 @@ Certifications:
       - "https://www.linkedin.com/learning/css-advanced-layouts-with-grid"
       - "https://www.linkedin.com/learning/css-display"
 
+  Oracle University Perl Training:
+    Short Name: "Oracle University Perl Training"
+    Provider: "Oracle"
+    Categories:
+      - "Programming Languages"
+    Sub-Categories:
+      - "Perl"
+    Exam Code: "NA"
+    Cost:
+      - "Free"
+    Exam Duration: "NA"
+    Number of Questions: "NA"
+    Exam Format:
+      - "NA"
+    Passing Score:
+      - "NA"
+    Delivery Channel:
+      - "Provider Direct"
+    Exam Syllabus:
+      - "NA"
+    Testing Policies:
+      - "NA"
+    Hard Prerequisites:
+      - "NA"
+    Soft Prerequisites:
+      - "NA"
+    Registration URL:
+      - "https://education.oracle.com/perl-programming-ed-3/courP_1278"
+    Practice Test URLs:
+      - "NA"
+    Study URLs:
+      - "https://learn.perl.org/"
+      - "https://www.linkedin.com/learning/perl-5-essential-training"
+      - "linkedin.com/learning/learning-regular-expressions-15586553"
+
 # Certification Name:
 #   Short Name:
 #   Provider:
