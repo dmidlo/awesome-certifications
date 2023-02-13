@@ -1,21 +1,3 @@
-#### Dart
-
-##### Clean Code with Dart - Linkedin Learning
-
-##### Learn Dart in 2 Hours - FreeCodeCamp
-
-##### VSkills Certified Dart Professional
-
-##### ATC - Android Training Company
-
-###### Flutter Certified Application Developer
-
-###### Android Certified Application Developer
-
-###### Android Certified Application Engineer
-
-###### Android Certified Trainer
-
 #### Kotlin
 
 ##### Kotlin Essential Training

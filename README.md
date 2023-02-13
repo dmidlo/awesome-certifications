@@ -8,6 +8,7 @@ Contents
 * [Programming Languages](#programming-languages)
 	* [Assembly Language](#assembly-language)
 	* [CSS](#css)
+	* [Dart](#dart)
 	* [FSharp](#fsharp)
 	* [Go](#go)
 	* [HTML](#html)
@@ -276,6 +277,128 @@ Contents
 **Registration URL:** ['https://campus.w3schools.com/products/css-certificate']  
 **Practice Test URLs:** ['NA']  
 **Study URLs:** ['https://campus.w3schools.com/products/css-course', 'https://www.w3schools.com/css/css_exam.asp', 'https://www.w3schools.com/css/default.asp']
+## Dart
+
+### Android Certified Application Developer
+  
+**Short Name:** Android Certified Application Developer  
+**Provider:** Android Training Company  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Dart']  
+**Exam Code:** AND-X01  
+**Cost:** [150.0]  
+**Exam Duration:** 90  
+**Number of Questions:** 45  
+**Exam Format:** ['Multiple Choice']  
+**Passing Score:** ['70%']  
+**Delivery Channel:** ['Provider Direct']  
+**Exam Syllabus:** ['https://androidatc.com/upload/editor_upload/file/Android-Application-Development-v12_Course-Outline.pdf']  
+**Testing Policies:** ['https://androidatc.com/pages/Eng/Online-Proctored-Exam']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://androidatc.com/studentboard/_signin.php']  
+**Practice Test URLs:** ['https://androidatc.com/upload/editor_upload/file/SelfStudy/Android-Certified-Application-Developer-v12_Exam-Sample.pdf']  
+**Study URLs:** ['https://androidatc.com/pages/Eng/Android-Certified-Application-Developer', 'https://androidatc.com/_paytxn_auto.php?action=ebook&ebook_id=3']
+### Android Certified Application Engineer
+  
+**Short Name:** Android Certified Application Engineer  
+**Provider:** Android Training Company  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Dart']  
+**Exam Code:** ['AND-X01', 'AND-X20', 'AND-X30']  
+**Cost:** [150.0]  
+**Exam Duration:** 90  
+**Number of Questions:** 45  
+**Exam Format:** ['Multiple Choice']  
+**Passing Score:** ['70%']  
+**Delivery Channel:** ['Provider Direct']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['https://androidatc.com/pages/Eng/Online-Proctored-Exam']  
+**Hard Prerequisites:** ['https://androidatc.com/upload/editor_upload/file/Android-Application-Development-v12_Course-Outline.pdf', 'https://androidatc.com/upload/editor_upload/file/Android-Security-Essentials-Course-Outline-v8.pdf', 'https://androidatc.com/upload/editor_upload/file/AND-803_Android-Applications-UI-UX-Design-and-Monetization-Techniques--Course-Outline-.pdf']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://androidatc.com/studentboard/_signin.php']  
+**Practice Test URLs:** ['https://androidatc.com/upload/editor_upload/file/SelfStudy/Android-Certified-Application-Developer-v12_Exam-Sample.pdf', 'https://androidatc.com/upload/editor_upload/file/Android-Security-Essentials_AND-802_Exam_Sample.pdf', 'https://androidatc.com/upload/editor_upload/file/Android-Applications-UI_UX-Design-and-Monetization-Techniques_AND-803_Exam_Sample.pdf']  
+**Study URLs:** ['https://androidatc.com/pages/Eng/Android-Certified-Application-Engineer']
+### Android Certified Trainer
+  
+**Short Name:** Android Certified Trainer  
+**Provider:** Android Training Company  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Dart']  
+**Exam Code:** ['AND-X01', 'AND-X20', 'AND-X30', 'AND-400']  
+**Cost:** [150.0]  
+**Exam Duration:** 90  
+**Number of Questions:** 45  
+**Exam Format:** ['Multiple Choice']  
+**Passing Score:** ['70%']  
+**Delivery Channel:** ['Provider Direct']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['https://androidatc.com/pages/Eng/Online-Proctored-Exam']  
+**Hard Prerequisites:** ['https://androidatc.com/upload/editor_upload/file/Android-Application-Development-v12_Course-Outline.pdf', 'https://androidatc.com/upload/editor_upload/file/Android-Security-Essentials-Course-Outline-v8.pdf', 'https://androidatc.com/upload/editor_upload/file/AND-803_Android-Applications-UI-UX-Design-and-Monetization-Techniques--Course-Outline-.pdf', 'https://androidatc.com/upload/editor_upload/file/Training-Skills-for-Android-ATC-Certified-Trainer.pdf']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://androidatc.com/studentboard/_signin.php']  
+**Practice Test URLs:** ['https://androidatc.com/upload/editor_upload/file/SelfStudy/Android-Certified-Application-Developer-v12_Exam-Sample.pdf', 'https://androidatc.com/upload/editor_upload/file/Android-Security-Essentials_AND-802_Exam_Sample.pdf', 'https://androidatc.com/upload/editor_upload/file/Android-Applications-UI_UX-Design-and-Monetization-Techniques_AND-803_Exam_Sample.pdf']  
+**Study URLs:** ['https://androidatc.com/pages/Eng/Android-Certified-Trainer']
+### Flutter Certified Application Developer
+  
+**Short Name:** Flutter Certified Application Developer  
+**Provider:** Android Training Company  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Dart']  
+**Exam Code:** AFD-200  
+**Cost:** [150.0]  
+**Exam Duration:** 90  
+**Number of Questions:** 45  
+**Exam Format:** ['Multiple Choice']  
+**Passing Score:** ['70%']  
+**Delivery Channel:** ['Provider Direct']  
+**Exam Syllabus:** ['https://androidatc.com/upload/editor_upload/file/Flutter-Application-Development_Course-Outline.pdf']  
+**Testing Policies:** ['https://androidatc.com/pages/Eng/Online-Proctored-Exam']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://androidatc.com/studentboard/_signin.php']  
+**Practice Test URLs:** ['https://androidatc.com/upload/editor_upload/file/Flutter-Certified-Application-Developer_Exam-Sample_AFD-200_English.pdf']  
+**Study URLs:** ['https://androidatc.com/pages/Eng/Flutter-Certified-Application-Developer', 'https://androidatc.com/_paytxn_auto.php?action=ebook&ebook_id=2']
+### Linkedin Learning Dart Training
+  
+**Short Name:** Linkedin Learning Dart Training  
+**Provider:** Linkedin Learning  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Dart']  
+**Exam Code:** NA  
+**Cost:** ['NA']  
+**Exam Duration:** NA  
+**Number of Questions:** NA  
+**Exam Format:** ['video']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['provider direct']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['NA']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://www.linkedin.com/learning/clean-code-with-dart', 'https://www.linkedin.com/learning/flutter-essential-training-build-for-multiple-platforms', 'https://www.linkedin.com/learning/flutter-part-01-introduction', 'https://www.linkedin.com/learning/flutter-part-02-building-apps', 'https://www.linkedin.com/learning/flutter-part-03-flutter-widgets', 'https://www.linkedin.com/learning/flutter-part-04-building-an-app-with-state', 'https://www.linkedin.com/learning/flutter-part-05-flutter-and-dart-packages', 'https://www.linkedin.com/learning/flutter-part-06-modularizing-and-organizing-flutter-code', 'https://www.linkedin.com/learning/flutter-part-07-building-the-ui-or-flutter-part-07-building-uis', 'https://www.linkedin.com/learning/flutter-part-08-powering-your-app-with-live-web-data', 'https://www.linkedin.com/learning/flutter-part-09-dart-cupertino-and-widgets', 'https://www.linkedin.com/learning/flutter-part-10-firebase-cloud-firestore', 'https://www.linkedin.com/learning/learning-google-firebase-for-flutter', 'https://www.linkedin.com/learning/choosing-a-cross-platform-development-tool']
+### VSkills Certified Dart Professional
+  
+**Short Name:** VSkills Certified Dart Professional  
+**Provider:** VSkills.in  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Dart']  
+**Exam Code:** VS-1118  
+**Cost:** [49.0]  
+**Exam Duration:** 60  
+**Number of Questions:** 50  
+**Exam Format:** ['Multiple Choice']  
+**Passing Score:** ['50%']  
+**Delivery Channel:** ['Provider Direct']  
+**Exam Syllabus:** ['https://www.vskills.in/certification/dart-professional-table-of-content']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['https://www.vskills.in/certification/dart-certification-course']  
+**Practice Test URLs:** ['https://www.vskills.in/practice/dart-language']  
+**Study URLs:** ['https://www.vskills.in/interview-questions/dart-language-interview-questions', 'https://www.vskills.in/certification/brochure/vs-1118-certified-dart-professional-brochure.pdf']
 ## FSharp
 
 ### Take your first steps with FSharp
