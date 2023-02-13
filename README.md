@@ -18,6 +18,7 @@ Contents
 	* [Perl](#perl)
 	* [R](#r)
 	* [Rust](#rust)
+	* [Scala](#scala)
 	* [Swift](#swift)
 
 # Programming Languages
@@ -978,6 +979,48 @@ Contents
 **Registration URL:** ['https://learn.microsoft.com/en-us/training/paths/rust-first-steps/']  
 **Practice Test URLs:** ['NA']  
 **Study URLs:** ['NA']
+## Scala
+
+### Coursera Scala Training
+  
+**Short Name:** Coursera Scala Training  
+**Provider:** Coursera  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Scala']  
+**Exam Code:** NA  
+**Cost:** ['NA']  
+**Exam Duration:** NA  
+**Number of Questions:** NA  
+**Exam Format:** ['video']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['provider direct']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['NA']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://www.coursera.org/learn/effective-scala', 'https://www.coursera.org/learn/scala-functional-programming', 'https://www.coursera.org/learn/scala-functional-program-design', 'https://www.coursera.org/specializations/scala', 'https://www.coursera.org/learn/scala-akka-reactive', 'https://www.coursera.org/learn/scala-parallel-programming', 'https://www.coursera.org/learn/scala-spark-big-data', 'https://www.coursera.org/learn/scala-capstone']
+### Linkedin Learning Scala Training
+  
+**Short Name:** Linkedin Learning Scala Training  
+**Provider:** Linkedin Learning  
+**Categories:** ['Programming Languages']  
+**Sub-Categories:** ['Scala']  
+**Exam Code:** NA  
+**Cost:** ['NA']  
+**Exam Duration:** NA  
+**Number of Questions:** NA  
+**Exam Format:** ['video']  
+**Passing Score:** ['NA']  
+**Delivery Channel:** ['provider direct']  
+**Exam Syllabus:** ['NA']  
+**Testing Policies:** ['NA']  
+**Hard Prerequisites:** ['NA']  
+**Soft Prerequisites:** ['NA']  
+**Registration URL:** ['NA']  
+**Practice Test URLs:** ['NA']  
+**Study URLs:** ['https://www.linkedin.com/learning/introduction-to-scala', 'https://www.linkedin.com/learning/scala-essential-training', 'https://www.linkedin.com/learning/scala-essential-training-for-data-science', 'https://www.linkedin.com/learning/quick-start-guide-to-scala', 'https://www.linkedin.com/learning/scala-code-challenges', 'https://www.linkedin.com/learning/learning-jvm-languages-jvm-java-scala']
 ## Swift
 
 ### App Development with Swift Associate

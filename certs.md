@@ -1,35 +1,5 @@
 ### Programming Languages
 
-#### Scala
-
-##### Effective Programming in Scala - Coursera
-
-##### Functional Programming Principles in Scala - Coursera
-
-##### Functional Program Design in Scala - Coursera
-
-##### Functional Programming in Scala Specialization - Coursera
-
-##### Programming Reactive Systems - Coursera
-
-##### Parallel programming - Coursera
-
-##### Big Data Analysis with Scala and Spark - Coursera
-
-##### Functional Programming in Scala Capstone - Coursera
-
-##### Scala Essential Training
-
-##### Introduction to Scala
-
-##### Scala Essential Training for Data Science
-
-##### First Look: Scala 3
-
-##### Scala Code Challenges
-
-##### Learning JVM Languages: JVM, Java, Scala
-
 #### Matlab
 
 ##### MathWorks Certified Matlab Associate
